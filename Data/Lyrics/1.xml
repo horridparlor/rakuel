@@ -1,0 +1,2900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song created-by="" version="" source="" duet="no">
+  <phrase text="OMISTAN TÄN MUN IDOLEILLE" i="1597" time="5.325" pos="0/300,0/216" flags="edited">
+	<letter char="O" i="1897" time="6.325"/>
+	<letter char="M" i="1917" time="6.393"/>
+	<letter char="I" i="1938" time="6.460"/>
+	<letter char="S" i="1958" time="6.529"/>
+	<letter char="T" i="1979" time="6.597"/>
+	<letter char="A" i="1999" time="6.664"/>
+	<letter char="N" i="2019" time="6.733"/>
+	<letter char=" " i="2040" time="6.801"/>
+	<letter char="T" i="2060" time="6.868"/>
+	<letter char="Ä" i="2074" time="6.916"/>
+	<letter char="N" i="2089" time="6.964"/>
+	<letter char=" " i="2103" time="7.011"/>
+	<letter char="M" i="2117" time="7.059"/>
+	<letter char="U" i="2134" time="7.116"/>
+	<letter char="N" i="2152" time="7.174"/>
+	<letter char=" " i="2169" time="7.232"/>
+	<letter char="I" i="2186" time="7.290"/>
+	<letter char="D" i="2216" time="7.389"/>
+	<letter char="O" i="2246" time="7.489"/>
+	<letter char="L" i="2276" time="7.588"/>
+	<letter char="E" i="2306" time="7.688"/>
+	<letter char="I" i="2336" time="7.788"/>
+	<letter char="L" i="2366" time="7.887"/>
+	<letter char="L" i="2396" time="7.987"/>
+	<letter char="E" i="2426" time="8.087" end-time="8.186"/>
+  </phrase>
+  <phrase text="ELASTINEN" i="2200" time="7.336" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="2500" time="8.336"/>
+	<letter char="L" i="2538" time="8.462"/>
+	<letter char="A" i="2576" time="8.589"/>
+	<letter char="S" i="2614" time="8.716"/>
+	<letter char="T" i="2652" time="8.842"/>
+	<letter char="I" i="2690" time="8.969"/>
+	<letter char="N" i="2728" time="9.096"/>
+	<letter char="E" i="2766" time="9.223"/>
+	<letter char="N" i="2804" time="9.349" end-time="9.477"/>
+  </phrase>
+  <phrase text="ELASTINEN" i="2630" time="8.769" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="2930" time="9.769"/>
+	<letter char="L" i="2967" time="9.890"/>
+	<letter char="A" i="3003" time="10.011"/>
+	<letter char="S" i="3039" time="10.132"/>
+	<letter char="T" i="3075" time="10.252"/>
+	<letter char="I" i="3111" time="10.373"/>
+	<letter char="N" i="3148" time="10.494"/>
+	<letter char="E" i="3184" time="10.615"/>
+	<letter char="N" i="3220" time="10.736" end-time="10.856"/>
+  </phrase>
+  <phrase text="CHEEK EMINEM" i="3014" time="10.047" pos="0/300,0/216" flags="edited">
+	<letter char="C" i="3314" time="11.047"/>
+	<letter char="H" i="3335" time="11.119"/>
+	<letter char="E" i="3357" time="11.192"/>
+	<letter char="E" i="3379" time="11.264"/>
+	<letter char="K" i="3401" time="11.337"/>
+	<letter char=" " i="3422" time="11.410"/>
+	<letter char="E" i="3444" time="11.482"/>
+	<letter char="M" i="3485" time="11.618"/>
+	<letter char="I" i="3526" time="11.754"/>
+	<letter char="N" i="3566" time="11.889"/>
+	<letter char="E" i="3607" time="12.026"/>
+	<letter char="M" i="3648" time="12.161" end-time="12.297"/>
+  </phrase>
+  <phrase text="JA JUICE LESKINEN" i="3446" time="11.487" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="3746" time="12.487"/>
+	<letter char="A" i="3769" time="12.566"/>
+	<letter char=" " i="3793" time="12.646"/>
+	<letter char="J" i="3817" time="12.725"/>
+	<letter char="U" i="3838" time="12.795"/>
+	<letter char="I" i="3858" time="12.863"/>
+	<letter char="C" i="3879" time="12.933"/>
+	<letter char="E" i="3900" time="13.001"/>
+	<letter char=" " i="3921" time="13.071"/>
+	<letter char="L" i="3941" time="13.139"/>
+	<letter char="E" i="3968" time="13.229"/>
+	<letter char="S" i="3995" time="13.317"/>
+	<letter char="K" i="4022" time="13.407"/>
+	<letter char="I" i="4048" time="13.496"/>
+	<letter char="N" i="4075" time="13.585"/>
+	<letter char="E" i="4102" time="13.675"/>
+	<letter char="N" i="4129" time="13.764" end-time="13.853"/>
+  </phrase>
+  <phrase text="MEIKÄ ON IKUISESTI" i="3859" time="12.866" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="4159" time="13.866"/>
+	<letter char="E" i="4174" time="13.914"/>
+	<letter char="I" i="4189" time="13.964"/>
+	<letter char="K" i="4203" time="14.011"/>
+	<letter char="Ä" i="4218" time="14.061"/>
+	<letter char=" " i="4232" time="14.109"/>
+	<letter char="O" i="4247" time="14.158"/>
+	<letter char="N" i="4263" time="14.212"/>
+	<letter char=" " i="4280" time="14.267"/>
+	<letter char="I" i="4296" time="14.321"/>
+	<letter char="K" i="4317" time="14.391"/>
+	<letter char="U" i="4338" time="14.461"/>
+	<letter char="I" i="4358" time="14.530"/>
+	<letter char="S" i="4379" time="14.599"/>
+	<letter char="E" i="4400" time="14.668"/>
+	<letter char="S" i="4421" time="14.738"/>
+	<letter char="T" i="4442" time="14.808"/>
+	<letter char="I" i="4463" time="14.877" end-time="14.946"/>
+  </phrase>
+  <phrase text="HERVANNAN KUNINGAS" i="4185" time="13.952" pos="0/300,0/216" flags="edited">
+	<letter char="H" i="4485" time="14.952"/>
+	<letter char="E" i="4504" time="15.015"/>
+	<letter char="R" i="4523" time="15.077"/>
+	<letter char="V" i="4542" time="15.140"/>
+	<letter char="A" i="4560" time="15.202"/>
+	<letter char="N" i="4579" time="15.265"/>
+	<letter char="N" i="4598" time="15.327"/>
+	<letter char="A" i="4617" time="15.390"/>
+	<letter char="N" i="4635" time="15.452"/>
+	<letter char=" " i="4654" time="15.515"/>
+	<letter char="K" i="4673" time="15.577"/>
+	<letter char="U" i="4704" time="15.682"/>
+	<letter char="N" i="4735" time="15.786"/>
+	<letter char="I" i="4767" time="15.891"/>
+	<letter char="N" i="4798" time="15.996"/>
+	<letter char="G" i="4830" time="16.100"/>
+	<letter char="A" i="4861" time="16.205"/>
+	<letter char="S" i="4892" time="16.309" end-time="16.414"/>
+  </phrase>
+  <phrase text="SILLÄ" i="4697" time="15.659" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="4997" time="16.659"/>
+	<letter char="I" i="5026" time="16.756"/>
+	<letter char="L" i="5055" time="16.853"/>
+	<letter char="L" i="5084" time="16.949"/>
+	<letter char="Ä" i="5113" time="17.046" end-time="17.141"/>
+  </phrase>
+  <phrase text="POW-POW POW-POW" i="4932" time="16.440" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="5232" time="17.440"/>
+	<letter char="O" i="5254" time="17.516"/>
+	<letter char="W" i="5277" time="17.592"/>
+	<letter char="-" i="5300" time="17.668"/>
+	<letter char="P" i="5322" time="17.743"/>
+	<letter char="O" i="5345" time="17.820"/>
+	<letter char="W" i="5368" time="17.896"/>
+	<letter char=" " i="5391" time="17.972"/>
+	<letter char="P" i="5414" time="18.048"/>
+	<letter char="O" i="5452" time="18.176"/>
+	<letter char="W" i="5491" time="18.305"/>
+	<letter char="-" i="5530" time="18.434"/>
+	<letter char="P" i="5568" time="18.562"/>
+	<letter char="O" i="5607" time="18.691"/>
+	<letter char="W" i="5645" time="18.820" end-time="18.948"/>
+  </phrase>
+  <phrase text="PA-PA POW-PA PAAH" i="5741" time="19.137" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="6041" time="20.137"/>
+	<letter char="A" i="6058" time="20.196"/>
+	<letter char="-" i="6076" time="20.255"/>
+	<letter char="P" i="6094" time="20.314"/>
+	<letter char="A" i="6111" time="20.373"/>
+	<letter char=" " i="6129" time="20.432"/>
+	<letter char="P" i="6147" time="20.491"/>
+	<letter char="O" i="6173" time="20.577"/>
+	<letter char="W" i="6198" time="20.663"/>
+	<letter char="-" i="6225" time="20.750"/>
+	<letter char="P" i="6250" time="20.836"/>
+	<letter char="A" i="6276" time="20.922"/>
+	<letter char=" " i="6302" time="21.009"/>
+	<letter char="P" i="6328" time="21.095"/>
+	<letter char="A" i="6366" time="21.223"/>
+	<letter char="A" i="6405" time="21.351"/>
+	<letter char="H" i="6443" time="21.478" end-time="21.605"/>
+  </phrase>
+  <phrase text="TOIVON ÄIDILLE SYÖPÄÄ" i="6185" time="20.619" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="6485" time="21.619"/>
+	<letter char="O" i="6500" time="21.669"/>
+	<letter char="I" i="6515" time="21.719"/>
+	<letter char="V" i="6531" time="21.771"/>
+	<letter char="O" i="6546" time="21.821"/>
+	<letter char="N" i="6561" time="21.871"/>
+	<letter char=" " i="6576" time="21.922"/>
+	<letter char="Ä" i="6591" time="21.972"/>
+	<letter char="I" i="6610" time="22.034"/>
+	<letter char="D" i="6629" time="22.097"/>
+	<letter char="I" i="6647" time="22.159"/>
+	<letter char="L" i="6666" time="22.223"/>
+	<letter char="L" i="6685" time="22.286"/>
+	<letter char="E" i="6704" time="22.348"/>
+	<letter char=" " i="6723" time="22.411"/>
+	<letter char="S" i="6742" time="22.474"/>
+	<letter char="Y" i="6790" time="22.634"/>
+	<letter char="Ö" i="6838" time="22.796"/>
+	<letter char="P" i="6886" time="22.956"/>
+	<letter char="Ä" i="6935" time="23.117"/>
+	<letter char="Ä" i="6983" time="23.279" end-time="23.439"/>
+  </phrase>
+  <phrase text="TOIVON LAPSIKUOLEMAA" i="6957" time="23.193" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="7257" time="24.193"/>
+	<letter char="O" i="7275" time="24.251"/>
+	<letter char="I" i="7292" time="24.309"/>
+	<letter char="V" i="7310" time="24.368"/>
+	<letter char="O" i="7327" time="24.426"/>
+	<letter char="N" i="7344" time="24.483"/>
+	<letter char=" " i="7362" time="24.542"/>
+	<letter char="L" i="7380" time="24.601"/>
+	<letter char="A" i="7411" time="24.706"/>
+	<letter char="P" i="7443" time="24.812"/>
+	<letter char="S" i="7475" time="24.917"/>
+	<letter char="I" i="7506" time="25.023"/>
+	<letter char="K" i="7538" time="25.128"/>
+	<letter char="U" i="7570" time="25.234"/>
+	<letter char="O" i="7602" time="25.340"/>
+	<letter char="L" i="7633" time="25.445"/>
+	<letter char="E" i="7665" time="25.551"/>
+	<letter char="M" i="7696" time="25.656"/>
+	<letter char="A" i="7728" time="25.762"/>
+	<letter char="A" i="7760" time="25.867" end-time="25.973"/>
+  </phrase>
+  <phrase text="TOIVON ET VENÄJÄ EI HYÖKKÄÄ" i="7785" time="25.952" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="8085" time="26.952"/>
+	<letter char="O" i="8101" time="27.004"/>
+	<letter char="I" i="8116" time="27.054"/>
+	<letter char="V" i="8131" time="27.106"/>
+	<letter char="O" i="8147" time="27.158"/>
+	<letter char="N" i="8162" time="27.208"/>
+	<letter char=" " i="8178" time="27.260"/>
+	<letter char="E" i="8193" time="27.312"/>
+	<letter char="T" i="8213" time="27.377"/>
+	<letter char=" " i="8232" time="27.443"/>
+	<letter char="V" i="8252" time="27.509"/>
+	<letter char="E" i="8273" time="27.578"/>
+	<letter char="N" i="8294" time="27.647"/>
+	<letter char="Ä" i="8314" time="27.716"/>
+	<letter char="J" i="8335" time="27.785"/>
+	<letter char="Ä" i="8356" time="27.854"/>
+	<letter char=" " i="8376" time="27.923"/>
+	<letter char="E" i="8397" time="27.991"/>
+	<letter char="I" i="8416" time="28.055"/>
+	<letter char=" " i="8435" time="28.118"/>
+	<letter char="H" i="8454" time="28.182"/>
+	<letter char="Y" i="8489" time="28.297"/>
+	<letter char="Ö" i="8524" time="28.414"/>
+	<letter char="K" i="8559" time="28.531"/>
+	<letter char="K" i="8593" time="28.646"/>
+	<letter char="Ä" i="8628" time="28.763"/>
+	<letter char="Ä" i="8663" time="28.880" end-time="28.996"/>
+  </phrase>
+  <phrase text="KENEN PUOLELLA MÄ OONKAAN" i="8668" time="28.894" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="8968" time="29.894"/>
+	<letter char="E" i="8985" time="29.951"/>
+	<letter char="N" i="9003" time="30.010"/>
+	<letter char="E" i="9020" time="30.067"/>
+	<letter char="N" i="9037" time="30.126"/>
+	<letter char=" " i="9055" time="30.184"/>
+	<letter char="P" i="9072" time="30.241"/>
+	<letter char="U" i="9091" time="30.304"/>
+	<letter char="O" i="9109" time="30.365"/>
+	<letter char="L" i="9128" time="30.427"/>
+	<letter char="E" i="9146" time="30.490"/>
+	<letter char="L" i="9165" time="30.551"/>
+	<letter char="L" i="9184" time="30.614"/>
+	<letter char="A" i="9202" time="30.675"/>
+	<letter char=" " i="9221" time="30.737"/>
+	<letter char="M" i="9239" time="30.799"/>
+	<letter char="Ä" i="9254" time="30.849"/>
+	<letter char=" " i="9269" time="30.898"/>
+	<letter char="O" i="9284" time="30.947"/>
+	<letter char="O" i="9322" time="31.074"/>
+	<letter char="N" i="9360" time="31.202"/>
+	<letter char="K" i="9398" time="31.328"/>
+	<letter char="A" i="9436" time="31.456"/>
+	<letter char="A" i="9474" time="31.583"/>
+	<letter char="N" i="9512" time="31.709" end-time="31.837"/>
+  </phrase>
+  <phrase text="HELPOT AJAT" i="9491" time="31.639" pos="0/300,0/216" flags="edited">
+	<letter char="H" i="9791" time="32.639"/>
+	<letter char="E" i="9809" time="32.698"/>
+	<letter char="L" i="9827" time="32.759"/>
+	<letter char="P" i="9845" time="32.820"/>
+	<letter char="O" i="9863" time="32.879"/>
+	<letter char="T" i="9881" time="32.940"/>
+	<letter char=" " i="9900" time="33.000"/>
+	<letter char="A" i="9918" time="33.060"/>
+	<letter char="J" i="9965" time="33.217"/>
+	<letter char="A" i="10011" time="33.373"/>
+	<letter char="T" i="10058" time="33.528" end-time="33.685"/>
+  </phrase>
+  <phrase text="TEKEE HEIKKOJA MIEHIÄ" i="9917" time="33.059" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="10217" time="34.059"/>
+	<letter char="E" i="10237" time="34.126"/>
+	<letter char="K" i="10258" time="34.194"/>
+	<letter char="E" i="10278" time="34.263"/>
+	<letter char="E" i="10299" time="34.330"/>
+	<letter char=" " i="10319" time="34.399"/>
+	<letter char="H" i="10339" time="34.466"/>
+	<letter char="E" i="10362" time="34.541"/>
+	<letter char="I" i="10384" time="34.614"/>
+	<letter char="K" i="10406" time="34.689"/>
+	<letter char="K" i="10428" time="34.762"/>
+	<letter char="O" i="10450" time="34.836"/>
+	<letter char="J" i="10472" time="34.910"/>
+	<letter char="A" i="10495" time="34.984"/>
+	<letter char=" " i="10517" time="35.058"/>
+	<letter char="M" i="10539" time="35.132"/>
+	<letter char="I" i="10575" time="35.253"/>
+	<letter char="E" i="10612" time="35.374"/>
+	<letter char="H" i="10648" time="35.495"/>
+	<letter char="I" i="10685" time="35.617"/>
+	<letter char="Ä" i="10721" time="35.738" end-time="35.859"/>
+  </phrase>
+  <phrase text="KOVAT AJAT" i="10463" time="34.879" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="10763" time="35.879"/>
+	<letter char="O" i="10782" time="35.942"/>
+	<letter char="V" i="10801" time="36.004"/>
+	<letter char="A" i="10819" time="36.066"/>
+	<letter char="T" i="10838" time="36.129"/>
+	<letter char=" " i="10857" time="36.191"/>
+	<letter char="A" i="10875" time="36.253"/>
+	<letter char="J" i="10910" time="36.369"/>
+	<letter char="A" i="10945" time="36.484"/>
+	<letter char="T" i="10979" time="36.600" end-time="36.715"/>
+  </phrase>
+  <phrase text="NE TEKEE MEISTÄ MIEHIÄ" i="10722" time="35.742" pos="0/300,0/216" flags="edited">
+	<letter char="N" i="11022" time="36.742"/>
+	<letter char="E" i="11037" time="36.793"/>
+	<letter char=" " i="11052" time="36.843"/>
+	<letter char="T" i="11067" time="36.893"/>
+	<letter char="E" i="11085" time="36.950"/>
+	<letter char="K" i="11102" time="37.008"/>
+	<letter char="E" i="11119" time="37.066"/>
+	<letter char="E" i="11136" time="37.123"/>
+	<letter char=" " i="11154" time="37.181"/>
+	<letter char="M" i="11171" time="37.238"/>
+	<letter char="E" i="11193" time="37.311"/>
+	<letter char="I" i="11215" time="37.384"/>
+	<letter char="S" i="11237" time="37.457"/>
+	<letter char="T" i="11258" time="37.529"/>
+	<letter char="Ä" i="11280" time="37.602"/>
+	<letter char=" " i="11302" time="37.675"/>
+	<letter char="M" i="11324" time="37.748"/>
+	<letter char="I" i="11371" time="37.906"/>
+	<letter char="E" i="11419" time="38.065"/>
+	<letter char="H" i="11466" time="38.223"/>
+	<letter char="I" i="11514" time="38.382"/>
+	<letter char="Ä" i="11562" time="38.540" end-time="38.699"/>
+  </phrase>
+  <phrase text="KAIKKI PÄÄTYY LOPULTA HAUTAAN" i="11395" time="37.984" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="11695" time="38.984"/>
+	<letter char="A" i="11710" time="39.034"/>
+	<letter char="I" i="11724" time="39.083"/>
+	<letter char="K" i="11739" time="39.133"/>
+	<letter char="K" i="11754" time="39.182"/>
+	<letter char="I" i="11769" time="39.232"/>
+	<letter char=" " i="11784" time="39.281"/>
+	<letter char="P" i="11799" time="39.331"/>
+	<letter char="Ä" i="11825" time="39.419"/>
+	<letter char="Ä" i="11852" time="39.507"/>
+	<letter char="T" i="11878" time="39.596"/>
+	<letter char="Y" i="11905" time="39.684"/>
+	<letter char="Y" i="11931" time="39.772"/>
+	<letter char=" " i="11958" time="39.860"/>
+	<letter char="L" i="11984" time="39.949"/>
+	<letter char="O" i="12006" time="40.021"/>
+	<letter char="P" i="12027" time="40.093"/>
+	<letter char="U" i="12049" time="40.166"/>
+	<letter char="L" i="12071" time="40.238"/>
+	<letter char="T" i="12093" time="40.310"/>
+	<letter char="A" i="12114" time="40.383"/>
+	<letter char=" " i="12136" time="40.455"/>
+	<letter char="H" i="12158" time="40.527"/>
+	<letter char="A" i="12190" time="40.635"/>
+	<letter char="U" i="12223" time="40.745"/>
+	<letter char="T" i="12255" time="40.853"/>
+	<letter char="A" i="12288" time="40.962"/>
+	<letter char="A" i="12320" time="41.070"/>
+	<letter char="N" i="12353" time="41.179" end-time="41.288"/>
+  </phrase>
+  <phrase text="JOILLAKIN ON SIIHEN SYYKIN" i="12092" time="40.308" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="12392" time="41.308"/>
+	<letter char="O" i="12412" time="41.374"/>
+	<letter char="I" i="12431" time="41.440"/>
+	<letter char="L" i="12451" time="41.506"/>
+	<letter char="L" i="12471" time="41.572"/>
+	<letter char="A" i="12491" time="41.637"/>
+	<letter char="K" i="12510" time="41.703"/>
+	<letter char="I" i="12530" time="41.769"/>
+	<letter char="N" i="12550" time="41.835"/>
+	<letter char=" " i="12570" time="41.901"/>
+	<letter char="O" i="12590" time="41.967"/>
+	<letter char="N" i="12604" time="42.016"/>
+	<letter char=" " i="12619" time="42.064"/>
+	<letter char="S" i="12633" time="42.113"/>
+	<letter char="I" i="12647" time="42.158"/>
+	<letter char="I" i="12661" time="42.204"/>
+	<letter char="H" i="12674" time="42.248"/>
+	<letter char="E" i="12688" time="42.294"/>
+	<letter char="N" i="12701" time="42.339"/>
+	<letter char=" " i="12715" time="42.384"/>
+	<letter char="S" i="12728" time="42.429"/>
+	<letter char="Y" i="12753" time="42.513"/>
+	<letter char="Y" i="12778" time="42.595"/>
+	<letter char="K" i="12803" time="42.678"/>
+	<letter char="I" i="12827" time="42.760"/>
+	<letter char="N" i="12852" time="42.842" end-time="42.925"/>
+  </phrase>
+  <phrase text="ET HALUU KETÄÄN JOKA NAURAA" i="12612" time="42.040" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="12912" time="43.040"/>
+	<letter char="T" i="12927" time="43.090"/>
+	<letter char=" " i="12941" time="43.140"/>
+	<letter char="H" i="12956" time="43.190"/>
+	<letter char="A" i="12972" time="43.242"/>
+	<letter char="L" i="12988" time="43.294"/>
+	<letter char="U" i="13003" time="43.346"/>
+	<letter char="U" i="13019" time="43.398"/>
+	<letter char=" " i="13035" time="43.450"/>
+	<letter char="K" i="13050" time="43.502"/>
+	<letter char="E" i="13065" time="43.552"/>
+	<letter char="T" i="13081" time="43.604"/>
+	<letter char="Ä" i="13096" time="43.654"/>
+	<letter char="Ä" i="13111" time="43.705"/>
+	<letter char="N" i="13126" time="43.755"/>
+	<letter char=" " i="13141" time="43.806"/>
+	<letter char="J" i="13156" time="43.856"/>
+	<letter char="O" i="13178" time="43.927"/>
+	<letter char="K" i="13199" time="43.997"/>
+	<letter char="A" i="13220" time="44.068"/>
+	<letter char=" " i="13241" time="44.139"/>
+	<letter char="N" i="13262" time="44.209"/>
+	<letter char="A" i="13299" time="44.331"/>
+	<letter char="U" i="13335" time="44.451"/>
+	<letter char="R" i="13371" time="44.573"/>
+	<letter char="A" i="13408" time="44.694"/>
+	<letter char="A" i="13444" time="44.815" end-time="44.936"/>
+  </phrase>
+  <phrase text="KAIKKI MENEE VIELÄ HYVIN" i="13188" time="43.963" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="13488" time="44.963"/>
+	<letter char="A" i="13500" time="45.003"/>
+	<letter char="I" i="13512" time="45.042"/>
+	<letter char="K" i="13524" time="45.082"/>
+	<letter char="K" i="13536" time="45.121"/>
+	<letter char="I" i="13548" time="45.161"/>
+	<letter char=" " i="13560" time="45.201"/>
+	<letter char="M" i="13572" time="45.240"/>
+	<letter char="E" i="13588" time="45.296"/>
+	<letter char="N" i="13605" time="45.352"/>
+	<letter char="E" i="13622" time="45.408"/>
+	<letter char="E" i="13639" time="45.464"/>
+	<letter char=" " i="13656" time="45.520"/>
+	<letter char="V" i="13672" time="45.575"/>
+	<letter char="I" i="13689" time="45.633"/>
+	<letter char="E" i="13707" time="45.691"/>
+	<letter char="L" i="13724" time="45.748"/>
+	<letter char="Ä" i="13741" time="45.806"/>
+	<letter char=" " i="13758" time="45.863"/>
+	<letter char="H" i="13776" time="45.921"/>
+	<letter char="Y" i="13799" time="45.999"/>
+	<letter char="V" i="13822" time="46.076"/>
+	<letter char="I" i="13846" time="46.154"/>
+	<letter char="N" i="13869" time="46.232" end-time="46.308"/>
+  </phrase>
+  <phrase text="KUKA SITTEN KANSSAS ITKEE" i="13596" time="45.322" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="13896" time="46.322"/>
+	<letter char="U" i="13914" time="46.381"/>
+	<letter char="K" i="13931" time="46.438"/>
+	<letter char="A" i="13948" time="46.496"/>
+	<letter char=" " i="13966" time="46.555"/>
+	<letter char="S" i="13983" time="46.613"/>
+	<letter char="I" i="13999" time="46.665"/>
+	<letter char="T" i="14014" time="46.716"/>
+	<letter char="T" i="14030" time="46.768"/>
+	<letter char="E" i="14045" time="46.819"/>
+	<letter char="N" i="14061" time="46.871"/>
+	<letter char=" " i="14076" time="46.923"/>
+	<letter char="K" i="14092" time="46.974"/>
+	<letter char="A" i="14106" time="47.021"/>
+	<letter char="N" i="14119" time="47.066"/>
+	<letter char="S" i="14133" time="47.112"/>
+	<letter char="S" i="14147" time="47.158"/>
+	<letter char="A" i="14161" time="47.204"/>
+	<letter char="S" i="14174" time="47.249"/>
+	<letter char=" " i="14188" time="47.296"/>
+	<letter char="I" i="14202" time="47.341"/>
+	<letter char="T" i="14229" time="47.430"/>
+	<letter char="K" i="14255" time="47.518"/>
+	<letter char="E" i="14281" time="47.606"/>
+	<letter char="E" i="14308" time="47.694" end-time="47.783"/>
+  </phrase>
+  <phrase text="KUN KAIKKI KÄÄNTYY PASKAKSI" i="14073" time="46.911" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="14373" time="47.911"/>
+	<letter char="U" i="14385" time="47.951"/>
+	<letter char="N" i="14397" time="47.992"/>
+	<letter char=" " i="14409" time="48.033"/>
+	<letter char="K" i="14422" time="48.074"/>
+	<letter char="A" i="14434" time="48.114"/>
+	<letter char="I" i="14446" time="48.155"/>
+	<letter char="K" i="14459" time="48.197"/>
+	<letter char="K" i="14471" time="48.237"/>
+	<letter char="I" i="14483" time="48.278"/>
+	<letter char=" " i="14495" time="48.319"/>
+	<letter char="K" i="14508" time="48.360"/>
+	<letter char="Ä" i="14523" time="48.412"/>
+	<letter char="Ä" i="14538" time="48.463"/>
+	<letter char="N" i="14554" time="48.516"/>
+	<letter char="T" i="14570" time="48.567"/>
+	<letter char="Y" i="14585" time="48.619"/>
+	<letter char="Y" i="14600" time="48.670"/>
+	<letter char=" " i="14616" time="48.723"/>
+	<letter char="P" i="14632" time="48.775"/>
+	<letter char="A" i="14650" time="48.834"/>
+	<letter char="S" i="14667" time="48.893"/>
+	<letter char="K" i="14685" time="48.953"/>
+	<letter char="A" i="14703" time="49.013"/>
+	<letter char="K" i="14721" time="49.072"/>
+	<letter char="S" i="14739" time="49.132"/>
+	<letter char="I" i="14757" time="49.191" end-time="49.250"/>
+  </phrase>
+  <phrase text="SUN PITÄÄ OLLA SITKEE" i="14479" time="48.264" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="14779" time="49.264"/>
+	<letter char="U" i="14794" time="49.315"/>
+	<letter char="N" i="14809" time="49.366"/>
+	<letter char=" " i="14825" time="49.417"/>
+	<letter char="P" i="14840" time="49.468"/>
+	<letter char="I" i="14856" time="49.523"/>
+	<letter char="T" i="14873" time="49.579"/>
+	<letter char="Ä" i="14890" time="49.634"/>
+	<letter char="Ä" i="14906" time="49.690"/>
+	<letter char=" " i="14923" time="49.745"/>
+	<letter char="O" i="14940" time="49.801"/>
+	<letter char="L" i="14958" time="49.860"/>
+	<letter char="L" i="14975" time="49.920"/>
+	<letter char="A" i="14993" time="49.979"/>
+	<letter char=" " i="15011" time="50.039"/>
+	<letter char="S" i="15029" time="50.100"/>
+	<letter char="I" i="15058" time="50.195"/>
+	<letter char="T" i="15087" time="50.291"/>
+	<letter char="K" i="15116" time="50.388"/>
+	<letter char="E" i="15145" time="50.484"/>
+	<letter char="E" i="15174" time="50.581" end-time="50.677"/>
+  </phrase>
+  <phrase text="EN HALUIS HAUKKUU LAISKAKSI" i="14911" time="49.704" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="15211" time="50.704"/>
+	<letter char="N" i="15227" time="50.759"/>
+	<letter char=" " i="15244" time="50.814"/>
+	<letter char="H" i="15260" time="50.868"/>
+	<letter char="A" i="15274" time="50.915"/>
+	<letter char="L" i="15288" time="50.962"/>
+	<letter char="U" i="15302" time="51.008"/>
+	<letter char="I" i="15316" time="51.054"/>
+	<letter char="S" i="15329" time="51.100"/>
+	<letter char=" " i="15344" time="51.147"/>
+	<letter char="H" i="15357" time="51.193"/>
+	<letter char="A" i="15371" time="51.239"/>
+	<letter char="U" i="15385" time="51.284"/>
+	<letter char="K" i="15399" time="51.330"/>
+	<letter char="K" i="15412" time="51.376"/>
+	<letter char="U" i="15426" time="51.422"/>
+	<letter char="U" i="15440" time="51.468"/>
+	<letter char=" " i="15454" time="51.514"/>
+	<letter char="L" i="15468" time="51.560"/>
+	<letter char="A" i="15485" time="51.620"/>
+	<letter char="I" i="15503" time="51.678"/>
+	<letter char="S" i="15521" time="51.737"/>
+	<letter char="K" i="15538" time="51.796"/>
+	<letter char="A" i="15556" time="51.855"/>
+	<letter char="K" i="15574" time="51.914"/>
+	<letter char="S" i="15591" time="51.972"/>
+	<letter char="I" i="15609" time="52.031" end-time="52.090"/>
+  </phrase>
+  <phrase text="MUT TÄYTYY MYÖNTÄÄ" i="15331" time="51.104" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="15631" time="52.104"/>
+	<letter char="U" i="15644" time="52.149"/>
+	<letter char="T" i="15658" time="52.195"/>
+	<letter char=" " i="15672" time="52.240"/>
+	<letter char="T" i="15686" time="52.287"/>
+	<letter char="Ä" i="15699" time="52.333"/>
+	<letter char="Y" i="15714" time="52.381"/>
+	<letter char="T" i="15728" time="52.429"/>
+	<letter char="Y" i="15743" time="52.477"/>
+	<letter char="Y" i="15757" time="52.524"/>
+	<letter char=" " i="15771" time="52.572"/>
+	<letter char="M" i="15785" time="52.620"/>
+	<letter char="Y" i="15808" time="52.695"/>
+	<letter char="Ö" i="15831" time="52.771"/>
+	<letter char="N" i="15853" time="52.846"/>
+	<letter char="T" i="15876" time="52.922"/>
+	<letter char="Ä" i="15899" time="52.998"/>
+	<letter char="Ä" i="15922" time="53.074" end-time="53.150"/>
+  </phrase>
+  <phrase text="OOT VÄLTELLY OMAA OSAASI" i="15649" time="52.164" pos="0/300,0/216" flags="edited">
+	<letter char="O" i="15949" time="53.164"/>
+	<letter char="O" i="15963" time="53.213"/>
+	<letter char="T" i="15979" time="53.264"/>
+	<letter char=" " i="15994" time="53.314"/>
+	<letter char="V" i="16009" time="53.364"/>
+	<letter char="Ä" i="16029" time="53.432"/>
+	<letter char="L" i="16050" time="53.500"/>
+	<letter char="T" i="16070" time="53.568"/>
+	<letter char="E" i="16091" time="53.638"/>
+	<letter char="L" i="16111" time="53.706"/>
+	<letter char="L" i="16132" time="53.774"/>
+	<letter char="Y" i="16152" time="53.843"/>
+	<letter char=" " i="16173" time="53.911"/>
+	<letter char="O" i="16193" time="53.979"/>
+	<letter char="M" i="16214" time="54.050"/>
+	<letter char="A" i="16236" time="54.121"/>
+	<letter char="A" i="16257" time="54.191"/>
+	<letter char=" " i="16278" time="54.262"/>
+	<letter char="O" i="16299" time="54.332"/>
+	<letter char="S" i="16335" time="54.450"/>
+	<letter char="A" i="16369" time="54.566"/>
+	<letter char="A" i="16404" time="54.682"/>
+	<letter char="S" i="16439" time="54.800"/>
+	<letter char="I" i="16474" time="54.916" end-time="55.032"/>
+  </phrase>
+  <phrase text="VOIT ITSEESI VAAN SYYTTÄÄ" i="16260" time="54.202" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="16560" time="55.202"/>
+	<letter char="O" i="16575" time="55.251"/>
+	<letter char="I" i="16589" time="55.300"/>
+	<letter char="T" i="16604" time="55.349"/>
+	<letter char=" " i="16619" time="55.398"/>
+	<letter char="I" i="16634" time="55.447"/>
+	<letter char="T" i="16648" time="55.496"/>
+	<letter char="S" i="16663" time="55.545"/>
+	<letter char="E" i="16678" time="55.594"/>
+	<letter char="E" i="16692" time="55.643"/>
+	<letter char="S" i="16707" time="55.692"/>
+	<letter char="I" i="16722" time="55.741"/>
+	<letter char=" " i="16737" time="55.790"/>
+	<letter char="V" i="16751" time="55.839"/>
+	<letter char="A" i="16766" time="55.889"/>
+	<letter char="A" i="16781" time="55.937"/>
+	<letter char="N" i="16796" time="55.987"/>
+	<letter char=" " i="16811" time="56.037"/>
+	<letter char="S" i="16825" time="56.085"/>
+	<letter char="Y" i="16859" time="56.197"/>
+	<letter char="Y" i="16892" time="56.309"/>
+	<letter char="T" i="16926" time="56.421"/>
+	<letter char="T" i="16959" time="56.531"/>
+	<letter char="Ä" i="16992" time="56.643"/>
+	<letter char="Ä" i="17026" time="56.755" end-time="56.867"/>
+  </phrase>
+  <phrase text="TÄÄ ON SUN POW-POW OMA SOTASI" i="16786" time="55.955" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="17086" time="56.955"/>
+	<letter char="Ä" i="17100" time="57.000"/>
+	<letter char="Ä" i="17114" time="57.047"/>
+	<letter char=" " i="17127" time="57.093"/>
+	<letter char="O" i="17141" time="57.138"/>
+	<letter char="N" i="17155" time="57.186"/>
+	<letter char=" " i="17169" time="57.233"/>
+	<letter char="S" i="17184" time="57.281"/>
+	<letter char="U" i="17200" time="57.334"/>
+	<letter char="N" i="17215" time="57.386"/>
+	<letter char=" " i="17231" time="57.439"/>
+	<letter char="P" i="17247" time="57.492"/>
+	<letter char="O" i="17274" time="57.581"/>
+	<letter char="W" i="17300" time="57.670"/>
+	<letter char="-" i="17327" time="57.759"/>
+	<letter char="P" i="17354" time="57.849"/>
+	<letter char="O" i="17381" time="57.938"/>
+	<letter char="W" i="17407" time="58.026"/>
+	<letter char=" " i="17434" time="58.115"/>
+	<letter char="O" i="17461" time="58.205"/>
+	<letter char="M" i="17480" time="58.269"/>
+	<letter char="A" i="17500" time="58.335"/>
+	<letter char=" " i="17519" time="58.399"/>
+	<letter char="S" i="17538" time="58.463"/>
+	<letter char="O" i="17569" time="58.564"/>
+	<letter char="T" i="17599" time="58.664"/>
+	<letter char="A" i="17629" time="58.764"/>
+	<letter char="S" i="17659" time="58.865"/>
+	<letter char="I" i="17689" time="58.965" end-time="59.066"/>
+  </phrase>
+  <phrase text="VASTUUSI SATTUUKIN" i="17428" time="58.095" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="17728" time="59.095"/>
+	<letter char="A" i="17745" time="59.151"/>
+	<letter char="S" i="17761" time="59.205"/>
+	<letter char="T" i="17778" time="59.261"/>
+	<letter char="U" i="17794" time="59.316"/>
+	<letter char="U" i="17810" time="59.370"/>
+	<letter char="S" i="17827" time="59.426"/>
+	<letter char="I" i="17844" time="59.481"/>
+	<letter char=" " i="17861" time="59.537"/>
+	<letter char="S" i="17877" time="59.591"/>
+	<letter char="A" i="17903" time="59.679"/>
+	<letter char="T" i="17930" time="59.767"/>
+	<letter char="T" i="17955" time="59.853"/>
+	<letter char="U" i="17982" time="59.941"/>
+	<letter char="U" i="18008" time="60.029"/>
+	<letter char="K" i="18034" time="60.116"/>
+	<letter char="I" i="18060" time="60.203"/>
+	<letter char="N" i="18087" time="60.291" end-time="60.379"/>
+  </phrase>
+  <phrase text="KOHTUULLISESTI TUNTUUKIN" i="17823" time="59.411" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="18123" time="60.411"/>
+	<letter char="O" i="18141" time="60.470"/>
+	<letter char="H" i="18158" time="60.528"/>
+	<letter char="T" i="18175" time="60.586"/>
+	<letter char="U" i="18193" time="60.646"/>
+	<letter char="U" i="18211" time="60.704"/>
+	<letter char="L" i="18228" time="60.763"/>
+	<letter char="L" i="18246" time="60.821"/>
+	<letter char="I" i="18264" time="60.880"/>
+	<letter char="S" i="18281" time="60.938"/>
+	<letter char="E" i="18299" time="60.997"/>
+	<letter char="S" i="18316" time="61.056"/>
+	<letter char="T" i="18334" time="61.114"/>
+	<letter char="I" i="18351" time="61.173"/>
+	<letter char=" " i="18369" time="61.231"/>
+	<letter char="T" i="18387" time="61.290"/>
+	<letter char="U" i="18419" time="61.397"/>
+	<letter char="N" i="18450" time="61.502"/>
+	<letter char="T" i="18482" time="61.609"/>
+	<letter char="U" i="18514" time="61.715"/>
+	<letter char="U" i="18546" time="61.822"/>
+	<letter char="K" i="18578" time="61.928"/>
+	<letter char="I" i="18610" time="62.035"/>
+	<letter char="N" i="18641" time="62.140" end-time="62.248"/>
+  </phrase>
+  <phrase text="TUTTU TUHAHDUS TURHAA TUHKAA" i="18455" time="61.519" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="18755" time="62.519"/>
+	<letter char="U" i="18777" time="62.593"/>
+	<letter char="T" i="18800" time="62.667"/>
+	<letter char="T" i="18822" time="62.741"/>
+	<letter char="U" i="18844" time="62.814"/>
+	<letter char=" " i="18866" time="62.889"/>
+	<letter char="T" i="18888" time="62.962"/>
+	<letter char="U" i="18913" time="63.045"/>
+	<letter char="H" i="18938" time="63.128"/>
+	<letter char="A" i="18962" time="63.210"/>
+	<letter char="H" i="18987" time="63.293"/>
+	<letter char="D" i="19012" time="63.376"/>
+	<letter char="U" i="19037" time="63.459"/>
+	<letter char="S" i="19062" time="63.541"/>
+	<letter char=" " i="19087" time="63.624"/>
+	<letter char="T" i="19112" time="63.707"/>
+	<letter char="U" i="19140" time="63.803"/>
+	<letter char="R" i="19169" time="63.899"/>
+	<letter char="H" i="19198" time="63.996"/>
+	<letter char="A" i="19227" time="64.092"/>
+	<letter char="A" i="19256" time="64.188"/>
+	<letter char=" " i="19285" time="64.285"/>
+	<letter char="T" i="19314" time="64.381"/>
+	<letter char="U" i="19353" time="64.512"/>
+	<letter char="H" i="19393" time="64.644"/>
+	<letter char="K" i="19432" time="64.775"/>
+	<letter char="A" i="19471" time="64.906"/>
+	<letter char="A" i="19511" time="65.038" end-time="65.169"/>
+  </phrase>
+  <phrase text="TULTA TULITTAA TUHAT VUOTTA" i="19252" time="64.176" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="19552" time="65.176"/>
+	<letter char="U" i="19582" time="65.275"/>
+	<letter char="L" i="19612" time="65.375"/>
+	<letter char="T" i="19642" time="65.475"/>
+	<letter char="A" i="19672" time="65.574"/>
+	<letter char=" " i="19702" time="65.675"/>
+	<letter char="T" i="19732" time="65.774"/>
+	<letter char="U" i="19756" time="65.856"/>
+	<letter char="L" i="19781" time="65.939"/>
+	<letter char="I" i="19806" time="66.022"/>
+	<letter char="T" i="19831" time="66.105"/>
+	<letter char="T" i="19856" time="66.187"/>
+	<letter char="A" i="19880" time="66.270"/>
+	<letter char="A" i="19905" time="66.352"/>
+	<letter char=" " i="19930" time="66.435"/>
+	<letter char="T" i="19955" time="66.518"/>
+	<letter char="U" i="19976" time="66.589"/>
+	<letter char="H" i="19998" time="66.662"/>
+	<letter char="A" i="20019" time="66.733"/>
+	<letter char="T" i="20041" time="66.806"/>
+	<letter char=" " i="20063" time="66.877"/>
+	<letter char="V" i="20084" time="66.949"/>
+	<letter char="U" i="20113" time="67.044"/>
+	<letter char="O" i="20141" time="67.139"/>
+	<letter char="T" i="20169" time="67.233"/>
+	<letter char="T" i="20198" time="67.328"/>
+	<letter char="A" i="20226" time="67.423" end-time="67.518"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="20141" time="67.138" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="20441" time="68.138"/>
+	<letter char="N" i="20459" time="68.198"/>
+	<letter char=" " i="20477" time="68.258"/>
+	<letter char="E" i="20495" time="68.318"/>
+	<letter char="T" i="20513" time="68.379"/>
+	<letter char="S" i="20532" time="68.441"/>
+	<letter char="I" i="20550" time="68.503"/>
+	<letter char=" " i="20569" time="68.566"/>
+	<letter char="T" i="20588" time="68.628"/>
+	<letter char="U" i="20623" time="68.746"/>
+	<letter char="H" i="20658" time="68.863"/>
+	<letter char="K" i="20694" time="68.981"/>
+	<letter char="I" i="20729" time="69.099"/>
+	<letter char="M" i="20765" time="69.217"/>
+	<letter char="O" i="20800" time="69.335"/>
+	<letter char="T" i="20835" time="69.453"/>
+	<letter char="A" i="20871" time="69.571"/>
+	<letter char="R" i="20906" time="69.688"/>
+	<letter char="I" i="20941" time="69.806"/>
+	<letter char="N" i="20977" time="69.924"/>
+	<letter char="A" i="21012" time="70.042"/>
+	<letter char="A" i="21048" time="70.160" end-time="70.278"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="20960" time="69.869" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="21260" time="70.869"/>
+	<letter char="A" i="21271" time="70.906"/>
+	<letter char="A" i="21282" time="70.941"/>
+	<letter char="N" i="21293" time="70.977"/>
+	<letter char=" " i="21304" time="71.014"/>
+	<letter char="P" i="21314" time="71.049"/>
+	<letter char="A" i="21330" time="71.102"/>
+	<letter char="L" i="21345" time="71.153"/>
+	<letter char="J" i="21361" time="71.205"/>
+	<letter char="O" i="21377" time="71.257"/>
+	<letter char="N" i="21392" time="71.309"/>
+	<letter char=" " i="21408" time="71.362"/>
+	<letter char="K" i="21423" time="71.413"/>
+	<letter char="I" i="21449" time="71.498"/>
+	<letter char="P" i="21474" time="71.583"/>
+	<letter char="U" i="21500" time="71.668"/>
+	<letter char="A" i="21525" time="71.753"/>
+	<letter char=" " i="21551" time="71.837"/>
+	<letter char="J" i="21576" time="71.922"/>
+	<letter char="A" i="21593" time="71.979"/>
+	<letter char=" " i="21610" time="72.035"/>
+	<letter char="K" i="21627" time="72.092"/>
+	<letter char="U" i="21672" time="72.242"/>
+	<letter char="O" i="21717" time="72.393"/>
+	<letter char="L" i="21762" time="72.542"/>
+	<letter char="E" i="21807" time="72.692"/>
+	<letter char="M" i="21852" time="72.843"/>
+	<letter char="A" i="21897" time="72.992"/>
+	<letter char="A" i="21942" time="73.143" end-time="73.293"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="21792" time="72.641" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="22092" time="73.641"/>
+	<letter char="O" i="22104" time="73.681"/>
+	<letter char="S" i="22116" time="73.721"/>
+	<letter char=" " i="22128" time="73.761"/>
+	<letter char="P" i="22140" time="73.800"/>
+	<letter char="Ä" i="22158" time="73.860"/>
+	<letter char="Ä" i="22175" time="73.918"/>
+	<letter char="D" i="22193" time="73.977"/>
+	<letter char="Y" i="22210" time="74.035"/>
+	<letter char="T" i="22228" time="74.095"/>
+	<letter char=" " i="22246" time="74.154"/>
+	<letter char="K" i="22263" time="74.212"/>
+	<letter char="A" i="22286" time="74.287"/>
+	<letter char="N" i="22308" time="74.361"/>
+	<letter char="S" i="22330" time="74.436"/>
+	<letter char="S" i="22353" time="74.511"/>
+	<letter char="A" i="22375" time="74.586"/>
+	<letter char="N" i="22398" time="74.660"/>
+	<letter char="I" i="22420" time="74.735"/>
+	<letter char=" " i="22442" time="74.810"/>
+	<letter char="L" i="22465" time="74.885"/>
+	<letter char="Ä" i="22512" time="75.042"/>
+	<letter char="H" i="22559" time="75.200"/>
+	<letter char="T" i="22607" time="75.357"/>
+	<letter char="E" i="22654" time="75.514"/>
+	<letter char="M" i="22701" time="75.672"/>
+	<letter char="Ä" i="22749" time="75.830"/>
+	<letter char="Ä" i="22796" time="75.987"/>
+	<letter char="N" i="22843" time="76.144" end-time="76.303"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="22699" time="75.665" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="22999" time="76.665"/>
+	<letter char="U" i="23017" time="76.724"/>
+	<letter char="L" i="23035" time="76.785"/>
+	<letter char="E" i="23053" time="76.844"/>
+	<letter char="T" i="23071" time="76.905"/>
+	<letter char=" " i="23089" time="76.964"/>
+	<letter char="I" i="23107" time="77.025"/>
+	<letter char="K" i="23126" time="77.088"/>
+	<letter char="U" i="23145" time="77.152"/>
+	<letter char="I" i="23165" time="77.217"/>
+	<letter char="S" i="23183" time="77.280"/>
+	<letter char="E" i="23203" time="77.344"/>
+	<letter char="S" i="23222" time="77.408"/>
+	<letter char="T" i="23241" time="77.471"/>
+	<letter char="I" i="23260" time="77.536"/>
+	<letter char=" " i="23279" time="77.600"/>
+	<letter char="K" i="23298" time="77.663"/>
+	<letter char="Ä" i="23342" time="77.807"/>
+	<letter char="R" i="23384" time="77.949"/>
+	<letter char="S" i="23427" time="78.093"/>
+	<letter char="I" i="23470" time="78.236"/>
+	<letter char="M" i="23513" time="78.380"/>
+	<letter char="Ä" i="23556" time="78.522"/>
+	<letter char="Ä" i="23599" time="78.666"/>
+	<letter char="N" i="23642" time="78.809" end-time="78.952"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="23486" time="78.287" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="23786" time="79.287"/>
+	<letter char="N" i="23804" time="79.347"/>
+	<letter char=" " i="23822" time="79.407"/>
+	<letter char="E" i="23840" time="79.467"/>
+	<letter char="T" i="23857" time="79.525"/>
+	<letter char="S" i="23875" time="79.584"/>
+	<letter char="I" i="23892" time="79.642"/>
+	<letter char=" " i="23910" time="79.701"/>
+	<letter char="T" i="23927" time="79.759"/>
+	<letter char="U" i="23959" time="79.865"/>
+	<letter char="H" i="23991" time="79.971"/>
+	<letter char="K" i="24023" time="80.077"/>
+	<letter char="I" i="24054" time="80.183"/>
+	<letter char="M" i="24086" time="80.289"/>
+	<letter char="O" i="24118" time="80.396"/>
+	<letter char="T" i="24150" time="80.501"/>
+	<letter char="A" i="24182" time="80.607"/>
+	<letter char="R" i="24214" time="80.714"/>
+	<letter char="I" i="24245" time="80.819"/>
+	<letter char="N" i="24277" time="80.926"/>
+	<letter char="A" i="24309" time="81.032"/>
+	<letter char="A" i="24416" time="81.387" end-time="81.733"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="24324" time="81.080" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="24624" time="82.080"/>
+	<letter char="A" i="24634" time="82.116"/>
+	<letter char="A" i="24646" time="82.154"/>
+	<letter char="N" i="24657" time="82.190"/>
+	<letter char=" " i="24668" time="82.227"/>
+	<letter char="P" i="24678" time="82.263"/>
+	<letter char="A" i="24691" time="82.306"/>
+	<letter char="L" i="24704" time="82.349"/>
+	<letter char="J" i="24717" time="82.392"/>
+	<letter char="O" i="24729" time="82.433"/>
+	<letter char="N" i="24742" time="82.476"/>
+	<letter char=" " i="24755" time="82.519"/>
+	<letter char="K" i="24768" time="82.562"/>
+	<letter char="I" i="24795" time="82.650"/>
+	<letter char="P" i="24821" time="82.738"/>
+	<letter char="U" i="24847" time="82.826"/>
+	<letter char="A" i="24874" time="82.914"/>
+	<letter char=" " i="24900" time="83.002"/>
+	<letter char="J" i="24926" time="83.090"/>
+	<letter char="A" i="24945" time="83.150"/>
+	<letter char=" " i="24962" time="83.210"/>
+	<letter char="K" i="24981" time="83.271"/>
+	<letter char="U" i="25027" time="83.426"/>
+	<letter char="O" i="25074" time="83.583"/>
+	<letter char="L" i="25121" time="83.740"/>
+	<letter char="E" i="25169" time="83.897"/>
+	<letter char="M" i="25215" time="84.053"/>
+	<letter char="A" i="25262" time="84.210"/>
+	<letter char="A" i="25310" time="84.367" end-time="84.523"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="25128" time="83.763" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="25428" time="84.763"/>
+	<letter char="O" i="25442" time="84.808"/>
+	<letter char="S" i="25455" time="84.853"/>
+	<letter char=" " i="25470" time="84.900"/>
+	<letter char="P" i="25483" time="84.945"/>
+	<letter char="Ä" i="25500" time="85.001"/>
+	<letter char="Ä" i="25517" time="85.058"/>
+	<letter char="D" i="25534" time="85.114"/>
+	<letter char="Y" i="25551" time="85.171"/>
+	<letter char="T" i="25568" time="85.228"/>
+	<letter char=" " i="25585" time="85.284"/>
+	<letter char="K" i="25602" time="85.341"/>
+	<letter char="A" i="25624" time="85.414"/>
+	<letter char="N" i="25646" time="85.487"/>
+	<letter char="S" i="25667" time="85.560"/>
+	<letter char="S" i="25689" time="85.633"/>
+	<letter char="A" i="25712" time="85.707"/>
+	<letter char="N" i="25733" time="85.779"/>
+	<letter char="I" i="25755" time="85.853"/>
+	<letter char=" " i="25777" time="85.926"/>
+	<letter char="L" i="25800" time="86.000"/>
+	<letter char="Ä" i="25849" time="86.166"/>
+	<letter char="H" i="25899" time="86.333"/>
+	<letter char="T" i="25950" time="86.500"/>
+	<letter char="E" i="25999" time="86.666"/>
+	<letter char="M" i="26049" time="86.833"/>
+	<letter char="Ä" i="26099" time="86.999"/>
+	<letter char="Ä" i="26149" time="87.166"/>
+	<letter char="N" i="26199" time="87.333" end-time="87.499"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="26046" time="86.821" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="26346" time="87.821"/>
+	<letter char="U" i="26360" time="87.869"/>
+	<letter char="L" i="26375" time="87.917"/>
+	<letter char="E" i="26389" time="87.965"/>
+	<letter char="T" i="26403" time="88.013"/>
+	<letter char=" " i="26418" time="88.061"/>
+	<letter char="I" i="26432" time="88.109"/>
+	<letter char="K" i="26453" time="88.179"/>
+	<letter char="U" i="26474" time="88.248"/>
+	<letter char="I" i="26495" time="88.318"/>
+	<letter char="S" i="26515" time="88.386"/>
+	<letter char="E" i="26536" time="88.456"/>
+	<letter char="S" i="26557" time="88.526"/>
+	<letter char="T" i="26578" time="88.595"/>
+	<letter char="I" i="26599" time="88.665"/>
+	<letter char=" " i="26620" time="88.735"/>
+	<letter char="K" i="26641" time="88.804"/>
+	<letter char="Ä" i="26679" time="88.933"/>
+	<letter char="R" i="26718" time="89.061"/>
+	<letter char="S" i="26757" time="89.190"/>
+	<letter char="I" i="26795" time="89.318"/>
+	<letter char="M" i="26834" time="89.447"/>
+	<letter char="Ä" i="26872" time="89.575"/>
+	<letter char="Ä" i="26911" time="89.704"/>
+	<letter char="N" i="26949" time="89.832" end-time="89.961"/>
+  </phrase>
+  <phrase text="POW-POW POW-POW" i="26691" time="88.972" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="26991" time="89.972"/>
+	<letter char="O" i="27015" time="90.052"/>
+	<letter char="W" i="27039" time="90.132"/>
+	<letter char="-" i="27063" time="90.212"/>
+	<letter char="P" i="27087" time="90.291"/>
+	<letter char="O" i="27111" time="90.371"/>
+	<letter char="W" i="27135" time="90.451"/>
+	<letter char=" " i="27159" time="90.531"/>
+	<letter char="P" i="27183" time="90.611"/>
+	<letter char="O" i="27219" time="90.733"/>
+	<letter char="W" i="27256" time="90.856"/>
+	<letter char="-" i="27293" time="90.978"/>
+	<letter char="P" i="27330" time="91.101"/>
+	<letter char="O" i="27367" time="91.224"/>
+	<letter char="W" i="27404" time="91.347" end-time="91.469"/>
+  </phrase>
+  <phrase text="POW-POW PA-POW" i="27491" time="91.638" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="27791" time="92.638"/>
+	<letter char="O" i="27819" time="92.733"/>
+	<letter char="W" i="27849" time="92.830"/>
+	<letter char="-" i="27877" time="92.926"/>
+	<letter char="P" i="27906" time="93.021"/>
+	<letter char="O" i="27935" time="93.118"/>
+	<letter char="W" i="27963" time="93.213"/>
+	<letter char=" " i="27992" time="93.310"/>
+	<letter char="P" i="28021" time="93.405"/>
+	<letter char="A" i="28048" time="93.494"/>
+	<letter char="-" i="28074" time="93.582"/>
+	<letter char="P" i="28100" time="93.670"/>
+	<letter char="O" i="28182" time="93.942"/>
+	<letter char="W" i="28280" time="94.268" end-time="94.615"/>
+  </phrase>
+  <phrase text="KUUNTELE" i="28528" time="95.096" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="28828" time="96.096"/>
+	<letter char="U" i="28856" time="96.189"/>
+	<letter char="U" i="28884" time="96.283"/>
+	<letter char="N" i="28912" time="96.376"/>
+	<letter char="T" i="28940" time="96.467"/>
+	<letter char="E" i="28968" time="96.561"/>
+	<letter char="L" i="28996" time="96.654"/>
+	<letter char="E" i="29024" time="96.747" end-time="96.841"/>
+  </phrase>
+  <phrase text="MITÄ MÄ SANON" i="28950" time="96.502" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="29250" time="97.502"/>
+	<letter char="I" i="29264" time="97.549"/>
+	<letter char="T" i="29278" time="97.596"/>
+	<letter char="Ä" i="29292" time="97.641"/>
+	<letter char=" " i="29306" time="97.688"/>
+	<letter char="M" i="29319" time="97.733"/>
+	<letter char="Ä" i="29337" time="97.793"/>
+	<letter char=" " i="29355" time="97.851"/>
+	<letter char="S" i="29373" time="97.910"/>
+	<letter char="A" i="29405" time="98.020"/>
+	<letter char="N" i="29438" time="98.130"/>
+	<letter char="O" i="29471" time="98.240"/>
+	<letter char="N" i="29504" time="98.350" end-time="98.460"/>
+  </phrase>
+  <phrase text="VASTUSTAT MUN SANOMAA" i="29570" time="98.568" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="29870" time="99.568"/>
+	<letter char="A" i="29888" time="99.630"/>
+	<letter char="S" i="29907" time="99.693"/>
+	<letter char="T" i="29926" time="99.755"/>
+	<letter char="U" i="29945" time="99.818"/>
+	<letter char="S" i="29964" time="99.881"/>
+	<letter char="T" i="29982" time="99.943"/>
+	<letter char="A" i="30001" time="100.006"/>
+	<letter char="T" i="30020" time="100.069"/>
+	<letter char=" " i="30039" time="100.131"/>
+	<letter char="M" i="30057" time="100.192"/>
+	<letter char="U" i="30072" time="100.243"/>
+	<letter char="N" i="30087" time="100.293"/>
+	<letter char=" " i="30103" time="100.344"/>
+	<letter char="S" i="30118" time="100.395"/>
+	<letter char="A" i="30151" time="100.506"/>
+	<letter char="N" i="30185" time="100.617"/>
+	<letter char="O" i="30218" time="100.728"/>
+	<letter char="M" i="30251" time="100.839"/>
+	<letter char="A" i="30284" time="100.950"/>
+	<letter char="A" i="30318" time="101.061" end-time="101.172"/>
+  </phrase>
+  <phrase text="VASTAVOIMA TUOTTAA KIPUA" i="30216" time="100.722" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="30516" time="101.722"/>
+	<letter char="A" i="30533" time="101.779"/>
+	<letter char="S" i="30550" time="101.836"/>
+	<letter char="T" i="30567" time="101.893"/>
+	<letter char="A" i="30584" time="101.950"/>
+	<letter char="V" i="30602" time="102.008"/>
+	<letter char="O" i="30619" time="102.064"/>
+	<letter char="I" i="30636" time="102.121"/>
+	<letter char="M" i="30653" time="102.179"/>
+	<letter char="A" i="30670" time="102.235"/>
+	<letter char=" " i="30687" time="102.292"/>
+	<letter char="T" i="30704" time="102.350"/>
+	<letter char="U" i="30721" time="102.404"/>
+	<letter char="O" i="30737" time="102.459"/>
+	<letter char="T" i="30754" time="102.514"/>
+	<letter char="T" i="30770" time="102.570"/>
+	<letter char="A" i="30787" time="102.625"/>
+	<letter char="A" i="30803" time="102.679"/>
+	<letter char=" " i="30820" time="102.734"/>
+	<letter char="K" i="30836" time="102.789"/>
+	<letter char="I" i="30869" time="102.898"/>
+	<letter char="P" i="30901" time="103.006"/>
+	<letter char="U" i="30934" time="103.114"/>
+	<letter char="A" i="30966" time="103.223" end-time="103.332"/>
+  </phrase>
+  <phrase text="MUTTA KIPU ON RAKKAUTTA" i="30703" time="102.346" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="31003" time="103.346"/>
+	<letter char="U" i="31020" time="103.401"/>
+	<letter char="T" i="31037" time="103.457"/>
+	<letter char="T" i="31053" time="103.511"/>
+	<letter char="A" i="31069" time="103.566"/>
+	<letter char=" " i="31086" time="103.620"/>
+	<letter char="K" i="31102" time="103.676"/>
+	<letter char="I" i="31122" time="103.742"/>
+	<letter char="P" i="31142" time="103.810"/>
+	<letter char="U" i="31163" time="103.877"/>
+	<letter char=" " i="31183" time="103.944"/>
+	<letter char="O" i="31203" time="104.012"/>
+	<letter char="N" i="31220" time="104.067"/>
+	<letter char=" " i="31236" time="104.122"/>
+	<letter char="R" i="31253" time="104.178"/>
+	<letter char="A" i="31270" time="104.235"/>
+	<letter char="K" i="31287" time="104.292"/>
+	<letter char="K" i="31304" time="104.348"/>
+	<letter char="A" i="31321" time="104.405"/>
+	<letter char="U" i="31338" time="104.462"/>
+	<letter char="T" i="31355" time="104.519"/>
+	<letter char="T" i="31372" time="104.576"/>
+	<letter char="A" i="31389" time="104.633" end-time="104.691"/>
+  </phrase>
+  <phrase text="JOTEN RAKASTAN TEIT KAIKKIA" i="31113" time="103.711" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="31413" time="104.711"/>
+	<letter char="O" i="31429" time="104.766"/>
+	<letter char="T" i="31446" time="104.821"/>
+	<letter char="E" i="31462" time="104.874"/>
+	<letter char="N" i="31478" time="104.929"/>
+	<letter char=" " i="31495" time="104.984"/>
+	<letter char="R" i="31511" time="105.038"/>
+	<letter char="A" i="31529" time="105.100"/>
+	<letter char="K" i="31548" time="105.162"/>
+	<letter char="A" i="31567" time="105.224"/>
+	<letter char="S" i="31585" time="105.286"/>
+	<letter char="T" i="31604" time="105.348"/>
+	<letter char="A" i="31622" time="105.409"/>
+	<letter char="N" i="31641" time="105.471"/>
+	<letter char=" " i="31659" time="105.533"/>
+	<letter char="T" i="31678" time="105.595"/>
+	<letter char="E" i="31701" time="105.672"/>
+	<letter char="I" i="31725" time="105.750"/>
+	<letter char="T" i="31748" time="105.827"/>
+	<letter char=" " i="31771" time="105.905"/>
+	<letter char="K" i="31794" time="105.982"/>
+	<letter char="A" i="31828" time="106.096"/>
+	<letter char="I" i="31862" time="106.209"/>
+	<letter char="K" i="31896" time="106.323"/>
+	<letter char="K" i="31931" time="106.437"/>
+	<letter char="I" i="31965" time="106.550"/>
+	<letter char="A" i="31999" time="106.664" end-time="106.777"/>
+  </phrase>
+  <phrase text="JOS AIOT YKSIN SELVITÄ" i="31853" time="106.178" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="32153" time="107.178"/>
+	<letter char="O" i="32168" time="107.229"/>
+	<letter char="S" i="32183" time="107.279"/>
+	<letter char=" " i="32199" time="107.330"/>
+	<letter char="A" i="32214" time="107.381"/>
+	<letter char="I" i="32233" time="107.444"/>
+	<letter char="O" i="32252" time="107.507"/>
+	<letter char="T" i="32270" time="107.569"/>
+	<letter char=" " i="32289" time="107.631"/>
+	<letter char="Y" i="32308" time="107.694"/>
+	<letter char="K" i="32323" time="107.745"/>
+	<letter char="S" i="32338" time="107.796"/>
+	<letter char="I" i="32353" time="107.846"/>
+	<letter char="N" i="32369" time="107.897"/>
+	<letter char=" " i="32384" time="107.948"/>
+	<letter char="S" i="32400" time="108.000"/>
+	<letter char="E" i="32435" time="108.118"/>
+	<letter char="L" i="32470" time="108.236"/>
+	<letter char="V" i="32506" time="108.355"/>
+	<letter char="I" i="32541" time="108.473"/>
+	<letter char="T" i="32577" time="108.591"/>
+	<letter char="Ä" i="32613" time="108.711" end-time="108.829"/>
+  </phrase>
+  <phrase text="VOIT ITSESI TAPPAA" i="32375" time="107.917" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="32675" time="108.917"/>
+	<letter char="O" i="32688" time="108.963"/>
+	<letter char="I" i="32702" time="109.008"/>
+	<letter char="T" i="32716" time="109.054"/>
+	<letter char=" " i="32729" time="109.099"/>
+	<letter char="I" i="32743" time="109.145"/>
+	<letter char="T" i="32770" time="109.235"/>
+	<letter char="S" i="32797" time="109.324"/>
+	<letter char="E" i="32823" time="109.413"/>
+	<letter char="S" i="32850" time="109.502"/>
+	<letter char="I" i="32877" time="109.592"/>
+	<letter char=" " i="32904" time="109.681"/>
+	<letter char="T" i="32930" time="109.770"/>
+	<letter char="A" i="32961" time="109.872"/>
+	<letter char="P" i="32992" time="109.974"/>
+	<letter char="P" i="33022" time="110.076"/>
+	<letter char="A" i="33053" time="110.178"/>
+	<letter char="A" i="33083" time="110.280" end-time="110.382"/>
+  </phrase>
+  <phrase text="ELÄMÄSSÄ ON VAAN YSTÄVÄT" i="32821" time="109.405" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="33121" time="110.405"/>
+	<letter char="L" i="33140" time="110.467"/>
+	<letter char="Ä" i="33158" time="110.530"/>
+	<letter char="M" i="33177" time="110.592"/>
+	<letter char="Ä" i="33196" time="110.655"/>
+	<letter char="S" i="33215" time="110.718"/>
+	<letter char="S" i="33234" time="110.781"/>
+	<letter char="Ä" i="33252" time="110.843"/>
+	<letter char=" " i="33271" time="110.906"/>
+	<letter char="O" i="33290" time="110.969"/>
+	<letter char="N" i="33307" time="111.026"/>
+	<letter char=" " i="33324" time="111.083"/>
+	<letter char="V" i="33341" time="111.140"/>
+	<letter char="A" i="33363" time="111.213"/>
+	<letter char="A" i="33385" time="111.284"/>
+	<letter char="N" i="33406" time="111.356"/>
+	<letter char=" " i="33428" time="111.428"/>
+	<letter char="Y" i="33450" time="111.500"/>
+	<letter char="S" i="33489" time="111.631"/>
+	<letter char="T" i="33528" time="111.762"/>
+	<letter char="Ä" i="33567" time="111.893"/>
+	<letter char="V" i="33607" time="112.024"/>
+	<letter char="Ä" i="33646" time="112.154"/>
+	<letter char="T" i="33685" time="112.285" end-time="112.416"/>
+  </phrase>
+  <phrase text="TAISTELEE POW-POW" i="33475" time="111.586" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="33775" time="112.586"/>
+	<letter char="A" i="33796" time="112.655"/>
+	<letter char="I" i="33816" time="112.723"/>
+	<letter char="S" i="33837" time="112.792"/>
+	<letter char="T" i="33858" time="112.860"/>
+	<letter char="E" i="33878" time="112.928"/>
+	<letter char="L" i="33898" time="112.996"/>
+	<letter char="E" i="33919" time="113.064"/>
+	<letter char="E" i="33939" time="113.133"/>
+	<letter char=" " i="33960" time="113.201"/>
+	<letter char="P" i="33980" time="113.269"/>
+	<letter char="O" i="34009" time="113.365"/>
+	<letter char="W" i="34038" time="113.461"/>
+	<letter char="-" i="34067" time="113.557"/>
+	<letter char="P" i="34095" time="113.653"/>
+	<letter char="O" i="34125" time="113.750"/>
+	<letter char="W" i="34153" time="113.846" end-time="113.942"/>
+  </phrase>
+  <phrase text="KANSSASI HAUTAAN" i="33891" time="112.972" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="34191" time="113.972"/>
+	<letter char="A" i="34207" time="114.026"/>
+	<letter char="N" i="34224" time="114.080"/>
+	<letter char="S" i="34240" time="114.134"/>
+	<letter char="S" i="34256" time="114.187"/>
+	<letter char="A" i="34271" time="114.240"/>
+	<letter char="S" i="34288" time="114.294"/>
+	<letter char="I" i="34304" time="114.348"/>
+	<letter char=" " i="34320" time="114.402"/>
+	<letter char="H" i="34336" time="114.456"/>
+	<letter char="A" i="34365" time="114.550"/>
+	<letter char="U" i="34392" time="114.643"/>
+	<letter char="T" i="34421" time="114.737"/>
+	<letter char="A" i="34449" time="114.832"/>
+	<letter char="A" i="34477" time="114.926"/>
+	<letter char="N" i="34505" time="115.019" end-time="115.113"/>
+  </phrase>
+  <phrase text="JA NE JOIT PITÄÄ SUOJELLA" i="34240" time="114.134" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="34540" time="115.134"/>
+	<letter char="A" i="34550" time="115.167"/>
+	<letter char=" " i="34560" time="115.201"/>
+	<letter char="N" i="34570" time="115.235"/>
+	<letter char="E" i="34584" time="115.283"/>
+	<letter char=" " i="34599" time="115.331"/>
+	<letter char="J" i="34613" time="115.378"/>
+	<letter char="O" i="34627" time="115.425"/>
+	<letter char="I" i="34641" time="115.471"/>
+	<letter char="T" i="34655" time="115.517"/>
+	<letter char=" " i="34668" time="115.563"/>
+	<letter char="P" i="34682" time="115.609"/>
+	<letter char="I" i="34698" time="115.660"/>
+	<letter char="T" i="34712" time="115.708"/>
+	<letter char="Ä" i="34727" time="115.759"/>
+	<letter char="Ä" i="34742" time="115.809"/>
+	<letter char=" " i="34757" time="115.858"/>
+	<letter char="S" i="34772" time="115.909"/>
+	<letter char="U" i="34796" time="115.990"/>
+	<letter char="O" i="34820" time="116.069"/>
+	<letter char="J" i="34845" time="116.151"/>
+	<letter char="E" i="34869" time="116.232"/>
+	<letter char="L" i="34893" time="116.311"/>
+	<letter char="L" i="34917" time="116.393"/>
+	<letter char="A" i="34942" time="116.474" end-time="116.554"/>
+  </phrase>
+  <phrase text="VAIKKET OIS HYVÄN PUOLELLA" i="34672" time="115.574" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="34972" time="116.574"/>
+	<letter char="A" i="34985" time="116.617"/>
+	<letter char="I" i="34997" time="116.659"/>
+	<letter char="K" i="35010" time="116.701"/>
+	<letter char="K" i="35023" time="116.744"/>
+	<letter char="E" i="35035" time="116.786"/>
+	<letter char="T" i="35048" time="116.829"/>
+	<letter char=" " i="35061" time="116.871"/>
+	<letter char="O" i="35074" time="116.914"/>
+	<letter char="I" i="35085" time="116.952"/>
+	<letter char="S" i="35097" time="116.991"/>
+	<letter char=" " i="35108" time="117.030"/>
+	<letter char="H" i="35120" time="117.069"/>
+	<letter char="Y" i="35140" time="117.134"/>
+	<letter char="V" i="35159" time="117.200"/>
+	<letter char="Ä" i="35178" time="117.263"/>
+	<letter char="N" i="35198" time="117.328"/>
+	<letter char=" " i="35218" time="117.394"/>
+	<letter char="P" i="35237" time="117.457"/>
+	<letter char="U" i="35263" time="117.544"/>
+	<letter char="O" i="35289" time="117.631"/>
+	<letter char="L" i="35315" time="117.717"/>
+	<letter char="E" i="35341" time="117.804"/>
+	<letter char="L" i="35367" time="117.891"/>
+	<letter char="L" i="35392" time="117.976"/>
+	<letter char="A" i="35418" time="118.063" end-time="118.150"/>
+  </phrase>
+  <phrase text="OMAT LAPSESI HUOLELLA" i="35149" time="117.164" pos="0/300,0/216" flags="edited">
+	<letter char="O" i="35449" time="118.164"/>
+	<letter char="M" i="35469" time="118.233"/>
+	<letter char="A" i="35490" time="118.302"/>
+	<letter char="T" i="35511" time="118.372"/>
+	<letter char=" " i="35532" time="118.441"/>
+	<letter char="L" i="35553" time="118.510"/>
+	<letter char="A" i="35571" time="118.571"/>
+	<letter char="P" i="35589" time="118.631"/>
+	<letter char="S" i="35607" time="118.690"/>
+	<letter char="E" i="35625" time="118.750"/>
+	<letter char="S" i="35642" time="118.810"/>
+	<letter char="I" i="35660" time="118.869"/>
+	<letter char=" " i="35678" time="118.929"/>
+	<letter char="H" i="35696" time="118.989"/>
+	<letter char="U" i="35717" time="119.058"/>
+	<letter char="O" i="35738" time="119.127"/>
+	<letter char="L" i="35759" time="119.197"/>
+	<letter char="E" i="35779" time="119.266"/>
+	<letter char="L" i="35800" time="119.335"/>
+	<letter char="L" i="35821" time="119.404"/>
+	<letter char="A" i="35842" time="119.474" end-time="119.543"/>
+  </phrase>
+  <phrase text="HUOMISEN HUOSTAAN HOIDA" i="35567" time="118.557" pos="0/300,0/216" flags="edited">
+	<letter char="H" i="35867" time="119.557"/>
+	<letter char="U" i="35884" time="119.616"/>
+	<letter char="O" i="35902" time="119.676"/>
+	<letter char="M" i="35920" time="119.735"/>
+	<letter char="I" i="35938" time="119.795"/>
+	<letter char="S" i="35956" time="119.855"/>
+	<letter char="E" i="35974" time="119.914"/>
+	<letter char="N" i="35992" time="119.974"/>
+	<letter char=" " i="36010" time="120.034"/>
+	<letter char="H" i="36027" time="120.093"/>
+	<letter char="U" i="36046" time="120.155"/>
+	<letter char="O" i="36065" time="120.217"/>
+	<letter char="S" i="36083" time="120.279"/>
+	<letter char="T" i="36102" time="120.341"/>
+	<letter char="A" i="36120" time="120.403"/>
+	<letter char="A" i="36139" time="120.465"/>
+	<letter char="N" i="36157" time="120.526"/>
+	<letter char=" " i="36176" time="120.589"/>
+	<letter char="H" i="36195" time="120.650"/>
+	<letter char="O" i="36227" time="120.758"/>
+	<letter char="I" i="36259" time="120.866"/>
+	<letter char="D" i="36291" time="120.972"/>
+	<letter char="A" i="36324" time="121.080" end-time="121.187"/>
+  </phrase>
+  <phrase text="JA HOITELE VIHOLLISET" i="36060" time="120.201" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="36360" time="121.201"/>
+	<letter char="A" i="36372" time="121.241"/>
+	<letter char=" " i="36384" time="121.282"/>
+	<letter char="H" i="36396" time="121.323"/>
+	<letter char="O" i="36416" time="121.387"/>
+	<letter char="I" i="36434" time="121.450"/>
+	<letter char="T" i="36454" time="121.514"/>
+	<letter char="E" i="36473" time="121.579"/>
+	<letter char="L" i="36492" time="121.643"/>
+	<letter char="E" i="36512" time="121.707"/>
+	<letter char=" " i="36531" time="121.771"/>
+	<letter char="V" i="36550" time="121.835"/>
+	<letter char="I" i="36571" time="121.905"/>
+	<letter char="H" i="36593" time="121.977"/>
+	<letter char="O" i="36614" time="122.048"/>
+	<letter char="L" i="36635" time="122.119"/>
+	<letter char="L" i="36657" time="122.190"/>
+	<letter char="I" i="36678" time="122.261"/>
+	<letter char="S" i="36699" time="122.332"/>
+	<letter char="E" i="36721" time="122.404"/>
+	<letter char="T" i="36742" time="122.474" end-time="122.546"/>
+  </phrase>
+  <phrase text="VIHDOIN JA VIIMEIN VOITA" i="36469" time="121.566" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="36769" time="122.566"/>
+	<letter char="I" i="36783" time="122.611"/>
+	<letter char="H" i="36796" time="122.656"/>
+	<letter char="D" i="36810" time="122.701"/>
+	<letter char="O" i="36823" time="122.746"/>
+	<letter char="I" i="36837" time="122.791"/>
+	<letter char="N" i="36850" time="122.836"/>
+	<letter char=" " i="36864" time="122.881"/>
+	<letter char="J" i="36877" time="122.926"/>
+	<letter char="A" i="36892" time="122.974"/>
+	<letter char=" " i="36906" time="123.022"/>
+	<letter char="V" i="36921" time="123.071"/>
+	<letter char="I" i="36934" time="123.115"/>
+	<letter char="I" i="36947" time="123.159"/>
+	<letter char="M" i="36960" time="123.203"/>
+	<letter char="E" i="36974" time="123.247"/>
+	<letter char="I" i="36987" time="123.291"/>
+	<letter char="N" i="37000" time="123.334"/>
+	<letter char=" " i="37013" time="123.379"/>
+	<letter char="V" i="37026" time="123.422"/>
+	<letter char="O" i="37060" time="123.536"/>
+	<letter char="I" i="37094" time="123.649"/>
+	<letter char="T" i="37128" time="123.761"/>
+	<letter char="A" i="37162" time="123.874" end-time="123.986"/>
+  </phrase>
+  <phrase text="VOIMA VOIMISTAA KIITOLLISET" i="36924" time="123.081" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="37224" time="124.081"/>
+	<letter char="O" i="37239" time="124.133"/>
+	<letter char="I" i="37255" time="124.186"/>
+	<letter char="M" i="37271" time="124.239"/>
+	<letter char="A" i="37287" time="124.292"/>
+	<letter char=" " i="37303" time="124.345"/>
+	<letter char="V" i="37319" time="124.397"/>
+	<letter char="O" i="37337" time="124.458"/>
+	<letter char="I" i="37355" time="124.520"/>
+	<letter char="M" i="37374" time="124.580"/>
+	<letter char="I" i="37392" time="124.641"/>
+	<letter char="S" i="37410" time="124.701"/>
+	<letter char="T" i="37428" time="124.762"/>
+	<letter char="A" i="37447" time="124.824"/>
+	<letter char="A" i="37465" time="124.884"/>
+	<letter char=" " i="37483" time="124.945"/>
+	<letter char="K" i="37501" time="125.005"/>
+	<letter char="I" i="37525" time="125.085"/>
+	<letter char="I" i="37549" time="125.164"/>
+	<letter char="T" i="37572" time="125.243"/>
+	<letter char="O" i="37596" time="125.322"/>
+	<letter char="L" i="37620" time="125.400"/>
+	<letter char="L" i="37644" time="125.480"/>
+	<letter char="I" i="37667" time="125.559"/>
+	<letter char="S" i="37691" time="125.638"/>
+	<letter char="E" i="37715" time="125.717"/>
+	<letter char="T" i="37739" time="125.797" end-time="125.875"/>
+  </phrase>
+  <phrase text="KIISTÄMÄÄN KINKKISET SYNTISI" i="37469" time="124.899" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="37769" time="125.899"/>
+	<letter char="I" i="37786" time="125.956"/>
+	<letter char="I" i="37803" time="126.013"/>
+	<letter char="S" i="37820" time="126.068"/>
+	<letter char="T" i="37837" time="126.125"/>
+	<letter char="Ä" i="37854" time="126.182"/>
+	<letter char="M" i="37871" time="126.239"/>
+	<letter char="Ä" i="37888" time="126.294"/>
+	<letter char="Ä" i="37905" time="126.351"/>
+	<letter char="N" i="37922" time="126.408"/>
+	<letter char=" " i="37939" time="126.464"/>
+	<letter char="K" i="37956" time="126.521"/>
+	<letter char="I" i="37977" time="126.591"/>
+	<letter char="N" i="37998" time="126.660"/>
+	<letter char="K" i="38019" time="126.731"/>
+	<letter char="K" i="38040" time="126.801"/>
+	<letter char="I" i="38061" time="126.870"/>
+	<letter char="S" i="38082" time="126.941"/>
+	<letter char="E" i="38103" time="127.011"/>
+	<letter char="T" i="38124" time="127.081"/>
+	<letter char=" " i="38145" time="127.151"/>
+	<letter char="S" i="38166" time="127.220"/>
+	<letter char="Y" i="38202" time="127.341"/>
+	<letter char="N" i="38237" time="127.460"/>
+	<letter char="T" i="38273" time="127.579"/>
+	<letter char="I" i="38309" time="127.698"/>
+	<letter char="S" i="38345" time="127.817"/>
+	<letter char="I" i="38381" time="127.937" end-time="128.056"/>
+  </phrase>
+  <phrase text="SYDÄMMESI SYLKÄISI SYVÄT" i="38180" time="127.267" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="38480" time="128.267"/>
+	<letter char="Y" i="38499" time="128.333"/>
+	<letter char="D" i="38519" time="128.400"/>
+	<letter char="Ä" i="38540" time="128.467"/>
+	<letter char="M" i="38559" time="128.533"/>
+	<letter char="M" i="38580" time="128.600"/>
+	<letter char="E" i="38599" time="128.666"/>
+	<letter char="S" i="38619" time="128.732"/>
+	<letter char="I" i="38639" time="128.799"/>
+	<letter char=" " i="38659" time="128.866"/>
+	<letter char="S" i="38679" time="128.932"/>
+	<letter char="Y" i="38703" time="129.011"/>
+	<letter char="L" i="38726" time="129.088"/>
+	<letter char="K" i="38749" time="129.166"/>
+	<letter char="Ä" i="38773" time="129.244"/>
+	<letter char="I" i="38796" time="129.321"/>
+	<letter char="S" i="38819" time="129.399"/>
+	<letter char="I" i="38843" time="129.477"/>
+	<letter char=" " i="38866" time="129.556"/>
+	<letter char="S" i="38889" time="129.633"/>
+	<letter char="Y" i="38915" time="129.719"/>
+	<letter char="V" i="38941" time="129.804"/>
+	<letter char="Ä" i="38966" time="129.889"/>
+	<letter char="T" i="38992" time="129.974" end-time="130.060"/>
+  </phrase>
+  <phrase text="SYRJÄYTTÄVÄLLE SYÖVÄLLE" i="38724" time="129.081" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="39024" time="130.081"/>
+	<letter char="Y" i="39043" time="130.144"/>
+	<letter char="R" i="39062" time="130.209"/>
+	<letter char="J" i="39081" time="130.273"/>
+	<letter char="Ä" i="39101" time="130.338"/>
+	<letter char="Y" i="39120" time="130.402"/>
+	<letter char="T" i="39139" time="130.466"/>
+	<letter char="T" i="39158" time="130.530"/>
+	<letter char="Ä" i="39178" time="130.595"/>
+	<letter char="V" i="39197" time="130.659"/>
+	<letter char="Ä" i="39217" time="130.724"/>
+	<letter char="L" i="39236" time="130.788"/>
+	<letter char="L" i="39255" time="130.852"/>
+	<letter char="E" i="39275" time="130.917"/>
+	<letter char=" " i="39294" time="130.981"/>
+	<letter char="S" i="39313" time="131.045"/>
+	<letter char="Y" i="39333" time="131.113"/>
+	<letter char="Ö" i="39354" time="131.181"/>
+	<letter char="V" i="39374" time="131.249"/>
+	<letter char="Ä" i="39395" time="131.317"/>
+	<letter char="L" i="39415" time="131.385"/>
+	<letter char="L" i="39435" time="131.452"/>
+	<letter char="E" i="39456" time="131.521" end-time="131.589"/>
+  </phrase>
+  <phrase text="SYTYTÄN SYLIISI KYNTTILÄT" i="39180" time="130.603" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="39480" time="131.603"/>
+	<letter char="Y" i="39500" time="131.668"/>
+	<letter char="T" i="39520" time="131.734"/>
+	<letter char="Y" i="39539" time="131.798"/>
+	<letter char="T" i="39558" time="131.863"/>
+	<letter char="Ä" i="39578" time="131.929"/>
+	<letter char="N" i="39598" time="131.995"/>
+	<letter char=" " i="39617" time="132.060"/>
+	<letter char="S" i="39637" time="132.126"/>
+	<letter char="Y" i="39654" time="132.181"/>
+	<letter char="L" i="39670" time="132.236"/>
+	<letter char="I" i="39687" time="132.292"/>
+	<letter char="I" i="39704" time="132.347"/>
+	<letter char="S" i="39720" time="132.401"/>
+	<letter char="I" i="39737" time="132.457"/>
+	<letter char=" " i="39753" time="132.512"/>
+	<letter char="K" i="39770" time="132.567"/>
+	<letter char="Y" i="39798" time="132.663"/>
+	<letter char="N" i="39827" time="132.757"/>
+	<letter char="T" i="39855" time="132.853"/>
+	<letter char="T" i="39884" time="132.948"/>
+	<letter char="I" i="39912" time="133.043"/>
+	<letter char="L" i="39941" time="133.138"/>
+	<letter char="Ä" i="39969" time="133.233"/>
+	<letter char="T" i="39998" time="133.328" end-time="133.423"/>
+  </phrase>
+  <phrase text="YSTÄVÄLLE HEI" i="39735" time="132.451" pos="0/300,0/216" flags="edited">
+	<letter char="Y" i="40035" time="133.451"/>
+	<letter char="S" i="40056" time="133.523"/>
+	<letter char="T" i="40078" time="133.596"/>
+	<letter char="Ä" i="40100" time="133.669"/>
+	<letter char="V" i="40122" time="133.741"/>
+	<letter char="Ä" i="40144" time="133.814"/>
+	<letter char="L" i="40165" time="133.886"/>
+	<letter char="L" i="40187" time="133.959"/>
+	<letter char="E" i="40209" time="134.032"/>
+	<letter char=" " i="40231" time="134.105"/>
+	<letter char="H" i="40253" time="134.178"/>
+	<letter char="E" i="40289" time="134.297"/>
+	<letter char="I" i="40325" time="134.417" end-time="134.538"/>
+  </phrase>
+  <phrase text="KYLLÄ MEITÄ YHDISTÄÄ" i="40067" time="133.558" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="40367" time="134.558"/>
+	<letter char="Y" i="40380" time="134.602"/>
+	<letter char="L" i="40393" time="134.646"/>
+	<letter char="L" i="40407" time="134.691"/>
+	<letter char="Ä" i="40420" time="134.735"/>
+	<letter char=" " i="40433" time="134.779"/>
+	<letter char="M" i="40446" time="134.823"/>
+	<letter char="E" i="40463" time="134.877"/>
+	<letter char="I" i="40479" time="134.932"/>
+	<letter char="T" i="40495" time="134.986"/>
+	<letter char="Ä" i="40511" time="135.040"/>
+	<letter char=" " i="40528" time="135.095"/>
+	<letter char="Y" i="40544" time="135.149"/>
+	<letter char="H" i="40587" time="135.291"/>
+	<letter char="D" i="40629" time="135.433"/>
+	<letter char="I" i="40672" time="135.575"/>
+	<letter char="S" i="40715" time="135.717"/>
+	<letter char="T" i="40757" time="135.859"/>
+	<letter char="Ä" i="40800" time="136.001"/>
+	<letter char="Ä" i="40842" time="136.142" end-time="136.284"/>
+  </phrase>
+  <phrase text="KYMMENEN YHTEISTÄ KYSYMYSTÄ" i="40596" time="135.321" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="40896" time="136.321"/>
+	<letter char="Y" i="40917" time="136.392"/>
+	<letter char="M" i="40938" time="136.463"/>
+	<letter char="M" i="40960" time="136.534"/>
+	<letter char="E" i="40981" time="136.605"/>
+	<letter char="N" i="41002" time="136.676"/>
+	<letter char="E" i="41024" time="136.747"/>
+	<letter char="N" i="41045" time="136.818"/>
+	<letter char=" " i="41066" time="136.889"/>
+	<letter char="Y" i="41088" time="136.960"/>
+	<letter char="H" i="41109" time="137.033"/>
+	<letter char="T" i="41131" time="137.106"/>
+	<letter char="E" i="41153" time="137.179"/>
+	<letter char="I" i="41175" time="137.253"/>
+	<letter char="S" i="41197" time="137.326"/>
+	<letter char="T" i="41219" time="137.399"/>
+	<letter char="Ä" i="41241" time="137.472"/>
+	<letter char=" " i="41263" time="137.546"/>
+	<letter char="K" i="41285" time="137.619"/>
+	<letter char="Y" i="41319" time="137.733"/>
+	<letter char="S" i="41353" time="137.845"/>
+	<letter char="Y" i="41387" time="137.959"/>
+	<letter char="M" i="41421" time="138.073"/>
+	<letter char="Y" i="41455" time="138.186"/>
+	<letter char="S" i="41490" time="138.300"/>
+	<letter char="T" i="41524" time="138.414"/>
+	<letter char="Ä" i="41558" time="138.528" end-time="138.641"/>
+  </phrase>
+  <phrase text="YKSIN KYRPÄ KYYKYSSÄ" i="41315" time="137.719" pos="0/300,0/216" flags="edited">
+	<letter char="Y" i="41615" time="138.719"/>
+	<letter char="K" i="41633" time="138.778"/>
+	<letter char="S" i="41651" time="138.837"/>
+	<letter char="I" i="41668" time="138.896"/>
+	<letter char="N" i="41686" time="138.955"/>
+	<letter char=" " i="41704" time="139.014"/>
+	<letter char="K" i="41721" time="139.073"/>
+	<letter char="Y" i="41748" time="139.161"/>
+	<letter char="R" i="41774" time="139.249"/>
+	<letter char="P" i="41801" time="139.338"/>
+	<letter char="Ä" i="41827" time="139.426"/>
+	<letter char=" " i="41854" time="139.514"/>
+	<letter char="K" i="41880" time="139.603"/>
+	<letter char="Y" i="41919" time="139.733"/>
+	<letter char="Y" i="41959" time="139.865"/>
+	<letter char="K" i="41999" time="139.997"/>
+	<letter char="Y" i="42038" time="140.127"/>
+	<letter char="S" i="42077" time="140.259"/>
+	<letter char="S" i="42116" time="140.390"/>
+	<letter char="Ä" i="42156" time="140.521" end-time="140.652"/>
+  </phrase>
+  <phrase text="YHDESSÄ KYLÄÄ KYNTÄMÄSSÄ" i="41898" time="139.662" pos="0/300,0/216" flags="edited">
+	<letter char="Y" i="42198" time="140.662"/>
+	<letter char="H" i="42217" time="140.726"/>
+	<letter char="D" i="42236" time="140.789"/>
+	<letter char="E" i="42255" time="140.853"/>
+	<letter char="S" i="42274" time="140.915"/>
+	<letter char="S" i="42293" time="140.978"/>
+	<letter char="Ä" i="42312" time="141.042"/>
+	<letter char=" " i="42331" time="141.105"/>
+	<letter char="K" i="42350" time="141.169"/>
+	<letter char="Y" i="42374" time="141.247"/>
+	<letter char="L" i="42397" time="141.325"/>
+	<letter char="Ä" i="42420" time="141.403"/>
+	<letter char="Ä" i="42444" time="141.481"/>
+	<letter char=" " i="42467" time="141.559"/>
+	<letter char="K" i="42491" time="141.638"/>
+	<letter char="Y" i="42530" time="141.767"/>
+	<letter char="N" i="42568" time="141.895"/>
+	<letter char="T" i="42606" time="142.023"/>
+	<letter char="Ä" i="42645" time="142.152"/>
+	<letter char="M" i="42683" time="142.280"/>
+	<letter char="Ä" i="42722" time="142.408"/>
+	<letter char="S" i="42761" time="142.537"/>
+	<letter char="S" i="42799" time="142.665"/>
+	<letter char="Ä" i="42837" time="142.793" end-time="142.922"/>
+  </phrase>
+  <phrase text="ILMAN VASTUUTA" i="42592" time="141.976" pos="0/300,0/216" flags="edited">
+	<letter char="I" i="42892" time="142.976"/>
+	<letter char="L" i="42942" time="143.142"/>
+	<letter char="M" i="42992" time="143.308"/>
+	<letter char="A" i="43041" time="143.473"/>
+	<letter char="N" i="43091" time="143.639"/>
+	<letter char=" " i="43141" time="143.805"/>
+	<letter char="V" i="43191" time="143.971"/>
+	<letter char="A" i="43231" time="144.106"/>
+	<letter char="S" i="43272" time="144.242"/>
+	<letter char="T" i="43313" time="144.377"/>
+	<letter char="U" i="43353" time="144.512"/>
+	<letter char="U" i="43394" time="144.649"/>
+	<letter char="T" i="43435" time="144.784"/>
+	<letter char="A" i="43475" time="144.920" end-time="145.055"/>
+  </phrase>
+  <phrase text="EI OLIS MITÄÄN" i="43363" time="144.544" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="43663" time="145.544"/>
+	<letter char="I" i="43685" time="145.618"/>
+	<letter char=" " i="43708" time="145.694"/>
+	<letter char="O" i="43730" time="145.768"/>
+	<letter char="L" i="43766" time="145.889"/>
+	<letter char="I" i="43802" time="146.009"/>
+	<letter char="S" i="43838" time="146.129"/>
+	<letter char=" " i="43874" time="146.249"/>
+	<letter char="M" i="43910" time="146.369"/>
+	<letter char="I" i="43953" time="146.511"/>
+	<letter char="T" i="43995" time="146.652"/>
+	<letter char="Ä" i="44038" time="146.794"/>
+	<letter char="Ä" i="44080" time="146.936"/>
+	<letter char="N" i="44123" time="147.077" end-time="147.219"/>
+  </phrase>
+  <phrase text="MUTTA ILMAN KIPUA" i="44027" time="146.759" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="44327" time="147.759"/>
+	<letter char="U" i="44366" time="147.889"/>
+	<letter char="T" i="44405" time="148.018"/>
+	<letter char="T" i="44443" time="148.146"/>
+	<letter char="A" i="44482" time="148.276"/>
+	<letter char=" " i="44521" time="148.405"/>
+	<letter char="I" i="44560" time="148.534"/>
+	<letter char="L" i="44605" time="148.686"/>
+	<letter char="M" i="44651" time="148.838"/>
+	<letter char="A" i="44697" time="148.991"/>
+	<letter char="N" i="44742" time="149.143"/>
+	<letter char=" " i="44788" time="149.295"/>
+	<letter char="K" i="44834" time="149.448"/>
+	<letter char="I" i="44878" time="149.594"/>
+	<letter char="P" i="44922" time="149.741"/>
+	<letter char="U" i="44966" time="149.888"/>
+	<letter char="A" i="45010" time="150.034" end-time="150.181"/>
+  </phrase>
+  <phrase text="EN TEKIS SITÄKÄÄN DÄÄM" i="44832" time="149.443" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="45132" time="150.443"/>
+	<letter char="N" i="45153" time="150.511"/>
+	<letter char=" " i="45174" time="150.580"/>
+	<letter char="T" i="45194" time="150.650"/>
+	<letter char="E" i="45227" time="150.758"/>
+	<letter char="K" i="45260" time="150.867"/>
+	<letter char="I" i="45292" time="150.976"/>
+	<letter char="S" i="45325" time="151.084"/>
+	<letter char=" " i="45357" time="151.193"/>
+	<letter char="S" i="45390" time="151.302"/>
+	<letter char="I" i="45425" time="151.417"/>
+	<letter char="T" i="45459" time="151.533"/>
+	<letter char="Ä" i="45494" time="151.648"/>
+	<letter char="K" i="45529" time="151.764"/>
+	<letter char="Ä" i="45563" time="151.879"/>
+	<letter char="Ä" i="45598" time="151.995"/>
+	<letter char="N" i="45633" time="152.110"/>
+	<letter char=" " i="45667" time="152.226"/>
+	<letter char="D" i="45702" time="152.341"/>
+	<letter char="Ä" i="45805" time="152.684"/>
+	<letter char="Ä" i="45907" time="153.026"/>
+	<letter char="M" i="46010" time="153.369" end-time="153.711"/>
+  </phrase>
+  <phrase text="KHH" i="45817" time="152.724" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="46117" time="153.724"/>
+	<letter char="H" i="46168" time="153.895"/>
+	<letter char="H" i="46219" time="154.065" end-time="154.234"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="46076" time="153.587" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="46376" time="154.587"/>
+	<letter char="N" i="46393" time="154.644"/>
+	<letter char=" " i="46409" time="154.700"/>
+	<letter char="E" i="46426" time="154.756"/>
+	<letter char="T" i="46444" time="154.816"/>
+	<letter char="S" i="46462" time="154.876"/>
+	<letter char="I" i="46480" time="154.935"/>
+	<letter char=" " i="46498" time="154.994"/>
+	<letter char="T" i="46515" time="155.053"/>
+	<letter char="U" i="46557" time="155.192"/>
+	<letter char="H" i="46599" time="155.330"/>
+	<letter char="K" i="46640" time="155.468"/>
+	<letter char="I" i="46682" time="155.607"/>
+	<letter char="M" i="46723" time="155.745"/>
+	<letter char="O" i="46765" time="155.884"/>
+	<letter char="T" i="46806" time="156.023"/>
+	<letter char="A" i="46848" time="156.161"/>
+	<letter char="R" i="46889" time="156.299"/>
+	<letter char="I" i="46931" time="156.438"/>
+	<letter char="N" i="46973" time="156.577"/>
+	<letter char="A" i="47014" time="156.716"/>
+	<letter char="A" i="47055" time="156.853" end-time="156.992"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="46891" time="156.305" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="47191" time="157.305"/>
+	<letter char="A" i="47205" time="157.352"/>
+	<letter char="A" i="47219" time="157.397"/>
+	<letter char="N" i="47232" time="157.443"/>
+	<letter char=" " i="47247" time="157.490"/>
+	<letter char="P" i="47260" time="157.536"/>
+	<letter char="A" i="47276" time="157.589"/>
+	<letter char="L" i="47292" time="157.641"/>
+	<letter char="J" i="47307" time="157.693"/>
+	<letter char="O" i="47323" time="157.745"/>
+	<letter char="N" i="47339" time="157.798"/>
+	<letter char=" " i="47355" time="157.850"/>
+	<letter char="K" i="47370" time="157.903"/>
+	<letter char="I" i="47395" time="157.986"/>
+	<letter char="P" i="47421" time="158.071"/>
+	<letter char="U" i="47446" time="158.154"/>
+	<letter char="A" i="47471" time="158.239"/>
+	<letter char=" " i="47496" time="158.322"/>
+	<letter char="J" i="47521" time="158.405"/>
+	<letter char="A" i="47539" time="158.464"/>
+	<letter char=" " i="47556" time="158.523"/>
+	<letter char="K" i="47574" time="158.582"/>
+	<letter char="U" i="47623" time="158.746"/>
+	<letter char="O" i="47673" time="158.911"/>
+	<letter char="L" i="47722" time="159.075"/>
+	<letter char="E" i="47772" time="159.240"/>
+	<letter char="M" i="47820" time="159.403"/>
+	<letter char="A" i="47870" time="159.567"/>
+	<letter char="A" i="47919" time="159.732" end-time="159.896"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="47747" time="159.158" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="48047" time="160.158"/>
+	<letter char="O" i="48060" time="160.203"/>
+	<letter char="S" i="48074" time="160.248"/>
+	<letter char=" " i="48087" time="160.293"/>
+	<letter char="P" i="48101" time="160.338"/>
+	<letter char="Ä" i="48117" time="160.393"/>
+	<letter char="Ä" i="48134" time="160.450"/>
+	<letter char="D" i="48151" time="160.505"/>
+	<letter char="Y" i="48168" time="160.561"/>
+	<letter char="T" i="48185" time="160.618"/>
+	<letter char=" " i="48201" time="160.673"/>
+	<letter char="K" i="48218" time="160.729"/>
+	<letter char="A" i="48241" time="160.805"/>
+	<letter char="N" i="48264" time="160.880"/>
+	<letter char="S" i="48286" time="160.956"/>
+	<letter char="S" i="48309" time="161.031"/>
+	<letter char="A" i="48332" time="161.107"/>
+	<letter char="N" i="48354" time="161.182"/>
+	<letter char="I" i="48377" time="161.258"/>
+	<letter char=" " i="48399" time="161.333"/>
+	<letter char="L" i="48422" time="161.408"/>
+	<letter char="Ä" i="48470" time="161.567"/>
+	<letter char="H" i="48517" time="161.726"/>
+	<letter char="T" i="48565" time="161.885"/>
+	<letter char="E" i="48613" time="162.044"/>
+	<letter char="M" i="48660" time="162.203"/>
+	<letter char="Ä" i="48708" time="162.362"/>
+	<letter char="Ä" i="48756" time="162.520"/>
+	<letter char="N" i="48803" time="162.679" end-time="162.838"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="48634" time="162.114" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="48934" time="163.114"/>
+	<letter char="U" i="48950" time="163.168"/>
+	<letter char="L" i="48966" time="163.221"/>
+	<letter char="E" i="48982" time="163.275"/>
+	<letter char="T" i="48998" time="163.328"/>
+	<letter char=" " i="49014" time="163.381"/>
+	<letter char="I" i="49030" time="163.435"/>
+	<letter char="K" i="49053" time="163.511"/>
+	<letter char="U" i="49075" time="163.586"/>
+	<letter char="I" i="49098" time="163.661"/>
+	<letter char="S" i="49120" time="163.736"/>
+	<letter char="E" i="49143" time="163.811"/>
+	<letter char="S" i="49165" time="163.886"/>
+	<letter char="T" i="49188" time="163.962"/>
+	<letter char="I" i="49210" time="164.036"/>
+	<letter char=" " i="49233" time="164.112"/>
+	<letter char="K" i="49256" time="164.187"/>
+	<letter char="Ä" i="49286" time="164.290"/>
+	<letter char="R" i="49318" time="164.394"/>
+	<letter char="S" i="49349" time="164.497"/>
+	<letter char="I" i="49380" time="164.601"/>
+	<letter char="M" i="49411" time="164.705"/>
+	<letter char="Ä" i="49442" time="164.808"/>
+	<letter char="Ä" i="49473" time="164.912"/>
+	<letter char="N" i="49504" time="165.016" end-time="165.118"/>
+  </phrase>
+  <phrase text="IHMINEN ELÄÄ PÄIVÄ KERRALLAAN" i="49239" time="164.132" pos="0/300,0/216" flags="edited">
+	<letter char="I" i="49539" time="165.132"/>
+	<letter char="H" i="49556" time="165.187"/>
+	<letter char="M" i="49572" time="165.241"/>
+	<letter char="I" i="49588" time="165.296"/>
+	<letter char="N" i="49605" time="165.350"/>
+	<letter char="E" i="49621" time="165.405"/>
+	<letter char="N" i="49637" time="165.459"/>
+	<letter char=" " i="49654" time="165.514"/>
+	<letter char="E" i="49670" time="165.568"/>
+	<letter char="L" i="49689" time="165.631"/>
+	<letter char="Ä" i="49708" time="165.694"/>
+	<letter char="Ä" i="49726" time="165.756"/>
+	<letter char=" " i="49745" time="165.818"/>
+	<letter char="P" i="49764" time="165.880"/>
+	<letter char="Ä" i="49782" time="165.941"/>
+	<letter char="I" i="49800" time="166.003"/>
+	<letter char="V" i="49819" time="166.064"/>
+	<letter char="Ä" i="49837" time="166.124"/>
+	<letter char=" " i="49855" time="166.185"/>
+	<letter char="K" i="49873" time="166.246"/>
+	<letter char="E" i="49899" time="166.331"/>
+	<letter char="R" i="49924" time="166.416"/>
+	<letter char="R" i="49950" time="166.501"/>
+	<letter char="A" i="49975" time="166.586"/>
+	<letter char="L" i="50000" time="166.670"/>
+	<letter char="L" i="50026" time="166.755"/>
+	<letter char="A" i="50051" time="166.840"/>
+	<letter char="A" i="50077" time="166.925"/>
+	<letter char="N" i="50102" time="167.010" end-time="167.095"/>
+  </phrase>
+  <phrase text="KUNINGAS ELÄÄ POW-POW" i="49871" time="166.238" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="50171" time="167.238"/>
+	<letter char="U" i="50187" time="167.291"/>
+	<letter char="N" i="50203" time="167.346"/>
+	<letter char="I" i="50219" time="167.399"/>
+	<letter char="N" i="50236" time="167.454"/>
+	<letter char="G" i="50252" time="167.507"/>
+	<letter char="A" i="50268" time="167.562"/>
+	<letter char="S" i="50284" time="167.615"/>
+	<letter char=" " i="50300" time="167.668"/>
+	<letter char="E" i="50316" time="167.723"/>
+	<letter char="L" i="50343" time="167.813"/>
+	<letter char="Ä" i="50371" time="167.904"/>
+	<letter char="Ä" i="50398" time="167.995"/>
+	<letter char=" " i="50425" time="168.085"/>
+	<letter char="P" i="50452" time="168.175"/>
+	<letter char="O" i="50494" time="168.315"/>
+	<letter char="W" i="50536" time="168.455"/>
+	<letter char="-" i="50578" time="168.595"/>
+	<letter char="P" i="50620" time="168.734"/>
+	<letter char="O" i="50662" time="168.875"/>
+	<letter char="W" i="50704" time="169.014" end-time="169.154"/>
+  </phrase>
+  <phrase text="TUHAT VUOTTA ETEENPÄIN" i="50489" time="168.299" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="50789" time="169.299"/>
+	<letter char="U" i="50810" time="169.370"/>
+	<letter char="H" i="50832" time="169.441"/>
+	<letter char="A" i="50853" time="169.512"/>
+	<letter char="T" i="50874" time="169.583"/>
+	<letter char=" " i="50896" time="169.654"/>
+	<letter char="V" i="50917" time="169.725"/>
+	<letter char="U" i="50934" time="169.781"/>
+	<letter char="O" i="50951" time="169.840"/>
+	<letter char="T" i="50969" time="169.897"/>
+	<letter char="T" i="50986" time="169.955"/>
+	<letter char="A" i="51003" time="170.013"/>
+	<letter char=" " i="51021" time="170.070"/>
+	<letter char="E" i="51038" time="170.128"/>
+	<letter char="T" i="51072" time="170.241"/>
+	<letter char="E" i="51105" time="170.353"/>
+	<letter char="E" i="51140" time="170.467"/>
+	<letter char="N" i="51174" time="170.580"/>
+	<letter char="P" i="51207" time="170.693"/>
+	<letter char="Ä" i="51242" time="170.807"/>
+	<letter char="I" i="51275" time="170.919"/>
+	<letter char="N" i="51309" time="171.032" end-time="171.145"/>
+  </phrase>
+  <phrase text="ÄLÄ MIETI MITÄ NYT" i="51383" time="171.279" pos="0/300,0/216" flags="edited">
+	<letter char="Ä" i="51683" time="172.279"/>
+	<letter char="L" i="51703" time="172.346"/>
+	<letter char="Ä" i="51723" time="172.411"/>
+	<letter char=" " i="51743" time="172.477"/>
+	<letter char="M" i="51762" time="172.542"/>
+	<letter char="I" i="51780" time="172.603"/>
+	<letter char="E" i="51798" time="172.663"/>
+	<letter char="T" i="51816" time="172.723"/>
+	<letter char="I" i="51835" time="172.784"/>
+	<letter char=" " i="51852" time="172.843"/>
+	<letter char="M" i="51870" time="172.903"/>
+	<letter char="I" i="51892" time="172.974"/>
+	<letter char="T" i="51913" time="173.045"/>
+	<letter char="Ä" i="51934" time="173.115"/>
+	<letter char=" " i="51955" time="173.186"/>
+	<letter char="N" i="51977" time="173.257"/>
+	<letter char="Y" i="52023" time="173.410"/>
+	<letter char="T" i="52068" time="173.562" end-time="173.715"/>
+  </phrase>
+  <phrase text="MIETI MITÄ SITTEN KUN" i="51981" time="173.270" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="52281" time="174.270"/>
+	<letter char="I" i="52298" time="174.328"/>
+	<letter char="E" i="52315" time="174.385"/>
+	<letter char="T" i="52332" time="174.443"/>
+	<letter char="I" i="52350" time="174.502"/>
+	<letter char=" " i="52367" time="174.560"/>
+	<letter char="M" i="52385" time="174.618"/>
+	<letter char="I" i="52407" time="174.691"/>
+	<letter char="T" i="52428" time="174.763"/>
+	<letter char="Ä" i="52450" time="174.836"/>
+	<letter char=" " i="52472" time="174.908"/>
+	<letter char="S" i="52494" time="174.981"/>
+	<letter char="I" i="52511" time="175.038"/>
+	<letter char="T" i="52528" time="175.094"/>
+	<letter char="T" i="52545" time="175.151"/>
+	<letter char="E" i="52562" time="175.207"/>
+	<letter char="N" i="52579" time="175.264"/>
+	<letter char=" " i="52596" time="175.320"/>
+	<letter char="K" i="52613" time="175.377"/>
+	<letter char="U" i="52645" time="175.484"/>
+	<letter char="N" i="52677" time="175.592" end-time="175.699"/>
+  </phrase>
+  <phrase text="TÄMÄ KAIKKI PÄÄTTYY" i="52478" time="174.930" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="52778" time="175.930"/>
+	<letter char="Ä" i="52792" time="175.976"/>
+	<letter char="M" i="52806" time="176.022"/>
+	<letter char="Ä" i="52820" time="176.067"/>
+	<letter char=" " i="52833" time="176.113"/>
+	<letter char="K" i="52847" time="176.159"/>
+	<letter char="A" i="52859" time="176.200"/>
+	<letter char="I" i="52872" time="176.242"/>
+	<letter char="K" i="52885" time="176.284"/>
+	<letter char="K" i="52897" time="176.326"/>
+	<letter char="I" i="52910" time="176.367"/>
+	<letter char=" " i="52922" time="176.409"/>
+	<letter char="P" i="52935" time="176.451"/>
+	<letter char="Ä" i="52950" time="176.500"/>
+	<letter char="Ä" i="52964" time="176.547"/>
+	<letter char="T" i="52978" time="176.596"/>
+	<letter char="T" i="52993" time="176.645"/>
+	<letter char="Y" i="53008" time="176.694"/>
+	<letter char="Y" i="53022" time="176.742" end-time="176.790"/>
+  </phrase>
+  <phrase text="VANHAKSI PASKAKSI KUIHDUT" i="52746" time="175.820" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="53046" time="176.820"/>
+	<letter char="A" i="53060" time="176.869"/>
+	<letter char="N" i="53075" time="176.917"/>
+	<letter char="H" i="53089" time="176.966"/>
+	<letter char="A" i="53104" time="177.015"/>
+	<letter char="K" i="53119" time="177.064"/>
+	<letter char="S" i="53133" time="177.113"/>
+	<letter char="I" i="53148" time="177.162"/>
+	<letter char=" " i="53163" time="177.211"/>
+	<letter char="P" i="53177" time="177.259"/>
+	<letter char="A" i="53196" time="177.321"/>
+	<letter char="S" i="53214" time="177.381"/>
+	<letter char="K" i="53232" time="177.442"/>
+	<letter char="A" i="53251" time="177.504"/>
+	<letter char="K" i="53269" time="177.565"/>
+	<letter char="S" i="53288" time="177.627"/>
+	<letter char="I" i="53306" time="177.688"/>
+	<letter char=" " i="53324" time="177.749"/>
+	<letter char="K" i="53342" time="177.810"/>
+	<letter char="U" i="53367" time="177.893"/>
+	<letter char="I" i="53392" time="177.975"/>
+	<letter char="H" i="53417" time="178.058"/>
+	<letter char="D" i="53441" time="178.140"/>
+	<letter char="U" i="53466" time="178.223"/>
+	<letter char="T" i="53491" time="178.305" end-time="178.387"/>
+  </phrase>
+  <phrase text="VOIT SEURATA MAAILMAA" i="53220" time="177.401" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="53520" time="178.401"/>
+	<letter char="O" i="53530" time="178.436"/>
+	<letter char="I" i="53541" time="178.471"/>
+	<letter char="T" i="53552" time="178.507"/>
+	<letter char=" " i="53562" time="178.542"/>
+	<letter char="S" i="53573" time="178.577"/>
+	<letter char="E" i="53588" time="178.629"/>
+	<letter char="U" i="53604" time="178.681"/>
+	<letter char="R" i="53619" time="178.733"/>
+	<letter char="A" i="53635" time="178.785"/>
+	<letter char="T" i="53651" time="178.837"/>
+	<letter char="A" i="53666" time="178.888"/>
+	<letter char=" " i="53682" time="178.940"/>
+	<letter char="M" i="53697" time="178.992"/>
+	<letter char="A" i="53721" time="179.072"/>
+	<letter char="A" i="53745" time="179.152"/>
+	<letter char="I" i="53769" time="179.232"/>
+	<letter char="L" i="53793" time="179.311"/>
+	<letter char="M" i="53817" time="179.391"/>
+	<letter char="A" i="53841" time="179.471"/>
+	<letter char="A" i="53865" time="179.550" end-time="179.630"/>
+  </phrase>
+  <phrase text="TAI RAKENTAA UUDEN" i="53627" time="178.759" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="53927" time="179.759"/>
+	<letter char="A" i="53942" time="179.808"/>
+	<letter char="I" i="53957" time="179.857"/>
+	<letter char=" " i="53972" time="179.908"/>
+	<letter char="R" i="53987" time="179.957"/>
+	<letter char="A" i="54003" time="180.012"/>
+	<letter char="K" i="54020" time="180.067"/>
+	<letter char="E" i="54036" time="180.122"/>
+	<letter char="N" i="54053" time="180.177"/>
+	<letter char="T" i="54069" time="180.232"/>
+	<letter char="A" i="54085" time="180.286"/>
+	<letter char="A" i="54102" time="180.342"/>
+	<letter char=" " i="54119" time="180.397"/>
+	<letter char="U" i="54135" time="180.452"/>
+	<letter char="U" i="54166" time="180.555"/>
+	<letter char="D" i="54197" time="180.659"/>
+	<letter char="E" i="54228" time="180.761"/>
+	<letter char="N" i="54259" time="180.865" end-time="180.969"/>
+  </phrase>
+  <phrase text="MITÄ KAUEMPAA" i="53996" time="179.989" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="54296" time="180.989"/>
+	<letter char="I" i="54311" time="181.037"/>
+	<letter char="T" i="54325" time="181.085"/>
+	<letter char="Ä" i="54339" time="181.133"/>
+	<letter char=" " i="54354" time="181.182"/>
+	<letter char="K" i="54368" time="181.230"/>
+	<letter char="A" i="54397" time="181.326"/>
+	<letter char="U" i="54426" time="181.422"/>
+	<letter char="E" i="54455" time="181.519"/>
+	<letter char="M" i="54484" time="181.616"/>
+	<letter char="P" i="54513" time="181.711"/>
+	<letter char="A" i="54542" time="181.808"/>
+	<letter char="A" i="54571" time="181.905" end-time="182.002"/>
+  </phrase>
+  <phrase text="KATSOT IHMISKUNTAA" i="54304" time="181.015" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="54604" time="182.015"/>
+	<letter char="A" i="54619" time="182.064"/>
+	<letter char="T" i="54633" time="182.113"/>
+	<letter char="S" i="54648" time="182.162"/>
+	<letter char="O" i="54663" time="182.211"/>
+	<letter char="T" i="54677" time="182.259"/>
+	<letter char=" " i="54692" time="182.308"/>
+	<letter char="I" i="54707" time="182.357"/>
+	<letter char="H" i="54725" time="182.419"/>
+	<letter char="M" i="54744" time="182.482"/>
+	<letter char="I" i="54763" time="182.544"/>
+	<letter char="S" i="54782" time="182.607"/>
+	<letter char="K" i="54800" time="182.669"/>
+	<letter char="U" i="54819" time="182.731"/>
+	<letter char="N" i="54838" time="182.794"/>
+	<letter char="T" i="54856" time="182.856"/>
+	<letter char="A" i="54875" time="182.919"/>
+	<letter char="A" i="54894" time="182.981" end-time="183.043"/>
+  </phrase>
+  <phrase text="SITÄ HELPOMPAA ON" i="54618" time="182.061" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="54918" time="183.061"/>
+	<letter char="I" i="54935" time="183.118"/>
+	<letter char="T" i="54952" time="183.174"/>
+	<letter char="Ä" i="54968" time="183.230"/>
+	<letter char=" " i="54985" time="183.286"/>
+	<letter char="H" i="55002" time="183.341"/>
+	<letter char="E" i="55029" time="183.431"/>
+	<letter char="L" i="55056" time="183.521"/>
+	<letter char="P" i="55083" time="183.612"/>
+	<letter char="O" i="55110" time="183.703"/>
+	<letter char="M" i="55137" time="183.793"/>
+	<letter char="P" i="55164" time="183.883"/>
+	<letter char="A" i="55191" time="183.973"/>
+	<letter char="A" i="55218" time="184.063"/>
+	<letter char=" " i="55246" time="184.154"/>
+	<letter char="O" i="55273" time="184.244"/>
+	<letter char="N" i="55318" time="184.396" end-time="184.549"/>
+  </phrase>
+  <phrase text="SE VISIOILLESI ORJUUTTAA" i="55187" time="183.957" pos="0/300,0/216" flags="edited">
+	<letter char="S" i="55487" time="184.957"/>
+	<letter char="E" i="55505" time="185.018"/>
+	<letter char=" " i="55523" time="185.077"/>
+	<letter char="V" i="55541" time="185.138"/>
+	<letter char="I" i="55562" time="185.208"/>
+	<letter char="S" i="55583" time="185.277"/>
+	<letter char="I" i="55604" time="185.347"/>
+	<letter char="O" i="55625" time="185.417"/>
+	<letter char="I" i="55646" time="185.487"/>
+	<letter char="L" i="55667" time="185.557"/>
+	<letter char="L" i="55688" time="185.627"/>
+	<letter char="E" i="55709" time="185.697"/>
+	<letter char="S" i="55729" time="185.766"/>
+	<letter char="I" i="55750" time="185.836"/>
+	<letter char=" " i="55771" time="185.906"/>
+	<letter char="O" i="55792" time="185.976"/>
+	<letter char="R" i="55821" time="186.072"/>
+	<letter char="J" i="55850" time="186.169"/>
+	<letter char="U" i="55880" time="186.267"/>
+	<letter char="U" i="55908" time="186.363"/>
+	<letter char="T" i="55938" time="186.460"/>
+	<letter char="T" i="55967" time="186.557"/>
+	<letter char="A" i="55996" time="186.654"/>
+	<letter char="A" i="56025" time="186.751" end-time="186.848"/>
+  </phrase>
+  <phrase text="VISIOI VIIMENEN VIDEO" i="55761" time="185.873" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="56061" time="186.873"/>
+	<letter char="I" i="56081" time="186.938"/>
+	<letter char="S" i="56101" time="187.004"/>
+	<letter char="I" i="56120" time="187.069"/>
+	<letter char="O" i="56140" time="187.134"/>
+	<letter char="I" i="56159" time="187.199"/>
+	<letter char=" " i="56179" time="187.266"/>
+	<letter char="V" i="56199" time="187.331"/>
+	<letter char="I" i="56220" time="187.403"/>
+	<letter char="I" i="56241" time="187.473"/>
+	<letter char="M" i="56263" time="187.545"/>
+	<letter char="E" i="56284" time="187.616"/>
+	<letter char="N" i="56306" time="187.688"/>
+	<letter char="E" i="56327" time="187.760"/>
+	<letter char="N" i="56349" time="187.831"/>
+	<letter char=" " i="56370" time="187.903"/>
+	<letter char="V" i="56392" time="187.974"/>
+	<letter char="I" i="56424" time="188.082"/>
+	<letter char="D" i="56456" time="188.189"/>
+	<letter char="E" i="56488" time="188.296"/>
+	<letter char="O" i="56520" time="188.403" end-time="188.510"/>
+  </phrase>
+  <phrase text="VIELÄ VIKANA ILTANA" i="56359" time="187.864" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="56659" time="188.864"/>
+	<letter char="I" i="56682" time="188.943"/>
+	<letter char="E" i="56706" time="189.022"/>
+	<letter char="L" i="56730" time="189.101"/>
+	<letter char="Ä" i="56754" time="189.181"/>
+	<letter char=" " i="56777" time="189.260"/>
+	<letter char="V" i="56801" time="189.339"/>
+	<letter char="I" i="56821" time="189.406"/>
+	<letter char="K" i="56841" time="189.473"/>
+	<letter char="A" i="56861" time="189.540"/>
+	<letter char="N" i="56882" time="189.607"/>
+	<letter char="A" i="56902" time="189.674"/>
+	<letter char=" " i="56922" time="189.740"/>
+	<letter char="I" i="56942" time="189.807"/>
+	<letter char="L" i="56982" time="189.942"/>
+	<letter char="T" i="57022" time="190.076"/>
+	<letter char="A" i="57063" time="190.210"/>
+	<letter char="N" i="57102" time="190.343"/>
+	<letter char="A" i="57143" time="190.478" end-time="190.612"/>
+  </phrase>
+  <phrase text="ILLALLISTAT ILKOISILLAAN" i="56937" time="189.793" pos="0/300,0/216" flags="edited">
+	<letter char="I" i="57237" time="190.793"/>
+	<letter char="L" i="57253" time="190.845"/>
+	<letter char="L" i="57268" time="190.896"/>
+	<letter char="A" i="57284" time="190.948"/>
+	<letter char="L" i="57300" time="191.000"/>
+	<letter char="L" i="57315" time="191.051"/>
+	<letter char="I" i="57330" time="191.103"/>
+	<letter char="S" i="57345" time="191.153"/>
+	<letter char="T" i="57361" time="191.205"/>
+	<letter char="A" i="57377" time="191.257"/>
+	<letter char="T" i="57392" time="191.308"/>
+	<letter char=" " i="57408" time="191.360"/>
+	<letter char="I" i="57423" time="191.411"/>
+	<letter char="L" i="57441" time="191.472"/>
+	<letter char="K" i="57459" time="191.532"/>
+	<letter char="O" i="57477" time="191.592"/>
+	<letter char="I" i="57495" time="191.653"/>
+	<letter char="S" i="57513" time="191.713"/>
+	<letter char="I" i="57531" time="191.773"/>
+	<letter char="L" i="57549" time="191.833"/>
+	<letter char="L" i="57567" time="191.893"/>
+	<letter char="A" i="57586" time="191.954"/>
+	<letter char="A" i="57604" time="192.014"/>
+	<letter char="N" i="57622" time="192.074" end-time="192.134"/>
+  </phrase>
+  <phrase text="VIERAAT" i="57345" time="191.152" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="57645" time="192.152"/>
+	<letter char="I" i="57668" time="192.227"/>
+	<letter char="E" i="57690" time="192.303"/>
+	<letter char="R" i="57713" time="192.379"/>
+	<letter char="A" i="57736" time="192.455"/>
+	<letter char="A" i="57759" time="192.531"/>
+	<letter char="T" i="57782" time="192.607" end-time="192.682"/>
+  </phrase>
+  <phrase text="VIESTI ILMOITELLAAN VIRTANAAN" i="57508" time="191.696" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="57808" time="192.696"/>
+	<letter char="I" i="57825" time="192.751"/>
+	<letter char="E" i="57841" time="192.805"/>
+	<letter char="S" i="57858" time="192.860"/>
+	<letter char="T" i="57874" time="192.915"/>
+	<letter char="I" i="57891" time="192.970"/>
+	<letter char=" " i="57907" time="193.025"/>
+	<letter char="I" i="57923" time="193.079"/>
+	<letter char="L" i="57940" time="193.136"/>
+	<letter char="M" i="57957" time="193.193"/>
+	<letter char="O" i="57975" time="193.250"/>
+	<letter char="I" i="57991" time="193.306"/>
+	<letter char="T" i="58008" time="193.362"/>
+	<letter char="E" i="58025" time="193.420"/>
+	<letter char="L" i="58042" time="193.476"/>
+	<letter char="L" i="58059" time="193.533"/>
+	<letter char="A" i="58076" time="193.589"/>
+	<letter char="A" i="58093" time="193.646"/>
+	<letter char="N" i="58110" time="193.703"/>
+	<letter char=" " i="58127" time="193.759"/>
+	<letter char="V" i="58145" time="193.817"/>
+	<letter char="I" i="58164" time="193.882"/>
+	<letter char="R" i="58184" time="193.947"/>
+	<letter char="T" i="58203" time="194.012"/>
+	<letter char="A" i="58223" time="194.077"/>
+	<letter char="N" i="58242" time="194.141"/>
+	<letter char="A" i="58261" time="194.206"/>
+	<letter char="A" i="58281" time="194.271"/>
+	<letter char="N" i="58300" time="194.336" end-time="194.401"/>
+  </phrase>
+  <phrase text="VIRKAVALTA VISKATAAN ILMAAN" i="58024" time="193.414" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="58324" time="194.414"/>
+	<letter char="I" i="58341" time="194.471"/>
+	<letter char="R" i="58357" time="194.525"/>
+	<letter char="K" i="58374" time="194.581"/>
+	<letter char="A" i="58390" time="194.636"/>
+	<letter char="V" i="58407" time="194.692"/>
+	<letter char="A" i="58424" time="194.748"/>
+	<letter char="L" i="58440" time="194.803"/>
+	<letter char="T" i="58457" time="194.859"/>
+	<letter char="A" i="58474" time="194.914"/>
+	<letter char=" " i="58491" time="194.970"/>
+	<letter char="V" i="58507" time="195.026"/>
+	<letter char="I" i="58525" time="195.086"/>
+	<letter char="S" i="58543" time="195.146"/>
+	<letter char="K" i="58561" time="195.205"/>
+	<letter char="A" i="58579" time="195.265"/>
+	<letter char="T" i="58597" time="195.325"/>
+	<letter char="A" i="58615" time="195.385"/>
+	<letter char="A" i="58633" time="195.444"/>
+	<letter char="N" i="58651" time="195.504"/>
+	<letter char=" " i="58669" time="195.564"/>
+	<letter char="I" i="58687" time="195.624"/>
+	<letter char="L" i="58724" time="195.749"/>
+	<letter char="M" i="58761" time="195.873"/>
+	<letter char="A" i="58799" time="195.997"/>
+	<letter char="A" i="58836" time="196.122"/>
+	<letter char="N" i="58873" time="196.246" end-time="196.371"/>
+  </phrase>
+  <phrase text="POW-PA POW-PA PAAH" i="58676" time="195.589" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="58976" time="196.589"/>
+	<letter char="O" i="59008" time="196.695"/>
+	<letter char="W" i="59040" time="196.801"/>
+	<letter char="-" i="59071" time="196.906"/>
+	<letter char="P" i="59153" time="197.180"/>
+	<letter char="A" i="59172" time="197.241"/>
+	<letter char=" " i="59188" time="197.295"/>
+	<letter char="P" i="59199" time="197.330"/>
+	<letter char="O" i="59223" time="197.413"/>
+	<letter char="W" i="59249" time="197.497"/>
+	<letter char="-" i="59274" time="197.580"/>
+	<letter char="P" i="59298" time="197.663"/>
+	<letter char="A" i="59323" time="197.746"/>
+	<letter char=" " i="59349" time="197.830"/>
+	<letter char="P" i="59373" time="197.913"/>
+	<letter char="A" i="59413" time="198.046"/>
+	<letter char="A" i="59453" time="198.178"/>
+	<letter char="H" i="59493" time="198.311" end-time="198.443"/>
+  </phrase>
+  <phrase text="ILAHDUT ILMIANTAJAN PAIKKAAN" i="59234" time="197.450" pos="0/300,0/216" flags="edited">
+	<letter char="I" i="59534" time="198.450"/>
+	<letter char="L" i="59558" time="198.527"/>
+	<letter char="A" i="59581" time="198.606"/>
+	<letter char="H" i="59605" time="198.685"/>
+	<letter char="D" i="59628" time="198.762"/>
+	<letter char="U" i="59652" time="198.841"/>
+	<letter char="T" i="59675" time="198.919"/>
+	<letter char=" " i="59699" time="198.997"/>
+	<letter char="I" i="59722" time="199.075"/>
+	<letter char="L" i="59753" time="199.179"/>
+	<letter char="M" i="59784" time="199.283"/>
+	<letter char="I" i="59815" time="199.386"/>
+	<letter char="A" i="59846" time="199.489"/>
+	<letter char="N" i="59878" time="199.594"/>
+	<letter char="T" i="59909" time="199.697"/>
+	<letter char="A" i="59940" time="199.800"/>
+	<letter char="J" i="59970" time="199.903"/>
+	<letter char="A" i="60002" time="200.008"/>
+	<letter char="N" i="60033" time="200.111"/>
+	<letter char=" " i="60064" time="200.214"/>
+	<letter char="P" i="60095" time="200.319"/>
+	<letter char="A" i="60116" time="200.389"/>
+	<letter char="I" i="60138" time="200.461"/>
+	<letter char="K" i="60159" time="200.533"/>
+	<letter char="K" i="60180" time="200.603"/>
+	<letter char="A" i="60202" time="200.675"/>
+	<letter char="A" i="60224" time="200.747"/>
+	<letter char="N" i="60245" time="200.818" end-time="200.889"/>
+  </phrase>
+  <phrase text="PARHAAT PALAT PAIMENELLE" i="59973" time="199.910" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="60273" time="200.910"/>
+	<letter char="A" i="60283" time="200.944"/>
+	<letter char="R" i="60293" time="200.978"/>
+	<letter char="H" i="60303" time="201.013"/>
+	<letter char="A" i="60314" time="201.048"/>
+	<letter char="A" i="60324" time="201.081"/>
+	<letter char="T" i="60334" time="201.116"/>
+	<letter char=" " i="60345" time="201.151"/>
+	<letter char="P" i="60355" time="201.185"/>
+	<letter char="A" i="60371" time="201.238"/>
+	<letter char="L" i="60386" time="201.290"/>
+	<letter char="A" i="60402" time="201.343"/>
+	<letter char="T" i="60418" time="201.395"/>
+	<letter char=" " i="60434" time="201.447"/>
+	<letter char="P" i="60449" time="201.499"/>
+	<letter char="A" i="60472" time="201.576"/>
+	<letter char="I" i="60495" time="201.652"/>
+	<letter char="M" i="60518" time="201.728"/>
+	<letter char="E" i="60541" time="201.805"/>
+	<letter char="N" i="60564" time="201.881"/>
+	<letter char="E" i="60587" time="201.957"/>
+	<letter char="L" i="60610" time="202.034"/>
+	<letter char="L" i="60633" time="202.110"/>
+	<letter char="E" i="60656" time="202.187" end-time="202.262"/>
+  </phrase>
+  <phrase text="PASKA PAINAJAINEN MUILLE" i="60384" time="201.282" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="60684" time="202.282"/>
+	<letter char="A" i="60699" time="202.331"/>
+	<letter char="S" i="60714" time="202.382"/>
+	<letter char="K" i="60729" time="202.432"/>
+	<letter char="A" i="60744" time="202.483"/>
+	<letter char=" " i="60759" time="202.532"/>
+	<letter char="P" i="60774" time="202.581"/>
+	<letter char="A" i="60796" time="202.656"/>
+	<letter char="I" i="60819" time="202.731"/>
+	<letter char="N" i="60841" time="202.805"/>
+	<letter char="A" i="60864" time="202.880"/>
+	<letter char="J" i="60886" time="202.955"/>
+	<letter char="A" i="60908" time="203.030"/>
+	<letter char="I" i="60931" time="203.105"/>
+	<letter char="N" i="60953" time="203.179"/>
+	<letter char="E" i="60975" time="203.253"/>
+	<letter char="N" i="60998" time="203.328"/>
+	<letter char=" " i="61020" time="203.403"/>
+	<letter char="M" i="61043" time="203.478"/>
+	<letter char="U" i="61084" time="203.615"/>
+	<letter char="I" i="61125" time="203.752"/>
+	<letter char="L" i="61166" time="203.888"/>
+	<letter char="L" i="61207" time="204.025"/>
+	<letter char="E" i="61248" time="204.163" end-time="204.300"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="61140" time="203.803" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="61440" time="204.803"/>
+	<letter char="N" i="61460" time="204.869"/>
+	<letter char=" " i="61480" time="204.934"/>
+	<letter char="E" i="61500" time="205.000"/>
+	<letter char="T" i="61517" time="205.060"/>
+	<letter char="S" i="61535" time="205.120"/>
+	<letter char="I" i="61554" time="205.181"/>
+	<letter char=" " i="61572" time="205.241"/>
+	<letter char="T" i="61590" time="205.302"/>
+	<letter char="U" i="61626" time="205.421"/>
+	<letter char="H" i="61662" time="205.542"/>
+	<letter char="K" i="61698" time="205.662"/>
+	<letter char="I" i="61734" time="205.783"/>
+	<letter char="M" i="61770" time="205.903"/>
+	<letter char="O" i="61806" time="206.022"/>
+	<letter char="T" i="61842" time="206.143"/>
+	<letter char="A" i="61878" time="206.263"/>
+	<letter char="R" i="61915" time="206.384"/>
+	<letter char="I" i="61951" time="206.504"/>
+	<letter char="N" i="61987" time="206.625"/>
+	<letter char="A" i="62023" time="206.744"/>
+	<letter char="A" i="62059" time="206.865" end-time="206.985"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="61978" time="206.596" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="62278" time="207.596"/>
+	<letter char="A" i="62290" time="207.635"/>
+	<letter char="A" i="62301" time="207.672"/>
+	<letter char="N" i="62313" time="207.710"/>
+	<letter char=" " i="62324" time="207.747"/>
+	<letter char="P" i="62335" time="207.785"/>
+	<letter char="A" i="62349" time="207.830"/>
+	<letter char="L" i="62362" time="207.876"/>
+	<letter char="J" i="62376" time="207.921"/>
+	<letter char="O" i="62390" time="207.968"/>
+	<letter char="N" i="62404" time="208.014"/>
+	<letter char=" " i="62417" time="208.059"/>
+	<letter char="K" i="62431" time="208.105"/>
+	<letter char="I" i="62459" time="208.198"/>
+	<letter char="P" i="62487" time="208.293"/>
+	<letter char="U" i="62516" time="208.387"/>
+	<letter char="A" i="62544" time="208.481"/>
+	<letter char=" " i="62572" time="208.575"/>
+	<letter char="J" i="62600" time="208.669"/>
+	<letter char="A" i="62618" time="208.728"/>
+	<letter char=" " i="62635" time="208.786"/>
+	<letter char="K" i="62653" time="208.845"/>
+	<letter char="U" i="62703" time="209.011"/>
+	<letter char="O" i="62753" time="209.177"/>
+	<letter char="L" i="62802" time="209.343"/>
+	<letter char="E" i="62852" time="209.509"/>
+	<letter char="M" i="62902" time="209.674"/>
+	<letter char="A" i="62951" time="209.840"/>
+	<letter char="A" i="63001" time="210.006" end-time="210.171"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="62822" time="209.408" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="63122" time="210.408"/>
+	<letter char="O" i="63134" time="210.450"/>
+	<letter char="S" i="63147" time="210.490"/>
+	<letter char=" " i="63159" time="210.532"/>
+	<letter char="P" i="63172" time="210.574"/>
+	<letter char="Ä" i="63186" time="210.621"/>
+	<letter char="Ä" i="63200" time="210.669"/>
+	<letter char="D" i="63214" time="210.715"/>
+	<letter char="Y" i="63228" time="210.762"/>
+	<letter char="T" i="63242" time="210.809"/>
+	<letter char=" " i="63257" time="210.857"/>
+	<letter char="K" i="63271" time="210.904"/>
+	<letter char="A" i="63293" time="210.978"/>
+	<letter char="N" i="63315" time="211.053"/>
+	<letter char="S" i="63338" time="211.128"/>
+	<letter char="S" i="63360" time="211.203"/>
+	<letter char="A" i="63383" time="211.278"/>
+	<letter char="N" i="63405" time="211.353"/>
+	<letter char="I" i="63428" time="211.427"/>
+	<letter char=" " i="63450" time="211.502"/>
+	<letter char="L" i="63472" time="211.576"/>
+	<letter char="Ä" i="63521" time="211.739"/>
+	<letter char="H" i="63570" time="211.901"/>
+	<letter char="T" i="63618" time="212.062"/>
+	<letter char="E" i="63667" time="212.224"/>
+	<letter char="M" i="63715" time="212.385"/>
+	<letter char="Ä" i="63764" time="212.547"/>
+	<letter char="Ä" i="63812" time="212.709"/>
+	<letter char="N" i="63860" time="212.870" end-time="213.032"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="63692" time="212.309" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="63992" time="213.309"/>
+	<letter char="U" i="64011" time="213.371"/>
+	<letter char="L" i="64029" time="213.433"/>
+	<letter char="E" i="64048" time="213.495"/>
+	<letter char="T" i="64067" time="213.559"/>
+	<letter char=" " i="64086" time="213.621"/>
+	<letter char="I" i="64104" time="213.683"/>
+	<letter char="K" i="64125" time="213.753"/>
+	<letter char="U" i="64146" time="213.823"/>
+	<letter char="I" i="64167" time="213.892"/>
+	<letter char="S" i="64188" time="213.963"/>
+	<letter char="E" i="64209" time="214.032"/>
+	<letter char="S" i="64230" time="214.102"/>
+	<letter char="T" i="64251" time="214.173"/>
+	<letter char="I" i="64272" time="214.242"/>
+	<letter char=" " i="64293" time="214.312"/>
+	<letter char="K" i="64314" time="214.382"/>
+	<letter char="Ä" i="64361" time="214.538"/>
+	<letter char="R" i="64408" time="214.694"/>
+	<letter char="S" i="64454" time="214.849"/>
+	<letter char="I" i="64501" time="215.005"/>
+	<letter char="M" i="64548" time="215.160"/>
+	<letter char="Ä" i="64594" time="215.316"/>
+	<letter char="Ä" i="64641" time="215.472"/>
+	<letter char="N" i="64688" time="215.628" end-time="215.783"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="64501" time="215.006" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="64801" time="216.006"/>
+	<letter char="N" i="64817" time="216.059"/>
+	<letter char=" " i="64833" time="216.113"/>
+	<letter char="E" i="64849" time="216.166"/>
+	<letter char="T" i="64868" time="216.230"/>
+	<letter char="S" i="64888" time="216.295"/>
+	<letter char="I" i="64907" time="216.359"/>
+	<letter char=" " i="64927" time="216.424"/>
+	<letter char="T" i="64946" time="216.489"/>
+	<letter char="U" i="64989" time="216.630"/>
+	<letter char="H" i="65031" time="216.772"/>
+	<letter char="K" i="65074" time="216.914"/>
+	<letter char="I" i="65116" time="217.056"/>
+	<letter char="M" i="65159" time="217.197"/>
+	<letter char="O" i="65201" time="217.339"/>
+	<letter char="T" i="65244" time="217.481"/>
+	<letter char="A" i="65286" time="217.622"/>
+	<letter char="R" i="65329" time="217.765"/>
+	<letter char="I" i="65372" time="217.907"/>
+	<letter char="N" i="65414" time="218.049"/>
+	<letter char="A" i="65457" time="218.190"/>
+	<letter char="A" i="65499" time="218.332" end-time="218.474"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="65329" time="217.765" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="65629" time="218.765"/>
+	<letter char="A" i="65640" time="218.801"/>
+	<letter char="A" i="65651" time="218.838"/>
+	<letter char="N" i="65661" time="218.873"/>
+	<letter char=" " i="65672" time="218.909"/>
+	<letter char="P" i="65683" time="218.946"/>
+	<letter char="A" i="65697" time="218.992"/>
+	<letter char="L" i="65711" time="219.040"/>
+	<letter char="J" i="65726" time="219.087"/>
+	<letter char="O" i="65739" time="219.133"/>
+	<letter char="N" i="65753" time="219.180"/>
+	<letter char=" " i="65767" time="219.226"/>
+	<letter char="K" i="65782" time="219.274"/>
+	<letter char="I" i="65809" time="219.364"/>
+	<letter char="P" i="65836" time="219.455"/>
+	<letter char="U" i="65863" time="219.545"/>
+	<letter char="A" i="65890" time="219.636"/>
+	<letter char=" " i="65918" time="219.727"/>
+	<letter char="J" i="65945" time="219.817"/>
+	<letter char="A" i="65966" time="219.890"/>
+	<letter char=" " i="65988" time="219.962"/>
+	<letter char="K" i="66010" time="220.035"/>
+	<letter char="U" i="66054" time="220.183"/>
+	<letter char="O" i="66099" time="220.333"/>
+	<letter char="L" i="66144" time="220.482"/>
+	<letter char="E" i="66189" time="220.630"/>
+	<letter char="M" i="66233" time="220.779"/>
+	<letter char="A" i="66278" time="220.928"/>
+	<letter char="A" i="66323" time="221.077" end-time="221.225"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="66152" time="220.510" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="66452" time="221.510"/>
+	<letter char="O" i="66468" time="221.562"/>
+	<letter char="S" i="66484" time="221.615"/>
+	<letter char=" " i="66500" time="221.667"/>
+	<letter char="P" i="66516" time="221.720"/>
+	<letter char="Ä" i="66534" time="221.781"/>
+	<letter char="Ä" i="66552" time="221.841"/>
+	<letter char="D" i="66569" time="221.900"/>
+	<letter char="Y" i="66588" time="221.961"/>
+	<letter char="T" i="66606" time="222.020"/>
+	<letter char=" " i="66624" time="222.081"/>
+	<letter char="K" i="66642" time="222.141"/>
+	<letter char="A" i="66661" time="222.206"/>
+	<letter char="N" i="66681" time="222.271"/>
+	<letter char="S" i="66700" time="222.336"/>
+	<letter char="S" i="66720" time="222.401"/>
+	<letter char="A" i="66739" time="222.466"/>
+	<letter char="N" i="66759" time="222.531"/>
+	<letter char="I" i="66778" time="222.595"/>
+	<letter char=" " i="66798" time="222.660"/>
+	<letter char="L" i="66817" time="222.726"/>
+	<letter char="Ä" i="66865" time="222.886"/>
+	<letter char="H" i="66913" time="223.046"/>
+	<letter char="T" i="66961" time="223.206"/>
+	<letter char="E" i="67009" time="223.366"/>
+	<letter char="M" i="67057" time="223.526"/>
+	<letter char="Ä" i="67106" time="223.687"/>
+	<letter char="Ä" i="67154" time="223.847"/>
+	<letter char="N" i="67202" time="224.007" end-time="224.167"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="67078" time="223.594" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="67378" time="224.594"/>
+	<letter char="U" i="67395" time="224.652"/>
+	<letter char="L" i="67412" time="224.709"/>
+	<letter char="E" i="67430" time="224.767"/>
+	<letter char="T" i="67447" time="224.825"/>
+	<letter char=" " i="67464" time="224.882"/>
+	<letter char="I" i="67482" time="224.941"/>
+	<letter char="K" i="67499" time="224.998"/>
+	<letter char="U" i="67516" time="225.056"/>
+	<letter char="I" i="67533" time="225.113"/>
+	<letter char="S" i="67551" time="225.171"/>
+	<letter char="E" i="67568" time="225.228"/>
+	<letter char="S" i="67586" time="225.287"/>
+	<letter char="T" i="67603" time="225.344"/>
+	<letter char="I" i="67620" time="225.402"/>
+	<letter char=" " i="67637" time="225.459"/>
+	<letter char="K" i="67655" time="225.517"/>
+	<letter char="Ä" i="67693" time="225.646"/>
+	<letter char="R" i="67732" time="225.774"/>
+	<letter char="S" i="67770" time="225.902"/>
+	<letter char="I" i="67809" time="226.031"/>
+	<letter char="M" i="67847" time="226.159"/>
+	<letter char="Ä" i="67886" time="226.288"/>
+	<letter char="Ä" i="67924" time="226.416"/>
+	<letter char="N" i="67963" time="226.544" end-time="226.673"/>
+  </phrase>
+  <phrase text="EN ETSI TUHKIMOTARINAA" i="67844" time="226.149" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="68144" time="227.149"/>
+	<letter char="N" i="68162" time="227.209"/>
+	<letter char=" " i="68181" time="227.270"/>
+	<letter char="E" i="68199" time="227.330"/>
+	<letter char="T" i="68217" time="227.393"/>
+	<letter char="S" i="68236" time="227.455"/>
+	<letter char="I" i="68255" time="227.519"/>
+	<letter char=" " i="68274" time="227.582"/>
+	<letter char="T" i="68293" time="227.645"/>
+	<letter char="U" i="68334" time="227.783"/>
+	<letter char="H" i="68376" time="227.922"/>
+	<letter char="K" i="68417" time="228.060"/>
+	<letter char="I" i="68459" time="228.198"/>
+	<letter char="M" i="68500" time="228.336"/>
+	<letter char="O" i="68542" time="228.474"/>
+	<letter char="T" i="68583" time="228.612"/>
+	<letter char="A" i="68625" time="228.751"/>
+	<letter char="R" i="68666" time="228.889"/>
+	<letter char="I" i="68708" time="229.028"/>
+	<letter char="N" i="68749" time="229.166"/>
+	<letter char="A" i="68791" time="229.304"/>
+	<letter char="A" i="68832" time="229.442" end-time="229.581"/>
+  </phrase>
+  <phrase text="VAAN PALJON KIPUA JA KUOLEMAA" i="68666" time="228.887" pos="0/300,0/216" flags="edited">
+	<letter char="V" i="68966" time="229.887"/>
+	<letter char="A" i="68980" time="229.934"/>
+	<letter char="A" i="68994" time="229.982"/>
+	<letter char="N" i="69008" time="230.029"/>
+	<letter char=" " i="69023" time="230.077"/>
+	<letter char="P" i="69037" time="230.124"/>
+	<letter char="A" i="69052" time="230.174"/>
+	<letter char="L" i="69066" time="230.222"/>
+	<letter char="J" i="69081" time="230.271"/>
+	<letter char="O" i="69095" time="230.319"/>
+	<letter char="N" i="69110" time="230.368"/>
+	<letter char=" " i="69125" time="230.417"/>
+	<letter char="K" i="69139" time="230.465"/>
+	<letter char="I" i="69167" time="230.558"/>
+	<letter char="P" i="69195" time="230.651"/>
+	<letter char="U" i="69223" time="230.744"/>
+	<letter char="A" i="69251" time="230.837"/>
+	<letter char=" " i="69278" time="230.929"/>
+	<letter char="J" i="69306" time="231.022"/>
+	<letter char="A" i="69324" time="231.083"/>
+	<letter char=" " i="69343" time="231.144"/>
+	<letter char="K" i="69361" time="231.205"/>
+	<letter char="U" i="69407" time="231.357"/>
+	<letter char="O" i="69453" time="231.511"/>
+	<letter char="L" i="69498" time="231.663"/>
+	<letter char="E" i="69545" time="231.817"/>
+	<letter char="M" i="69590" time="231.969"/>
+	<letter char="A" i="69636" time="232.123"/>
+	<letter char="A" i="69682" time="232.275" end-time="232.429"/>
+  </phrase>
+  <phrase text="JOS PÄÄDYT KANSSANI LÄHTEMÄÄN" i="69503" time="231.679" pos="0/300,0/216" flags="edited">
+	<letter char="J" i="69803" time="232.679"/>
+	<letter char="O" i="69816" time="232.721"/>
+	<letter char="S" i="69828" time="232.763"/>
+	<letter char=" " i="69841" time="232.804"/>
+	<letter char="P" i="69853" time="232.846"/>
+	<letter char="Ä" i="69870" time="232.902"/>
+	<letter char="Ä" i="69887" time="232.957"/>
+	<letter char="D" i="69903" time="233.013"/>
+	<letter char="Y" i="69920" time="233.069"/>
+	<letter char="T" i="69937" time="233.124"/>
+	<letter char=" " i="69953" time="233.180"/>
+	<letter char="K" i="69970" time="233.236"/>
+	<letter char="A" i="69994" time="233.314"/>
+	<letter char="N" i="70017" time="233.393"/>
+	<letter char="S" i="70041" time="233.471"/>
+	<letter char="S" i="70065" time="233.550"/>
+	<letter char="A" i="70088" time="233.629"/>
+	<letter char="N" i="70112" time="233.708"/>
+	<letter char="I" i="70135" time="233.786"/>
+	<letter char=" " i="70159" time="233.865"/>
+	<letter char="L" i="70182" time="233.943"/>
+	<letter char="Ä" i="70229" time="234.099"/>
+	<letter char="H" i="70276" time="234.254"/>
+	<letter char="T" i="70322" time="234.409"/>
+	<letter char="E" i="70369" time="234.565"/>
+	<letter char="M" i="70416" time="234.721"/>
+	<letter char="Ä" i="70463" time="234.877"/>
+	<letter char="Ä" i="70509" time="235.032"/>
+	<letter char="N" i="70556" time="235.187" end-time="235.343"/>
+  </phrase>
+  <phrase text="TULET IKUISESTI KÄRSIMÄÄN" i="70384" time="234.614" pos="0/300,0/216" flags="edited">
+	<letter char="T" i="70684" time="235.614"/>
+	<letter char="U" i="70700" time="235.670"/>
+	<letter char="L" i="70717" time="235.726"/>
+	<letter char="E" i="70735" time="235.784"/>
+	<letter char="T" i="70751" time="235.840"/>
+	<letter char=" " i="70768" time="235.896"/>
+	<letter char="I" i="70785" time="235.953"/>
+	<letter char="K" i="70807" time="236.026"/>
+	<letter char="U" i="70829" time="236.099"/>
+	<letter char="I" i="70851" time="236.172"/>
+	<letter char="S" i="70873" time="236.244"/>
+	<letter char="E" i="70895" time="236.317"/>
+	<letter char="S" i="70916" time="236.390"/>
+	<letter char="T" i="70938" time="236.463"/>
+	<letter char="I" i="70960" time="236.536"/>
+	<letter char=" " i="70982" time="236.607"/>
+	<letter char="K" i="71003" time="236.680"/>
+	<letter char="Ä" i="71042" time="236.807"/>
+	<letter char="R" i="71079" time="236.932"/>
+	<letter char="S" i="71117" time="237.059"/>
+	<letter char="I" i="71155" time="237.185"/>
+	<letter char="M" i="71193" time="237.311"/>
+	<letter char="Ä" i="71231" time="237.437"/>
+	<letter char="Ä" i="71268" time="237.563"/>
+	<letter char="N" i="71306" time="237.689" end-time="237.815"/>
+  </phrase>
+  <phrase text="ILMAN VASTUUTA" i="71056" time="236.856" pos="0/300,0/216" flags="edited">
+	<letter char="I" i="71356" time="237.856"/>
+	<letter char="L" i="71405" time="238.017"/>
+	<letter char="M" i="71453" time="238.178"/>
+	<letter char="A" i="71501" time="238.339"/>
+	<letter char="N" i="71550" time="238.500"/>
+	<letter char=" " i="71598" time="238.661"/>
+	<letter char="V" i="71646" time="238.822"/>
+	<letter char="A" i="71687" time="238.958"/>
+	<letter char="S" i="71728" time="239.094"/>
+	<letter char="T" i="71768" time="239.229"/>
+	<letter char="U" i="71809" time="239.365"/>
+	<letter char="U" i="71850" time="239.501"/>
+	<letter char="T" i="71891" time="239.637"/>
+	<letter char="A" i="71931" time="239.773" end-time="239.909"/>
+  </phrase>
+  <phrase text="EI OLIS MITÄÄN" i="71831" time="239.438" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="72131" time="240.438"/>
+	<letter char="I" i="72153" time="240.512"/>
+	<letter char=" " i="72176" time="240.588"/>
+	<letter char="O" i="72198" time="240.663"/>
+	<letter char="L" i="72234" time="240.781"/>
+	<letter char="I" i="72269" time="240.899"/>
+	<letter char="S" i="72305" time="241.018"/>
+	<letter char=" " i="72340" time="241.136"/>
+	<letter char="M" i="72376" time="241.254"/>
+	<letter char="I" i="72419" time="241.400"/>
+	<letter char="T" i="72463" time="241.546"/>
+	<letter char="Ä" i="72507" time="241.692"/>
+	<letter char="Ä" i="72551" time="241.838"/>
+	<letter char="N" i="72595" time="241.984" end-time="242.130"/>
+  </phrase>
+  <phrase text="MUTTA ILMAN KIPUA" i="72495" time="241.653" pos="0/300,0/216" flags="edited">
+	<letter char="M" i="72795" time="242.653"/>
+	<letter char="U" i="72831" time="242.773"/>
+	<letter char="T" i="72868" time="242.895"/>
+	<letter char="T" i="72904" time="243.016"/>
+	<letter char="A" i="72941" time="243.137"/>
+	<letter char=" " i="72977" time="243.258"/>
+	<letter char="I" i="73013" time="243.379"/>
+	<letter char="L" i="73064" time="243.549"/>
+	<letter char="M" i="73115" time="243.719"/>
+	<letter char="A" i="73166" time="243.889"/>
+	<letter char="N" i="73217" time="244.059"/>
+	<letter char=" " i="73268" time="244.229"/>
+	<letter char="K" i="73319" time="244.399"/>
+	<letter char="I" i="73365" time="244.550"/>
+	<letter char="P" i="73410" time="244.701"/>
+	<letter char="U" i="73455" time="244.852"/>
+	<letter char="A" i="73500" time="245.003" end-time="245.154"/>
+  </phrase>
+  <phrase text="EN TEKIS SITÄKÄÄN DÄÄM" i="73309" time="244.364" pos="0/300,0/216" flags="edited">
+	<letter char="E" i="73609" time="245.364"/>
+	<letter char="N" i="73624" time="245.416"/>
+	<letter char=" " i="73641" time="245.470"/>
+	<letter char="T" i="73656" time="245.523"/>
+	<letter char="E" i="73687" time="245.624"/>
+	<letter char="K" i="73717" time="245.726"/>
+	<letter char="I" i="73748" time="245.828"/>
+	<letter char="S" i="73778" time="245.930"/>
+	<letter char=" " i="73809" time="246.032"/>
+	<letter char="S" i="73839" time="246.133"/>
+	<letter char="I" i="73877" time="246.257"/>
+	<letter char="T" i="73913" time="246.379"/>
+	<letter char="Ä" i="73950" time="246.502"/>
+	<letter char="K" i="73987" time="246.625"/>
+	<letter char="Ä" i="74024" time="246.748"/>
+	<letter char="Ä" i="74061" time="246.872"/>
+	<letter char="N" i="74098" time="246.994"/>
+	<letter char=" " i="74135" time="247.117"/>
+	<letter char="D" i="74172" time="247.240"/>
+	<letter char="Ä" i="74254" time="247.515"/>
+	<letter char="Ä" i="74336" time="247.790"/>
+	<letter char="M" i="74419" time="248.065" end-time="248.340"/>
+  </phrase>
+  <phrase text="POW-POW POW-POW POW" i="74205" time="247.353" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="74505" time="248.353"/>
+	<letter char="O" i="74550" time="248.501"/>
+	<letter char="W" i="74594" time="248.650"/>
+	<letter char="-" i="74639" time="248.799"/>
+	<letter char="P" i="74684" time="248.947"/>
+	<letter char="O" i="74728" time="249.096"/>
+	<letter char="W" i="74773" time="249.244"/>
+	<letter char=" " i="74817" time="249.393"/>
+	<letter char="P" i="74862" time="249.542"/>
+	<letter char="O" i="74903" time="249.678"/>
+	<letter char="W" i="74943" time="249.813"/>
+	<letter char="-" i="74984" time="249.950"/>
+	<letter char="P" i="75025" time="250.086"/>
+	<letter char="O" i="75066" time="250.223"/>
+	<letter char="W" i="75107" time="250.358"/>
+	<letter char=" " i="75148" time="250.494"/>
+	<letter char="P" i="75189" time="250.631"/>
+	<letter char="O" i="75241" time="250.806"/>
+	<letter char="W" i="75294" time="250.983" end-time="251.159"/>
+  </phrase>
+  <phrase text="POW-PA POW-PAAH" i="75418" time="251.396" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="75718" time="252.396"/>
+	<letter char="O" i="75750" time="252.503"/>
+	<letter char="W" i="75783" time="252.612"/>
+	<letter char="-" i="75815" time="252.719"/>
+	<letter char="P" i="75847" time="252.826"/>
+	<letter char="A" i="75880" time="252.934"/>
+	<letter char=" " i="75912" time="253.042"/>
+	<letter char="P" i="75944" time="253.150"/>
+	<letter char="O" i="75998" time="253.329"/>
+	<letter char="W" i="76031" time="253.439"/>
+	<letter char="-" i="76083" time="253.612"/>
+	<letter char="P" i="76107" time="253.690"/>
+	<letter char="A" i="76167" time="253.893"/>
+	<letter char="A" i="76210" time="254.036"/>
+	<letter char="H" i="76254" time="254.181" end-time="254.325"/>
+  </phrase>
+  <phrase text="POW" i="76288" time="254.296" pos="0/300,0/216" flags="edited">
+	<letter char="P" i="76588" time="255.296"/>
+	<letter char="O" i="76631" time="255.438"/>
+	<letter char="W" i="76685" time="255.618" end-time="255.840"/>
+  </phrase>
+  <phrase text="KAUAN ELÄKÖÖN HERVANTA" i="76664" time="255.547" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="76964" time="256.547"/>
+	<letter char="A" i="76985" time="256.620"/>
+	<letter char="U" i="77008" time="256.694"/>
+	<letter char="A" i="77030" time="256.768"/>
+	<letter char="N" i="77052" time="256.842"/>
+	<letter char=" " i="77074" time="256.915"/>
+	<letter char="E" i="77096" time="256.989"/>
+	<letter char="L" i="77118" time="257.063"/>
+	<letter char="Ä" i="77141" time="257.137"/>
+	<letter char="K" i="77163" time="257.211"/>
+	<letter char="Ö" i="77185" time="257.284"/>
+	<letter char="Ö" i="77207" time="257.358"/>
+	<letter char="N" i="77229" time="257.432"/>
+	<letter char=" " i="77251" time="257.506"/>
+	<letter char="H" i="77273" time="257.580"/>
+	<letter char="E" i="77311" time="257.705"/>
+	<letter char="R" i="77349" time="257.831"/>
+	<letter char="V" i="77386" time="257.956"/>
+	<letter char="A" i="77424" time="258.083"/>
+	<letter char="N" i="77462" time="258.208"/>
+	<letter char="T" i="77500" time="258.334"/>
+	<letter char="A" i="77537" time="258.459" end-time="258.585"/>
+  </phrase>
+  <phrase text="KAUAN ELÄKÖÖN HERVANTA" i="80259" time="267.532" pos="0/300,0/216" flags="edited">
+	<letter char="K" i="80559" time="268.532"/>
+	<letter char="A" i="80576" time="268.590"/>
+	<letter char="U" i="80594" time="268.649"/>
+	<letter char="A" i="80612" time="268.707"/>
+	<letter char="N" i="80629" time="268.766"/>
+	<letter char=" " i="80647" time="268.824"/>
+	<letter char="E" i="80664" time="268.882"/>
+	<letter char="L" i="80682" time="268.940"/>
+	<letter char="Ä" i="80699" time="268.997"/>
+	<letter char="K" i="80716" time="269.055"/>
+	<letter char="Ö" i="80733" time="269.113"/>
+	<letter char="Ö" i="80751" time="269.170"/>
+	<letter char="N" i="80768" time="269.228"/>
+	<letter char=" " i="80785" time="269.286"/>
+	<letter char="H" i="80803" time="269.345"/>
+	<letter char="E" i="80833" time="269.444"/>
+	<letter char="R" i="80863" time="269.545"/>
+	<letter char="V" i="80893" time="269.646"/>
+	<letter char="A" i="80923" time="269.746"/>
+	<letter char="N" i="80954" time="269.847"/>
+	<letter char="T" i="80984" time="269.948"/>
+	<letter char="A" i="81014" time="270.048" end-time="270.149"/>
+  </phrase>
+</song>
