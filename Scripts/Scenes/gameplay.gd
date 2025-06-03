@@ -11,7 +11,7 @@ func init(song_id : int) -> void:
 
 func music_init(song_id : int) -> void:
 	var song : Dictionary = System.Json.read_data("Songs/%s" % song_id);
-	var stream : Resource = load("res://Assets/Songs/%s.wav" % song.name);
+	var stream : Resource = load("res://Assets/%s/%s.wav" % ["Songs" if Config.SONG_MODE else "Instrumentals", song.name]);
 	music_player.stream = stream;
 
 func read_lyrics(lyrics_id : int) -> Lyrics:

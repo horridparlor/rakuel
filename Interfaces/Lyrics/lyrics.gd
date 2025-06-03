@@ -7,6 +7,7 @@ signal show_phrase(phrase)
 
 const SAVE_FOLDER_PATH : String = "user://lyrics/";
 const SAVE_PATH : String = SAVE_FOLDER_PATH + "%s.xml";
+const EXTRA_TIME_TO_SHOW : float = 0.05;
 
 var id : int;
 var created_by : String = "Eero Laine";
@@ -23,7 +24,7 @@ func play() -> void:
 
 func play_next_phrase() -> void:
 	current_phrase = phrases[phrase_index];
-	await System.wait(current_phrase.time - System.get_time());
+	await System.wait(current_phrase.time - System.get_time() - EXTRA_TIME_TO_SHOW);
 	_on_show_phrase();
 
 func _on_show_phrase() -> void:

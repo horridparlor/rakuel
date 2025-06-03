@@ -19,6 +19,7 @@ config/icon="res://icon.svg"
 
 System="*res://Scripts/system.gd"
 SystemEnums="*res://Enums/SystemEnums.gd"
+Config="*res://Scripts/config.gd"
 
 [rendering]
 
