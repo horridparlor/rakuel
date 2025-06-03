@@ -1,6 +1,9 @@
 extends Node
 class_name Phrase
 
+const EXTRA_RECORDING_START_TIME : float = 1.6;
+const RECORDING_LAG : float = 0.4;
+
 var id : int;
 var text : String;
 var time : float;
@@ -34,7 +37,23 @@ func get_next_letter_wait() -> float:
 		return wait_time;
 	letter = letters[current_letter_index];
 	current_letter_index += 1;
+	if letter.time == 0:
+		return 0;
 	return letter.time - System.get_time();
 
 func _to_string() -> String:
 	return "{'id': %s, 'text': '%s', 'time': %s, 'end_time': %s, 'pos': %s}" % [id, text, time, end_time, position];
+
+func auto_time_letters() -> void:
+	var letter : Letter;
+	var duration : float = end_time - time;
+	var between_letters = duration / (letters.size() + 1);
+	var time_i : float = time - RECORDING_LAG;
+	for l in letters:
+		letter = l;
+		time_i += between_letters;
+		letter.time = time_i;
+	letter = letters.back();
+	letter.end_time = end_time;
+	time -= EXTRA_RECORDING_START_TIME;
+	time = max(0.2, time);

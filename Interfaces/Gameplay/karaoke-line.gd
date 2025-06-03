@@ -5,6 +5,7 @@ const ROLL_OUT_SPEED : int = 1200;
 const ROLL_OUT_FADE_SPEED : float = 1.2;
 const SIZE : Vector2 = Vector2(1920, 80);
 const ROLL_IN_FADE_SPEED : float = 1.6;
+const EXTRA_WAIT_BEFORE_END : float = 0.4;
 
 var is_rolling_out : bool;
 var is_rolling_in : bool;
@@ -47,13 +48,19 @@ func roll_out_frame(delta : float) -> void:
 		queue_free();
 
 func _on_next_letter() -> void:
-	var wait_timer : float;
+	var next_wait : float;
 	next_letter_timer.stop();
 	shown_index += 1;
 	update_text();
-	next_letter_timer.wait_time = phrase.get_next_letter_wait();
-	if next_letter_timer.wait_time > 0:
-		next_letter_timer.start();
+	next_wait = phrase.get_next_letter_wait();
+	if next_wait <= 0:
+		return;
+	next_letter_timer.wait_time = next_wait;
+	next_letter_timer.start();
 
 func update_text() -> void:
 	pass;
+
+func glow() -> void:
+	shown_index = 99;
+	update_text();

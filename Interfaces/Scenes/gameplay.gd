@@ -9,6 +9,8 @@ var lyrics : Lyrics;
 var current_karaoke_line_position : Vector2 = KARAOKE_LINE_STARTING_POSITION;
 var current_karaoke_line_index : int = KARAOKE_LINES_AT_ONCE;
 var karaoke_lines : Array;
+var lines_map : Dictionary;
+var used_phrases : Dictionary;
 
 func init(lyrics_id : int) -> void:
 	pass;

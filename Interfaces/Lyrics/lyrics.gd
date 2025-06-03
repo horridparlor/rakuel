@@ -2,6 +2,8 @@ extends Node
 class_name Lyrics
 
 signal show_phrase(phrase)
+signal hide_phrase(phrase_id)
+signal glow_phrase(phrase_id)
 
 @onready var music_player : AudioStreamPlayer2D = $MusicPlayer;
 
@@ -21,6 +23,44 @@ var current_phrase : Phrase;
 func play() -> void:
 	phrase_index = 0;
 	play_next_phrase();
+
+func record() -> void:
+	phrase_index = -1;
+	reset_phrase_for_recording(phrases[phrase_index + 1]);
+	emit_signal("show_phrase", phrases[phrase_index + 1]);
+
+func reset_phrase_for_recording(phrase : Phrase = current_phrase) -> void:
+	phrase.time = System.get_time();
+	phrase.end_time = 0;
+	for letter in phrase.letters:
+		letter.time = 0;
+		letter.end_time = 0;
+
+func start_next_phrase(do_start : bool = true) -> void:
+	end_phrase();
+	phrase_index += 1;
+	if phrase_index >= phrases.size():
+		return;
+	current_phrase = phrases[phrase_index];
+	reset_phrase_for_recording();
+	emit_signal("show_phrase", current_phrase);
+	emit_signal("glow_phrase", current_phrase.id);
+	if phrase_index + 1 < phrases.size():
+		reset_phrase_for_recording(phrases[phrase_index + 1]);
+		emit_signal("show_phrase", phrases[phrase_index + 1]);
+	if !do_start:
+		return;
+
+func end_phrase() -> void:
+	if current_phrase == null:
+		return;
+	current_phrase.end_time = System.get_time();
+	current_phrase.auto_time_letters();
+	emit_signal("hide_phrase", current_phrase.id);
+	if phrases.size() <= phrase_index + 1:
+		return;
+	emit_signal("show_phrase", phrases[phrase_index + 1]);
+	current_phrase = null;
 
 func play_next_phrase() -> void:
 	current_phrase = phrases[phrase_index];

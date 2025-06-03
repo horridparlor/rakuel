@@ -6,7 +6,9 @@ func init(phrase_ : Phrase) -> void:
 	phrase = phrase_;
 	shown_index = -1;
 	_on_next_letter();
-	end_timer.wait_time = phrase.end_time - phrase.time + 1;
+	end_timer.wait_time = phrase.end_time - phrase.time + EXTRA_WAIT_BEFORE_END;
+	if phrase.end_time == 0:
+		return;
 	end_timer.start();
 
 func update_text() -> void:
