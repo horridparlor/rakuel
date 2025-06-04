@@ -1,7 +1,7 @@
 extends Node2D
 class_name KaraokeLine
 
-const ROLL_OUT_SPEED : int = 1200;
+const ROLL_OUT_SPEED : int = 1600;
 const ROLL_OUT_FADE_SPEED : float = 1.2;
 const SIZE : Vector2 = Vector2(1920, 80);
 const ROLL_IN_FADE_SPEED : float = 1.6;

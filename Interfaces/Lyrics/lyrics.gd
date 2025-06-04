@@ -30,7 +30,7 @@ func record() -> void:
 	emit_signal("show_phrase", phrases[phrase_index + 1]);
 
 func reset_phrase_for_recording(phrase : Phrase = current_phrase) -> void:
-	phrase.time = System.get_time();
+	phrase.time = System.time;
 	phrase.end_time = 0;
 	for letter in phrase.letters:
 		letter.time = 0;
@@ -54,7 +54,7 @@ func start_next_phrase(do_start : bool = true) -> void:
 func end_phrase() -> void:
 	if current_phrase == null:
 		return;
-	current_phrase.end_time = System.get_time();
+	current_phrase.end_time = System.time;
 	current_phrase.auto_time_letters();
 	emit_signal("hide_phrase", current_phrase.id);
 	if phrases.size() <= phrase_index + 1:
@@ -64,7 +64,7 @@ func end_phrase() -> void:
 
 func play_next_phrase() -> void:
 	current_phrase = phrases[phrase_index];
-	await System.wait(current_phrase.time - System.get_time() - EXTRA_TIME_TO_SHOW);
+	await System.wait(current_phrase.time - System.time - EXTRA_TIME_TO_SHOW);
 	_on_show_phrase();
 
 func _on_show_phrase() -> void:

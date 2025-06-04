@@ -14,7 +14,7 @@ const Window_ : Vector2 = Vector2(1080, 1920);
 var random : RandomNumberGenerator = RandomNumberGenerator.new();
 var game_speed : float = 1;
 var game_speed_multiplier : float = 1 / game_speed;
-var start_time : float;
+var time : float;
 
 func init() -> void:
 	Json.create_directories();
@@ -32,7 +32,7 @@ func wait_range(min : float, max : float) -> void:
 	await wait(random.randf_range(min, max));
 
 func start_watch() -> void:
-	start_time = Time.get_ticks_msec();
+	time = 0;
 
-func get_time() -> float:
-	return (Time.get_ticks_msec() - start_time) / 1000.0;
+func _process(delta : float) -> void:
+	time += delta;

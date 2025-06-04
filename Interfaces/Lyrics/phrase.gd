@@ -39,7 +39,7 @@ func get_next_letter_wait() -> float:
 	current_letter_index += 1;
 	if letter.time == 0:
 		return 0;
-	return letter.time - System.get_time();
+	return letter.time - System.time;
 
 func _to_string() -> String:
 	return "{'id': %s, 'text': '%s', 'time': %s, 'end_time': %s, 'pos': %s}" % [id, text, time, end_time, position];

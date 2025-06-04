@@ -32,7 +32,7 @@ func play_karaoke() -> void:
 	music_player.finished.connect(_on_end);
 
 func _on_end() -> void:
-	await System.wait(2);
+	await System.wait(1);
 	get_tree().quit()
 
 func _on_show_phrase(phrase : Phrase) -> void:
