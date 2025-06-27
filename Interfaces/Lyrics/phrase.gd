@@ -12,6 +12,7 @@ var position : Vector2;
 var flags : String; 
 var letters : Array;
 var current_letter_index : int;
+var color : String = "#FFFFFF";
 
 static func from_parser(parser : XMLParser) -> Phrase:
 	var phrase : Phrase = Phrase.new();
@@ -20,6 +21,8 @@ static func from_parser(parser : XMLParser) -> Phrase:
 
 func read_parser(parser : XMLParser) -> void:
 	text = parser.get_attribute_value(0);
+	if !text.is_empty() and text[0] == "*":
+		color = "a7efab";
 	id = int(parser.get_attribute_value(1));
 	time = float(parser.get_attribute_value(2));
 	position = System.Vectors.parse_fraction(parser.get_attribute_value(3));

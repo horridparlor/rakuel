@@ -1,6 +1,7 @@
 extends Gameplay
 
 @onready var music_player : AudioStreamPlayer2D = $MusicPlayer;
+@onready var top_label : RichTextLabel = $Label;
 
 func init(song_id : int) -> void:
 	lyrics = read_lyrics(song_id);
@@ -8,11 +9,15 @@ func init(song_id : int) -> void:
 	lyrics.hide_phrase.connect(_on_hide_phrase);
 	lyrics.glow_phrase.connect(_on_glow_phrase);
 	music_init(song_id);
+	top_label.text = lyrics.get_top_label_text();
 	play_karaoke();
+	top_label.modulate.a = 0;
+	is_fading_top_label = true;
 
 func music_init(song_id : int) -> void:
 	var song : Dictionary = System.Json.read_data("Songs/%s" % song_id);
 	var stream : Resource = load("res://Assets/%s/%s.wav" % ["Songs" if Config.SONG_MODE else "Instrumentals", song.name]);
+	lyrics.name_of_the_song = song.name;
 	music_player.stream = stream;
 
 func read_lyrics(lyrics_id : int) -> Lyrics:
@@ -28,7 +33,7 @@ func read_lyrics(lyrics_id : int) -> Lyrics:
 func play_karaoke() -> void:
 	System.start_watch();
 	lyrics.record() if Config.RECORDING_MODE else lyrics.play();
-	music_player.play();
+	music_player.play(Config.START_TIME);
 	music_player.finished.connect(_on_end);
 
 func _on_end() -> void:
@@ -68,8 +73,13 @@ func _on_glow_phrase(phrase_id : int) -> void:
 		return;
 	lines_map[phrase_id].glow();
 
-func _process(delta: float) -> void:
+func _process(delta : float) -> void:
 	process_actions();
+	if is_fading_top_label:
+		top_label.modulate.a += delta * TOP_LABEL_FADE_SPEED;
+		if top_label.modulate.a >= 1:
+			top_label.modulate.a = 1;
+			is_fading_top_label = false;
 
 func process_actions() -> void:
 	if Input.is_action_just_pressed("start_phrase"):

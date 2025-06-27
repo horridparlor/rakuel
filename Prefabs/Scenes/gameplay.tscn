@@ -1,6 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://cr6j6p4cx63oo"]
+[gd_scene load_steps=5 format=3 uid="uid://cr6j6p4cx63oo"]
 
 [ext_resource type="Script" path="res://Scripts/Scenes/gameplay.gd" id="1_gsol6"]
+[ext_resource type="FontFile" uid="uid://yxygawtc05lh" path="res://Assets/FontFiles/Montserrat/Montserrat-SemiBold.ttf" id="2_vdj67"]
+[ext_resource type="FontFile" uid="uid://cm2kg0uewqwes" path="res://Assets/FontFiles/Montserrat/Montserrat-Italic.ttf" id="3_qump1"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_co73d"]
 bg_color = Color(0.264536, 0.0934849, 0.458079, 1)
@@ -23,3 +25,15 @@ grow_vertical = 2
 theme_override_styles/panel = SubResource("StyleBoxFlat_co73d")
 
 [node name="MusicPlayer" type="AudioStreamPlayer2D" parent="."]
+
+[node name="Label" type="RichTextLabel" parent="."]
+offset_left = -165.0
+offset_top = -521.0
+offset_right = 916.0
+offset_bottom = -429.0
+theme_override_fonts/normal_font = ExtResource("2_vdj67")
+theme_override_fonts/italics_font = ExtResource("3_qump1")
+theme_override_font_sizes/italics_font_size = 56
+theme_override_font_sizes/normal_font_size = 64
+bbcode_enabled = true
+text = "[right]Eero Laine – Name of the Song[/right]"

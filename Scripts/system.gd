@@ -32,7 +32,7 @@ func wait_range(min : float, max : float) -> void:
 	await wait(random.randf_range(min, max));
 
 func start_watch() -> void:
-	time = 0;
+	time = Config.START_TIME;
 
 func _process(delta : float) -> void:
 	time += delta;

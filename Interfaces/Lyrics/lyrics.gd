@@ -13,6 +13,7 @@ const EXTRA_TIME_TO_SHOW : float = 0.05;
 
 var id : int;
 var created_by : String = "Eero Laine";
+var name_of_the_song : String;
 var version : String;
 var source : String;
 var is_duet : bool;
@@ -64,6 +65,10 @@ func end_phrase() -> void:
 
 func play_next_phrase() -> void:
 	current_phrase = phrases[phrase_index];
+	if current_phrase.time < Config.START_TIME:
+		phrase_index += 1;
+		play_next_phrase();
+		return;
 	await System.wait(current_phrase.time - System.time - EXTRA_TIME_TO_SHOW);
 	_on_show_phrase();
 
@@ -87,8 +92,9 @@ func read_parser(parser : XMLParser) -> void:
 						phrases[phrase_index].read_letter(parser);
 
 func write() -> void:
-	var xml = '<?xml version="1.0" encoding="UTF-8"?>\n<song created-by="%s" version="%s" source="%s" duet="%s">\n' % [
+	var xml = '<?xml version="1.0" encoding="UTF-8"?>\n<song created-by="%s" name="%s" version="%s" source="%s" duet="%s">\n' % [
 		created_by,
+		name_of_the_song,
 		version,
 		source,
 		"yes" if is_duet else "no"
@@ -116,3 +122,6 @@ func write() -> void:
 		return;
 	file.store_string(xml);
 	file.close();
+
+func get_top_label_text() -> String:
+	return "[right]" + name_of_the_song + " [i](by " + created_by + ")[/i][/right]";
