@@ -1,8 +1,18 @@
-[gd_scene load_steps=5 format=3 uid="uid://cr6j6p4cx63oo"]
+[gd_scene load_steps=9 format=3 uid="uid://cr6j6p4cx63oo"]
 
 [ext_resource type="Script" path="res://Scripts/Scenes/gameplay.gd" id="1_gsol6"]
 [ext_resource type="FontFile" uid="uid://yxygawtc05lh" path="res://Assets/FontFiles/Montserrat/Montserrat-SemiBold.ttf" id="2_vdj67"]
 [ext_resource type="FontFile" uid="uid://cm2kg0uewqwes" path="res://Assets/FontFiles/Montserrat/Montserrat-Italic.ttf" id="3_qump1"]
+[ext_resource type="Shader" path="res://Shaders/background-wave.gdshader" id="4_nyvut"]
+[ext_resource type="Texture2D" uid="uid://bv77nn7wrwyrd" path="res://Assets/Patterns/10.png" id="5_70667"]
+[ext_resource type="Script" path="res://Interfaces/Gameplay/wave-background.gd" id="6_k675d"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_i8wlk"]
+shader = ExtResource("4_nyvut")
+shader_parameter/amplitude = 10.0
+shader_parameter/sin_wave = 0.5
+shader_parameter/chaos_factor = 0.0
+shader_parameter/opacity = 1.0
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_co73d"]
 bg_color = Color(0.264536, 0.0934849, 0.458079, 1)
@@ -10,7 +20,15 @@ bg_color = Color(0.264536, 0.0934849, 0.458079, 1)
 [node name="Gameplay" type="Node2D"]
 script = ExtResource("1_gsol6")
 
+[node name="Sprite2D" type="Sprite2D" parent="."]
+material = SubResource("ShaderMaterial_i8wlk")
+rotation = 1.5708
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("5_70667")
+script = ExtResource("6_k675d")
+
 [node name="Panel" type="Panel" parent="."]
+self_modulate = Color(1, 1, 1, 0.4)
 anchors_preset = 8
 anchor_left = 0.5
 anchor_top = 0.5

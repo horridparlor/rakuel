@@ -10,14 +10,17 @@ func init(song_id : int) -> void:
 	lyrics.glow_phrase.connect(_on_glow_phrase);
 	music_init(song_id);
 	top_label.text = lyrics.get_top_label_text();
-	play_karaoke();
 	top_label.modulate.a = 0;
+	await System.wait(0.8);
+	play_karaoke();
 	is_fading_top_label = true;
 
 func music_init(song_id : int) -> void:
 	var song : Dictionary = System.Json.read_data("Songs/%s" % song_id);
 	var stream : Resource = load("res://Assets/%s/%s.wav" % ["Songs" if Config.SONG_MODE else "Instrumentals", song.name]);
 	lyrics.name_of_the_song = song.name;
+	if song.has("artist"):
+		lyrics.created_by = song.artist;
 	music_player.stream = stream;
 
 func read_lyrics(lyrics_id : int) -> Lyrics:

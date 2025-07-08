@@ -124,4 +124,4 @@ func write() -> void:
 	file.close();
 
 func get_top_label_text() -> String:
-	return "[right]" + name_of_the_song + " [i](by " + created_by + ")[/i][/right]";
+	return "[right]" + name_of_the_song + " [i](" + created_by + ")[/i][/right]";
