@@ -3,8 +3,8 @@
 [ext_resource type="Script" path="res://Scripts/Scenes/gameplay.gd" id="1_gsol6"]
 [ext_resource type="FontFile" uid="uid://yxygawtc05lh" path="res://Assets/FontFiles/Montserrat/Montserrat-SemiBold.ttf" id="2_vdj67"]
 [ext_resource type="FontFile" uid="uid://cm2kg0uewqwes" path="res://Assets/FontFiles/Montserrat/Montserrat-Italic.ttf" id="3_qump1"]
+[ext_resource type="Texture2D" uid="uid://wda2ydwg4lh0" path="res://Assets/Patterns/24.png" id="3_v0qw3"]
 [ext_resource type="Shader" path="res://Shaders/background-wave.gdshader" id="4_nyvut"]
-[ext_resource type="Texture2D" uid="uid://bv77nn7wrwyrd" path="res://Assets/Patterns/10.png" id="5_70667"]
 [ext_resource type="Script" path="res://Interfaces/Gameplay/wave-background.gd" id="6_k675d"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_i8wlk"]
@@ -24,7 +24,7 @@ script = ExtResource("1_gsol6")
 material = SubResource("ShaderMaterial_i8wlk")
 rotation = 1.5708
 scale = Vector2(0.7, 0.7)
-texture = ExtResource("5_70667")
+texture = ExtResource("3_v0qw3")
 script = ExtResource("6_k675d")
 
 [node name="Panel" type="Panel" parent="."]

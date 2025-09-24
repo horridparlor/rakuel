@@ -17,7 +17,8 @@ static func create_directories() -> void:
 	for path in [
 		SAVE_WRITE_PATH_PREFIX,
 		SCREENSHOTS_PATH,
-		Lyrics.SAVE_FOLDER_PATH
+		Lyrics.SAVE_FOLDER_PATH,
+		Lyrics.ULTRASTAR_SAVE_FOLDER_PATH
 	]:
 		dir = DirAccess.open(path);
 		if dir == null:

@@ -9,6 +9,8 @@ signal glow_phrase(phrase_id)
 
 const SAVE_FOLDER_PATH : String = "user://lyrics/";
 const SAVE_PATH : String = SAVE_FOLDER_PATH + "%s.xml";
+const ULTRASTAR_SAVE_FOLDER_PATH : String = "user://ultrastar/";
+const ULTRASTAR_SAVE_PATH : String = ULTRASTAR_SAVE_FOLDER_PATH + "%s.txt";
 const EXTRA_TIME_TO_SHOW : float = 0.05;
 
 var id : int;
@@ -20,6 +22,9 @@ var is_duet : bool;
 var phrases : Array;
 var phrase_index : int = -1;
 var current_phrase : Phrase;
+var edition : String;
+var language : String;
+var end_beats : int;
 
 func play() -> void:
 	phrase_index = 0;
@@ -125,3 +130,59 @@ func write() -> void:
 
 func get_top_label_text() -> String:
 	return "[right]" + name_of_the_song + " [i](" + created_by + ")[/i][/right]";
+
+func eat_pitches(pitches : Array) -> void:
+	var phrase : Phrase;
+	var pitch_index : int;
+	var pitch : Dictionary;
+	for p in phrases:
+		phrase = p;
+		while pitch_index < pitches.size():
+			pitch = pitches[pitch_index];
+			if pitch.startTime >= phrase.time:
+				phrase.pitch = pitch.pitch;
+				pitch_index += 1;
+				break;
+			pitch_index += 1;
+	end_beats = pitches.back().endTime * Config.BPM_MULTIPLIER;
+
+func write_ultrastar() -> void:
+	var ultrastar : String = to_ultrastar();
+	var file : FileAccess = FileAccess.open(ULTRASTAR_SAVE_PATH % id, FileAccess.WRITE);
+	if !file:
+		return;
+	file.store_string(ultrastar);
+	file.close();
+
+func to_ultrastar() -> String:
+	var text : String;
+	var gap : int = get_beats_to_start();
+	var phrase : Phrase;
+	var index : int;
+	var next_begins : int;
+	text += "#ARTIST:%s
+#TITLE:%s
+#EDITION:%s
+#LANGUAGE:%s
+#VIDEO:%s - %s.mp4
+#MP3:%s - %s.mp3
+#COVER:cover.png
+#BPM:%s
+#GAP:%s" % [created_by, name_of_the_song, edition, language, created_by, name_of_the_song, created_by, name_of_the_song, Config.BPM, gap];
+	for p in phrases:
+		phrase = p;
+		text += "\n: %s %s %s %s" % [
+			phrase.start_beats,
+			phrase.beats_duration,
+			phrase.pitch,
+			phrase.text
+		];
+		next_begins = phrases[index + 1].start_beats if index < phrases.size() - 1 else end_beats;
+		text += "\n- %s" % [next_begins];
+		index += 1;
+	text += "\nE";
+	return text;
+
+func get_beats_to_start() -> int:
+	var phrase : Phrase = phrases[0];
+	return phrase.start_beats;

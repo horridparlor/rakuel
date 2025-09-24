@@ -21,7 +21,12 @@ func music_init(song_id : int) -> void:
 	lyrics.name_of_the_song = song.name;
 	if song.has("artist"):
 		lyrics.created_by = song.artist;
+	if song.has("edition"):
+		lyrics.edition = song.edition;
+	if song.has("language"):
+		lyrics.language = song.language;
 	music_player.stream = stream;
+	read_pitches(song_id, lyrics);
 
 func read_lyrics(lyrics_id : int) -> Lyrics:
 	var lyrics : Lyrics = Lyrics.new();
@@ -32,6 +37,13 @@ func read_lyrics(lyrics_id : int) -> Lyrics:
 	lyrics.id = lyrics_id;
 	lyrics.read_parser(parser);
 	return lyrics;
+
+func read_pitches(lyrics_id : int, lyrics : Lyrics) -> void:
+	var data : Dictionary = System.Json.read("res://Data/Pitches/%s.json" % [lyrics_id]);
+	if System.Json.is_error(data):
+		return;
+	lyrics.eat_pitches(data.stamps);
+	lyrics.write_ultrastar();
 
 func play_karaoke() -> void:
 	System.start_watch();
