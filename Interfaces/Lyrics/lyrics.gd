@@ -135,15 +135,20 @@ func eat_pitches(pitches : Array) -> void:
 	var phrase : Phrase;
 	var pitch_index : int;
 	var pitch : Dictionary;
+	var character : String;
+	var syllable : Syllable;
 	for p in phrases:
 		phrase = p;
-		while pitch_index < pitches.size():
-			pitch = pitches[pitch_index];
-			if pitch.startTime >= phrase.time:
-				phrase.pitch = pitch.pitch;
+		for s in phrase.syllables:
+			syllable = s;
+			while pitch_index < pitches.size():
+				pitch = pitches[pitch_index];
+				if pitch.startTime >= syllable.start_time:
+					syllable.pitch = pitch.pitch;
+					pitch_index += 1;
+					break;
 				pitch_index += 1;
-				break;
-			pitch_index += 1;
+		phrase.combine_syllables();
 	end_beats = pitches.back().endTime * Config.BPM_MULTIPLIER;
 
 func write_ultrastar() -> void:
@@ -160,29 +165,128 @@ func to_ultrastar() -> String:
 	var phrase : Phrase;
 	var index : int;
 	var next_begins : int;
+	var syllable : Syllable;
+	var text_on_this_line : int;
 	text += "#ARTIST:%s
 #TITLE:%s
 #EDITION:%s
 #LANGUAGE:%s
+#CREATOR:Eero Laine
 #VIDEO:%s - %s.mp4
 #MP3:%s - %s.mp3
+#PREVIEWSTART:60
 #COVER:cover.png
 #BPM:%s
 #GAP:%s" % [created_by, name_of_the_song, edition, language, created_by, name_of_the_song, created_by, name_of_the_song, Config.BPM, gap];
 	for p in phrases:
 		phrase = p;
-		text += "\n: %s %s %s %s" % [
-			phrase.start_beats,
-			phrase.beats_duration,
-			phrase.pitch,
-			phrase.text
-		];
-		next_begins = phrases[index + 1].start_beats if index < phrases.size() - 1 else end_beats;
-		text += "\n- %s" % [next_begins];
+		for s in phrase.syllables:
+			syllable = s;
+			text += "\n: %s %s %s %s" % [
+				syllable.start_beats - int(0.5 * Config.BPM_MULTIPLIER),
+				syllable.beats_duration,
+				syllable.pitch,
+				replace_macrons_with_tilde(syllable.text)
+			];
+		next_begins = phrases[index + 1].syllables[0].start_beats - int(0.5 * Config.BPM_MULTIPLIER) if index < phrases.size() - 1 else end_beats;
+		text_on_this_line += phrase.text.length();
+		if text_on_this_line > 30:
+			text += "\n- %s" % [next_begins];
+			text_on_this_line = 0;
 		index += 1;
 	text += "\nE";
+	text = fix_overlapping_lines(text);
 	return text;
+
+func replace_macrons_with_tilde(s : String) -> String:
+	var map: Dictionary = {
+		"ā": "a~", "ē": "e~", "ī": "i~", "ō": "o~", "ū": "u~",
+		"Ā": "A~", "Ē": "E~", "Ī": "I~", "Ō": "O~", "Ū": "U~",
+		"ȳ": "y~", "Ȳ": "Y~"
+	};
+	for k in map.keys():
+		s = s.replace(k, map[k]);
+	var cp : PackedByteArray = s.to_utf32_buffer();
+	var out : String = "";
+	var i : int = 0;
+	while i < cp.size():
+		if i + 1 < cp.size() and cp[i + 1] == 0x0304:
+			out += String.chr(cp[i]) + "~";
+			i += 2;
+		else:
+			out += String.chr(cp[i]);
+			i += 1;
+	return out;
+
+
+func is_note_line(l : String) -> bool:
+	var trimmed: String = l.lstrip(" \t");
+	return trimmed.begins_with(":") or trimmed.begins_with("*");
+
+func parse_note_line(l : String) -> Dictionary:
+	var leading_ws : String = "";
+	var i: int = 0;
+	while i < l.length() and (l[i] == " " or l[i] == "\t"):
+		leading_ws += l[i];
+		i += 1;
+	var trimmed : String = l.substr(i);
+	var tokens : Array = trimmed.split(" ", true);
+	if tokens.size() < 3:
+		return {"ok": false};
+	var marker : String = tokens[0];
+	if not tokens[1].is_valid_int() or not tokens[2].is_valid_int():
+		return {"ok": false};
+	var start : int = int(tokens[1]);
+	var dur : int = int(tokens[2]);
+	var rest_tokens : Array = tokens.slice(3, tokens.size()) if tokens.size() > 3 else [];
+	return {
+		"ok": true,
+		"leading_ws": leading_ws,
+		"marker": marker,
+		"start": start,
+		"dur": dur,
+		"rest": rest_tokens
+	};
+
+func build_note_line(p: Dictionary) -> String:
+	var pieces: Array = [p.marker, str(p.start), str(max(p.dur, 0))];
+	for t in p.rest:
+		pieces.append(str(t));
+	return p.leading_ws + " ".join(pieces);
+
+func fix_overlapping_lines(text: String) -> String:
+	var lines: Array = text.split("\n", false);
+	if lines.size() <= 1:
+		return text;
+	for i in range(lines.size()):
+		if not is_note_line(lines[i]):
+			continue;
+		var cur: Dictionary = parse_note_line(lines[i]);
+		if not cur.ok:
+			continue;
+		var j: int = i + 1;
+		while j < lines.size() and not is_note_line(lines[j]):
+			j += 1;
+		if j >= lines.size():
+			continue;
+		var nxt: Dictionary = parse_note_line(lines[j]);
+		if not nxt.ok:
+			continue;
+		var cur_end: int = cur.start + cur.dur;
+		var next_start: int = nxt.start;
+		if next_start < cur_end:
+			cur.dur = max(0, next_start - cur.start);
+			lines[i] = build_note_line(cur);
+	return "\n".join(lines);
 
 func get_beats_to_start() -> int:
 	var phrase : Phrase = phrases[0];
-	return phrase.start_beats;
+	print(Phrase.EXTRA_RECORDING_START_TIME * Config.BPM_MULTIPLIER);
+	return phrase.syllables[0].start_beats;
+
+func eat_hyphenation(lines : Array) -> void:
+	var index : int;
+	var phrase : Phrase;
+	for p in phrases:
+		phrase = p;
+		index += phrase.eat_hyphonation(lines, index);

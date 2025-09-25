@@ -51,6 +51,20 @@ static func read(file_name: String, do_debug : bool = false) -> Dictionary:
 	file.close();
 	return json_data;
 
+static func read_text_array(file_name: String, do_debug: bool = false) -> Dictionary:
+	var result: Dictionary = {"lines": []};
+	var file := FileAccess.open(file_name, FileAccess.READ);
+	if do_debug:
+		print("Reading lines: %s \nOpened: %s" % [file_name, file != null]);
+	if file == null:
+		push_error("Failed to open file: %s" % file_name);
+		return ERROR;
+	while file.get_position() < file.get_length():
+		var line: String = file.get_line().strip_edges();
+		result["lines"].append(line);
+	file.close();
+	return result;
+
 static func parse(json_string : String) -> Dictionary:
 	var json : JSON = JSON.new();
 	var json_data = json.parse_string(json_string);

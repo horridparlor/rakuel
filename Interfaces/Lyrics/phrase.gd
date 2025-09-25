@@ -18,6 +18,7 @@ var start_beats : int;
 var end_beats : int;
 var beats_duration : int;
 var pitch : int;
+var syllables : Array;
 
 static func from_parser(parser : XMLParser) -> Phrase:
 	var phrase : Phrase = Phrase.new();
@@ -68,3 +69,38 @@ func auto_time_letters() -> void:
 	letter.end_time = end_time;
 	time -= EXTRA_RECORDING_START_TIME;
 	time = max(0.2, time);
+
+func eat_hyphonation(lines : Array, line_index : int) -> int:
+	var syllable_text : String;
+	var lenght_left : int = text.replace(" ", "").length();
+	var syllable : Syllable;
+	var real_letters : Array = letters.filter(func(letter : Letter): return letter.char != " ");
+	var index : int;
+	var letters_index : int;
+	while line_index + index < lines.size():
+		syllable_text = lines[line_index + index];
+		syllable = Syllable.new();
+		syllable.text = syllable_text;
+		syllable.start_time = real_letters[real_letters.size() - lenght_left].time;
+		lenght_left -= syllable_text.length();
+		letters_index += syllable_text.length();
+		if letters.size() < letters_index and letters[letters_index].char == " ":
+			letters_index += 1;
+		syllable.end_time = real_letters[real_letters.size() - lenght_left].time if real_letters.size() - lenght_left < real_letters.size() else end_time;
+		syllable.ends_with_space = letters_index + 1 < letters.size() and letters[letters_index + 1].char == " ";
+		syllable.calculate_beats();
+		syllables.append(syllable);
+		index += 1;
+		if lenght_left <= 0:
+			return index;
+	return index;
+
+func combine_syllables() -> void:
+	var syllable : Syllable;
+	var previous_syllable : Syllable;
+	for s in syllables.duplicate():
+		syllable = s;
+		if previous_syllable != null and abs(previous_syllable.pitch - syllable.pitch) < 1:
+			syllable.combine_with(previous_syllable);
+			syllables.erase(previous_syllable);
+		previous_syllable = syllable;

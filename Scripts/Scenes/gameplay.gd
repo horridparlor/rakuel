@@ -26,6 +26,7 @@ func music_init(song_id : int) -> void:
 	if song.has("language"):
 		lyrics.language = song.language;
 	music_player.stream = stream;
+	read_hyphenations(song_id, lyrics);
 	read_pitches(song_id, lyrics);
 
 func read_lyrics(lyrics_id : int) -> Lyrics:
@@ -37,6 +38,12 @@ func read_lyrics(lyrics_id : int) -> Lyrics:
 	lyrics.id = lyrics_id;
 	lyrics.read_parser(parser);
 	return lyrics;
+
+func read_hyphenations(lyrics_id : int, lyrics : Lyrics) -> void:
+	var data : Dictionary = System.Json.read_text_array("res://Data/Hyphenations/%s.txt" % [lyrics_id]);
+	if System.Json.is_error(data):
+		return
+	lyrics.eat_hyphenation(data.lines);
 
 func read_pitches(lyrics_id : int, lyrics : Lyrics) -> void:
 	var data : Dictionary = System.Json.read("res://Data/Pitches/%s.json" % [lyrics_id]);
