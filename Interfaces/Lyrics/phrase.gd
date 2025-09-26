@@ -26,6 +26,7 @@ static func from_parser(parser : XMLParser) -> Phrase:
 	return phrase;
 
 func read_parser(parser : XMLParser) -> void:
+	print(999, parser.get_attribute_value(0));
 	text = parser.get_attribute_value(0);
 	if !text.is_empty() and text[0] == "*":
 		color = "a7efab";
@@ -81,6 +82,7 @@ func eat_hyphonation(lines : Array, line_index : int) -> int:
 		syllable_text = lines[line_index + index];
 		syllable = Syllable.new();
 		syllable.text = syllable_text;
+		printt(syllable_text, 222, text, letters.size());
 		syllable.start_time = real_letters[real_letters.size() - lenght_left].time;
 		lenght_left -= syllable_text.length();
 		letters_index += syllable_text.length();

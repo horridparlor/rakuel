@@ -85,13 +85,15 @@ func _on_show_phrase() -> void:
 
 func read_parser(parser : XMLParser) -> void:
 	var key : String;
+	var phrase : Phrase;
 	while parser.read() == OK:
 		match parser.get_node_type():
 			XMLParser.NODE_ELEMENT:
 				key = parser.get_node_name();
 				match key:
 					"phrase":
-						phrases.append(Phrase.from_parser(parser));
+						phrase = Phrase.from_parser(parser);
+						phrases.append(phrase);
 						phrase_index += 1;
 					"letter":
 						phrases[phrase_index].read_letter(parser);
@@ -109,7 +111,7 @@ func write() -> void:
 	for p in phrases:
 		phrase = p;
 		xml += '  <phrase text="%s" i="%s" time="%s" pos="%s" flags="%s">\n' % [
-			phrase.text, str(phrase.id), str(phrase.time), System.Vectors.to_fraction(phrase.position), phrase.flags
+			phrase.text.replace("\"", "'"), str(phrase.id), str(phrase.time), System.Vectors.to_fraction(phrase.position), phrase.flags
 		]
 		for l in phrase.letters:
 			letter = l;
@@ -172,8 +174,8 @@ func to_ultrastar() -> String:
 #EDITION:%s
 #LANGUAGE:%s
 #CREATOR:Eero Laine
-#VIDEO:%s - %s.mp4
-#MP3:%s - %s.mp3
+#VIDEO:%s – %s.mp4
+#MP3:%s – %s.mp3
 #PREVIEWSTART:60
 #COVER:cover.png
 #BPM:%s
@@ -281,7 +283,6 @@ func fix_overlapping_lines(text: String) -> String:
 
 func get_beats_to_start() -> int:
 	var phrase : Phrase = phrases[0];
-	print(Phrase.EXTRA_RECORDING_START_TIME * Config.BPM_MULTIPLIER);
 	return phrase.syllables[0].start_beats;
 
 func eat_hyphenation(lines : Array) -> void:
