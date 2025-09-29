@@ -25,6 +25,8 @@ var current_phrase : Phrase;
 var edition : String;
 var language : String;
 var end_beats : int;
+var song_name_raw : String;
+var all_creators : String;
 
 func play() -> void:
 	phrase_index = 0;
@@ -145,12 +147,14 @@ func eat_pitches(pitches : Array) -> void:
 			syllable = s;
 			while pitch_index < pitches.size():
 				pitch = pitches[pitch_index];
+				if pitch.pitch <= -12 or pitch.pitch >= 12:
+					pitch_index += 1;
+					continue;
 				if pitch.startTime >= syllable.start_time:
 					syllable.pitch = pitch.pitch;
-					pitch_index += 1;
 					break;
 				pitch_index += 1;
-		phrase.combine_syllables();
+		#phrase.combine_syllables();
 	end_beats = pitches.back().endTime * Config.BPM_MULTIPLIER;
 
 func write_ultrastar() -> void:
@@ -169,32 +173,45 @@ func to_ultrastar() -> String:
 	var next_begins : int;
 	var syllable : Syllable;
 	var text_on_this_line : int;
+	var is_first_syllable : bool;
+	var extra_phrase_length : int;
 	text += "#ARTIST:%s
 #TITLE:%s
 #EDITION:%s
 #LANGUAGE:%s
-#CREATOR:Eero Laine
-#VIDEO:%s – %s.mp4
-#MP3:%s – %s.mp3
+#CREATOR:saunaeero
+#VIDEO:%s - %s.mp4
+#MP3:%s - %s.mp3
 #PREVIEWSTART:60
 #COVER:cover.png
 #BPM:%s
-#GAP:%s" % [created_by, name_of_the_song, edition, language, created_by, name_of_the_song, created_by, name_of_the_song, Config.BPM, gap];
+#GAP:%s" % [all_creators, song_name_raw, edition, language, created_by, name_of_the_song, created_by, name_of_the_song, Config.BPM, gap];
 	for p in phrases:
 		phrase = p;
+		is_first_syllable = true;
+		extra_phrase_length = 0;
 		for s in phrase.syllables:
 			syllable = s;
-			text += "\n: %s %s %s %s" % [
-				syllable.start_beats - int(0.5 * Config.BPM_MULTIPLIER),
-				syllable.beats_duration,
+			text += "\n%s %s %s %s %s" % [
+				syllable.line_symbol,
+				syllable.start_beats - int(Config.BPM_MULTIPLIER),
+				int(max(1, syllable.beats_duration * Config.NOTE_LENGTH)),
 				syllable.pitch,
-				replace_macrons_with_tilde(syllable.text)
+				replace_macrons_with_tilde((" " if is_first_syllable else "") + syllable.text + (" " if syllable.ends_with_space else ""))
 			];
-		next_begins = phrases[index + 1].syllables[0].start_beats - int(0.5 * Config.BPM_MULTIPLIER) if index < phrases.size() - 1 else end_beats;
-		text_on_this_line += phrase.text.length();
+			if is_first_syllable:
+				is_first_syllable = false;
+			elif !syllable.ends_with_space:
+				extra_phrase_length += 1;
+			if syllable.ends_with_space:
+				is_first_syllable = true;
+		next_begins = phrases[index + 1].syllables[0].start_beats - int(Config.DELAY_START * Config.BPM_MULTIPLIER) if index < phrases.size() - 1 else end_beats;
+		text_on_this_line += phrase.text.length() + extra_phrase_length;
 		if text_on_this_line > 30:
 			text += "\n- %s" % [next_begins];
 			text_on_this_line = 0;
+		else:
+			text += " ";
 		index += 1;
 	text += "\nE";
 	text = fix_overlapping_lines(text);

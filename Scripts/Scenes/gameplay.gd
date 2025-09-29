@@ -25,6 +25,14 @@ func music_init(song_id : int) -> void:
 		lyrics.edition = song.edition;
 	if song.has("language"):
 		lyrics.language = song.language;
+	if song.has("song_name_raw"):
+		lyrics.song_name_raw = song.song_name_raw;
+	else:
+		lyrics.song_name_raw = song.name;
+	if song.has("all_creators"):
+		lyrics.all_creators = song.all_creators;
+	else:
+		lyrics.all_creators = song.artist;
 	music_player.stream = stream;
 	read_hyphenations(song_id, lyrics);
 	read_pitches(song_id, lyrics);

@@ -26,7 +26,6 @@ static func from_parser(parser : XMLParser) -> Phrase:
 	return phrase;
 
 func read_parser(parser : XMLParser) -> void:
-	print(999, parser.get_attribute_value(0));
 	text = parser.get_attribute_value(0);
 	if !text.is_empty() and text[0] == "*":
 		color = "a7efab";
@@ -79,17 +78,22 @@ func eat_hyphonation(lines : Array, line_index : int) -> int:
 	var index : int;
 	var letters_index : int;
 	while line_index + index < lines.size():
-		syllable_text = lines[line_index + index];
 		syllable = Syllable.new();
+		syllable_text = lines[line_index + index];
+		if syllable_text[0] == "*":
+			syllable_text = syllable_text.substr(1);
+			syllable.line_symbol = "*";
+		if syllable_text[0] == "@":
+			syllable_text = syllable_text.substr(1);
+			syllable.line_symbol = "F";
 		syllable.text = syllable_text;
-		printt(syllable_text, 222, text, letters.size());
 		syllable.start_time = real_letters[real_letters.size() - lenght_left].time;
 		lenght_left -= syllable_text.length();
 		letters_index += syllable_text.length();
 		if letters.size() < letters_index and letters[letters_index].char == " ":
 			letters_index += 1;
 		syllable.end_time = real_letters[real_letters.size() - lenght_left].time if real_letters.size() - lenght_left < real_letters.size() else end_time;
-		syllable.ends_with_space = letters_index + 1 < letters.size() and letters[letters_index + 1].char == " ";
+		syllable.ends_with_space = letters_index < text.length() and text[letters_index] == " ";
 		syllable.calculate_beats();
 		syllables.append(syllable);
 		index += 1;

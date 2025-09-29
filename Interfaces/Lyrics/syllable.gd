@@ -9,6 +9,7 @@ var end_beats : int;
 var beats_duration : int;
 var pitch : int;
 var ends_with_space : bool;
+var line_symbol : String = ":";
 
 func calculate_beats() -> void:
 	start_beats = start_time * Config.BPM_MULTIPLIER;
