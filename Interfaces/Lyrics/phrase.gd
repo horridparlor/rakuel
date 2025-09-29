@@ -80,12 +80,18 @@ func eat_hyphonation(lines : Array, line_index : int) -> int:
 	while line_index + index < lines.size():
 		syllable = Syllable.new();
 		syllable_text = lines[line_index + index];
+		if syllable_text[0] == "!":
+			syllable_text = syllable_text.substr(1);
+			syllable.ends_line = true;
 		if syllable_text[0] == "*":
 			syllable_text = syllable_text.substr(1);
 			syllable.line_symbol = "*";
 		if syllable_text[0] == "@":
 			syllable_text = syllable_text.substr(1);
 			syllable.line_symbol = "F";
+		if syllable_text[0] == "#":
+			syllable_text = syllable_text.substr(1);
+			syllable.is_max_pitch = true;
 		syllable.text = syllable_text;
 		syllable.start_time = real_letters[real_letters.size() - lenght_left].time;
 		lenght_left -= syllable_text.length();

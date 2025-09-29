@@ -196,7 +196,7 @@ func to_ultrastar() -> String:
 				syllable.line_symbol,
 				syllable.start_beats - int(Config.BPM_MULTIPLIER),
 				int(max(1, syllable.beats_duration * Config.NOTE_LENGTH)),
-				syllable.pitch,
+				12 if syllable.is_max_pitch else syllable.pitch,
 				replace_macrons_with_tilde((" " if is_first_syllable else "") + syllable.text + (" " if syllable.ends_with_space else ""))
 			];
 			if is_first_syllable:
@@ -205,9 +205,11 @@ func to_ultrastar() -> String:
 				extra_phrase_length += 1;
 			if syllable.ends_with_space:
 				is_first_syllable = true;
+			if syllable.ends_line:
+				text_on_this_line += 99;
 		next_begins = phrases[index + 1].syllables[0].start_beats - int(Config.DELAY_START * Config.BPM_MULTIPLIER) if index < phrases.size() - 1 else end_beats;
 		text_on_this_line += phrase.text.length() + extra_phrase_length;
-		if text_on_this_line > 30:
+		if text_on_this_line > 45:
 			text += "\n- %s" % [next_begins];
 			text_on_this_line = 0;
 		else:
@@ -215,7 +217,7 @@ func to_ultrastar() -> String:
 		index += 1;
 	text += "\nE";
 	text = fix_overlapping_lines(text);
-	return text;
+	return text.replace("5\u0004", "e");
 
 func replace_macrons_with_tilde(s : String) -> String:
 	var map: Dictionary = {
